@@ -1,0 +1,14 @@
+;;  File: test.glm
+;;
+
+* name "test.glm"
+* desc "The Global Mapping File (GLM)for the Arabic MGB2 task scoring"
+* format = 'NIST1'
+* max_nrules = '2500'
+* copy_no_hit = 'T'
+* case_sensitive = 'F'
+
+;; Arabic Numbers 
+كدا => كدا  / [ ] __ [ ] 
+دلوقتي =>  الوقت / [ ] __ [ ] 
+;; END of GLM file
