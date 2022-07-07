@@ -123,11 +123,26 @@ vowels = ['i',
 regex_pattern = re.compile(r'['+"".join(vowels)+']')
 
 
+def remove_punctuations(text):
+    """ This function  removes all punctuations except the verbatim """
+
+    arabic_punctuations = '''`÷×؛<>_()*&^%][ـ،/:"؟.,'{}~¦+|!”…“–ـ'''
+    english_punctuations = string.punctuation
+    # remove all non verbatim punctuations
+    all_punctuations = set(arabic_punctuations + english_punctuations)
+
+    for p in all_punctuations:
+        if p in text:
+            text = text.replace(p, '')
+    return text
+
+
 def clean_text(text):
     text = re.sub('[أى]', 'ا', text)
     text = re.sub('ة', 'ت', text)
     text = re.sub('[إئ]', 'i', text)
     text = remove_diacritics(text)
+    text = remove_punctuations(text)
 
     return text
 
