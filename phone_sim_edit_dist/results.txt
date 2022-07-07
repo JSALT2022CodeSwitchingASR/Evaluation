@@ -1,0 +1,19 @@
+ID: 1
+REF: a kind of
+HYP: ا كايند اوف
+REF phone: əkajndʌv
+HYP phone: akaindauf
+PER: 0.625 PSD: 0.25012 PSD_norm: 0.213
+
+ID: 2
+REF: لا في at least a chance نحاول مرة extra معاه يمكن يبدأ يبقى more flexible
+HYP: لا في atlista chance نحاول مرة extra معي يمكن يبدأ يبقى more flexible
+REF phone: lafiætlistəʧænsnħaulmrtɛkstɹəmʕahimknibdaibqamɔɹflɛksəbəl
+HYP phone: lafiʧænsnħaulmrtɛkstɹəmʕiimknibdaibqamɔɹflɛksəbəl
+PER: 0.15789 PSD: 0.14488 PSD_norm: 0.13514
+
+
+
+Mean PER_tot:     0.21538
+ Mean PSD_tot:      0.15783
+ Mean PSD_norm_tot: 0.1444
