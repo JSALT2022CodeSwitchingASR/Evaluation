@@ -127,6 +127,7 @@ def clean_text(text):
     text = re.sub('[أى]', 'ا', text)
     text = re.sub('ة', 'ت', text)
     text = re.sub('[إئ]', 'i', text)
+    text = remove_diacritics(text)
 
     return text
 
@@ -349,7 +350,9 @@ class PhoneticEditDistance(Levenshtein):
         """
 
         ins_cost, del_cost, sub_cost, trans_cost = self._cost
-
+        # remove spaces
+        src = re.sub('[\s]', '', src)
+        tar = re.sub('[\s]', '', tar)
         src_len = len(src)
         tar_len = len(tar)
 
@@ -425,6 +428,19 @@ class PhoneticEditDistance(Levenshtein):
         return d_mat
 
 
+def remove_diacritics(text):
+    # https://unicode-table.com/en/blocks/arabic/
+    return re.sub(r'[\u064B-\u0652\u06D4\u0670\u0674\u06D5-\u06ED]+', '', text)
+
+
+def remove_en_characters(text):
+    return re.sub(r'[^\u0600-\u06FF\s]+', '', text)
+
+
+def remove_ar_characters(text):
+    return re.sub(r'[\u0600-\u06FF\s]+', '', text)
+
+
 def read_tsv(data_file):
     text_data = list()
     infile = open(data_file, encoding='utf-8')
@@ -432,7 +448,7 @@ def read_tsv(data_file):
         if not line.strip():
             continue
         line = line.strip()
-        #text = line.split('\t')
+        # text = line.split('\t')
         text_data.append(line)
     return text_data
 
@@ -466,8 +482,8 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
     """
     epi_en = epitran.Epitran('eng-Latn', ligatures=True)
     epi_ar = epitran.Epitran('ara-Arab', ligatures=True)
-    text_hyp = unicodedata.normalize('NFC', clean_text(text_hyp))
-    text_ref = unicodedata.normalize('NFC', clean_text(text_ref))
+    text_hyp = unicodedata.normalize('NFC', clean_text(text_hyp.lower()))
+    text_ref = unicodedata.normalize('NFC', clean_text(text_ref.lower()))
 
     hyp_ = []
     ref_ = []
@@ -482,6 +498,41 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
             hyp_norm.append(normalize_phone(
                 epi_en.transliterate(token), remove_vow=True))
             hyp_.append(normalize_phone(epi_en.transliterate(token)))
+        else:
+
+            char_idx = 0
+            # ar_en_result = "".join(['x']*len(token))
+            while char_idx < len(token):
+                start_ar = char_idx
+                if remove_en_characters(token[char_idx]) != '':
+
+                    while remove_en_characters(token[char_idx]) != '' and char_idx < len(token)-1:
+
+                        # ar_str += token[char_idx]
+                        char_idx += 1
+                    if (char_idx+1) == len(token):
+                        char_idx += 1
+                    hyp_.append(normalize_phone(epi_ar.transliterate(
+                                                token[start_ar:char_idx])))
+                    # ar_en_result = ar_en_result[:start_ar] + ar_str + ar_en_result[start_ar + len(ar_str):]
+                    hyp_norm.append(normalize_phone(
+                        epi_ar.transliterate(token[start_ar:char_idx]), remove_vow=True))
+                    char_idx += 1
+
+                elif remove_ar_characters(token[char_idx]) != '':
+
+                    while remove_ar_characters(token[char_idx]) != '' and char_idx < len(token)-1:
+
+                        # ar_str += token[char_idx]
+                        char_idx += 1
+                    if (char_idx+1) == len(token):
+                        char_idx += 1
+                    hyp_.append(normalize_phone(epi_en.transliterate(
+                        token[start_ar:char_idx])))
+                    # ar_en_result = ar_en_result[:start_ar] + ar_str + ar_en_result[start_ar + len(ar_str):]
+                    hyp_norm.append(normalize_phone(
+                        epi_en.transliterate(token[start_ar:char_idx]), remove_vow=True))
+                    char_idx += 1
 
     for token in text_ref.split():
         if isArabic(token):
@@ -492,13 +543,46 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
             ref_norm.append(normalize_phone(
                 epi_en.transliterate(token), remove_vow=True))
             ref_.append(normalize_phone(epi_en.transliterate(token)))
-    # pdb.set_trace()
-    hyp = "".join(hyp_)
-    ref = "".join(ref_)
-    hyp_norm = "".join(hyp_norm)
-    ref_norm = "".join(ref_norm)
-    tar_len = len(ref)
-    tar_len_norm = len(ref_norm)
+        else:
+
+            char_idx = 0
+            # ar_en_result = "".join(['x']*len(token))
+            while char_idx < len(token):
+                start_ar = char_idx
+                if remove_en_characters(token[char_idx]) != '':
+                    while remove_en_characters(token[char_idx]) != '' and char_idx < len(token)-1:
+
+                        # ar_str += token[char_idx]
+                        char_idx += 1
+                    if (char_idx+1) == len(token):
+                        char_idx += 1
+                    ref_.append(normalize_phone(epi_ar.transliterate(
+                        token[start_ar:char_idx+1])))
+                    # ar_en_result = ar_en_result[:start_ar] + ar_str + ar_en_result[start_ar + len(ar_str):]
+                    ref_norm.append(normalize_phone(
+                        epi_ar.transliterate(token[start_ar:char_idx]), remove_vow=True))
+                    char_idx += 1
+
+                elif remove_ar_characters(token[char_idx]) != '':
+                    while remove_ar_characters(token[char_idx]) != '' and char_idx < len(token)-1:
+
+                        # ar_str += token[char_idx]
+                        char_idx += 1
+                    if (char_idx+1) == len(token):
+                        char_idx += 1
+                    ref_.append(normalize_phone(epi_en.transliterate(
+                        token[start_ar:char_idx])))
+                    # ar_en_result = ar_en_result[:start_ar] + ar_str + ar_en_result[start_ar + len(ar_str):]
+                    ref_norm.append(normalize_phone(
+                        epi_en.transliterate(token[start_ar:char_idx]), remove_vow=True))
+                    char_idx += 1
+
+    tar_len = len("".join(ref_))
+    tar_len_norm = len("".join(ref_norm))
+    hyp = " ".join(hyp_)
+    ref = " ".join(ref_)
+    hyp_norm = " ".join(hyp_norm)
+    ref_norm = " ".join(ref_norm)
     psd, per = phonetic.dist_abs_(hyp, ref)
     psd_norm, _ = phonetic.dist_abs_(hyp_norm, ref_norm)
 
