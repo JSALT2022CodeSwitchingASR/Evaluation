@@ -636,7 +636,7 @@ def main():
     with open("results.txt", "w") as f:
         for key in hyp_dict:
 
-            phonetic = PhoneticEditDistance(cost=(1, 1, 2, 0.33333))
+            phonetic = PhoneticEditDistance(cost=(1, 1, 4, 0.33333))
             metrics, lengths, hyp_phone, ref_phone = phonetic_sim_dist(
                 phonetic, hyp_dict[key], ref_dict[key])
 
