@@ -514,7 +514,7 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
                 epi_en.transliterate(token), remove_vow=True))
             hyp_.append(normalize_phone(epi_en.transliterate(token)))
         else:
-
+            pdb.set_trace()
             char_idx = 0
             # ar_en_result = "".join(['x']*len(token))
             while char_idx < len(token):
@@ -532,7 +532,6 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
                     # ar_en_result = ar_en_result[:start_ar] + ar_str + ar_en_result[start_ar + len(ar_str):]
                     hyp_norm.append(normalize_phone(
                         epi_ar.transliterate(token[start_ar:char_idx]), remove_vow=True))
-                    char_idx += 1
 
                 elif remove_ar_characters(token[char_idx]) != '':
 
@@ -547,7 +546,6 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
                     # ar_en_result = ar_en_result[:start_ar] + ar_str + ar_en_result[start_ar + len(ar_str):]
                     hyp_norm.append(normalize_phone(
                         epi_en.transliterate(token[start_ar:char_idx]), remove_vow=True))
-                    char_idx += 1
 
     for token in text_ref.split():
         if isArabic(token):
@@ -559,14 +557,13 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
                 epi_en.transliterate(token), remove_vow=True))
             ref_.append(normalize_phone(epi_en.transliterate(token)))
         else:
-
             char_idx = 0
             # ar_en_result = "".join(['x']*len(token))
             while char_idx < len(token):
+
                 start_ar = char_idx
                 if remove_en_characters(token[char_idx]) != '':
                     while remove_en_characters(token[char_idx]) != '' and char_idx < len(token)-1:
-
                         # ar_str += token[char_idx]
                         char_idx += 1
                     if (char_idx+1) == len(token):
@@ -576,7 +573,6 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
                     # ar_en_result = ar_en_result[:start_ar] + ar_str + ar_en_result[start_ar + len(ar_str):]
                     ref_norm.append(normalize_phone(
                         epi_ar.transliterate(token[start_ar:char_idx]), remove_vow=True))
-                    char_idx += 1
 
                 elif remove_ar_characters(token[char_idx]) != '':
                     while remove_ar_characters(token[char_idx]) != '' and char_idx < len(token)-1:
@@ -590,7 +586,6 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
                     # ar_en_result = ar_en_result[:start_ar] + ar_str + ar_en_result[start_ar + len(ar_str):]
                     ref_norm.append(normalize_phone(
                         epi_en.transliterate(token[start_ar:char_idx]), remove_vow=True))
-                    char_idx += 1
 
     tar_len = len("".join(ref_))
     tar_len_norm = len("".join(ref_norm))
