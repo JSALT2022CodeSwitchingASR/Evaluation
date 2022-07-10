@@ -43,3 +43,6 @@ HYP phone: lafiʧænsnħaulmrtɛkstɹəmʕiimknibdaibqamɔɹflɛksəbəl
 PER: 0.15789 PSD: 0.14488 PSD_norm: 0.13514
 ```
 
+4. To run the pipeline 
+
+`./run.sh data/dir`
