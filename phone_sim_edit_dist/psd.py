@@ -10,6 +10,9 @@ import sys
 import unicodedata
 import numpy as np
 import pandas as pd
+import tqdm
+import os.path
+
 from typing import (
     Any,
     Callable,
@@ -372,11 +375,11 @@ class PhoneticEditDistance(Levenshtein):
         tar_len = len(tar)
 
         if src == tar:
-            return 0
+            return 0, 0
         if not src:
-            return ins_cost * tar_len
+            return ins_cost * tar_len, ins_cost * tar_len
         if not tar:
-            return del_cost * src_len
+            return del_cost * src_len, del_cost * src_len
 
         d_mat = cast(
             np.ndarray, self._alignment_matrix_sim(src, tar, backtrace=False)
@@ -460,8 +463,6 @@ def read_tsv(data_file):
     text_data = list()
     infile = open(data_file, encoding='utf-8')
     for line in infile:
-        if not line.strip():
-            continue
         line = line.strip()
         # text = line.split('\t')
         text_data.append(line)
@@ -480,7 +481,7 @@ def isArabic(word):
     return (arabic_re.match(word) is not None)
 
 
-def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
+def phonetic_sim_dist(phonetic, text_hyp, text_ref, epi_en, epi_ar, debug=False):
     """
     This function calculates the  similarity between the strings
     of phones
@@ -495,8 +496,6 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
     return:
         phone smilarity distance (float)
     """
-    epi_en = epitran.Epitran('eng-Latn', ligatures=True)
-    epi_ar = epitran.Epitran('ara-Arab', ligatures=True)
     text_hyp = unicodedata.normalize('NFC', clean_text(text_hyp.lower()))
     text_ref = unicodedata.normalize('NFC', clean_text(text_ref.lower()))
 
@@ -514,7 +513,7 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
                 epi_en.transliterate(token), remove_vow=True))
             hyp_.append(normalize_phone(epi_en.transliterate(token)))
         else:
-            pdb.set_trace()
+
             char_idx = 0
             # ar_en_result = "".join(['x']*len(token))
             while char_idx < len(token):
@@ -593,6 +592,7 @@ def phonetic_sim_dist(phonetic, text_hyp, text_ref, debug=False):
     ref = " ".join(ref_)
     hyp_norm = " ".join(hyp_norm)
     ref_norm = " ".join(ref_norm)
+    # pdb.set_trace()
     psd, per = phonetic.dist_abs_(hyp, ref)
     psd_norm, _ = phonetic.dist_abs_(hyp_norm, ref_norm)
 
@@ -612,6 +612,7 @@ def main():
     ref_file = sys.argv[2]  # fer transcription file with format:  <id> <text>
     hyp_data = read_tsv(hyp_file)
     ref_data = read_tsv(ref_file)
+
     hyp_dict = {}
     ref_dict = {}
     total_len = 0
@@ -619,30 +620,45 @@ def main():
     PER_tot = 0
     PSD_tot = 0
     PSD_norm_tot = 0
+    epi_en = epitran.Epitran('eng-Latn', ligatures=True)
+    epi_ar = epitran.Epitran('ara-Arab', ligatures=True)
     # read hyp
     for i in range(len(hyp_data)):
-        # pdb.set_trace()
+        #
         hyp_dict[hyp_data[i].split()[0]] = " ".join(hyp_data[i].split()[1:])
 
     for i in range(len(ref_data)):
         # pdb.set_trace()
         ref_dict[ref_data[i].split()[0]] = " ".join(ref_data[i].split()[1:])
 
-    with open("results.txt", "w") as f:
-        for key in hyp_dict:
-
-            phonetic = PhoneticEditDistance(cost=(1, 1, 4, 0.33333))
+    phonetic = PhoneticEditDistance(cost=(1, 1, 16, 0.33333))
+    hyp_name = os.path.basename(hyp_file).split('.')[0]
+    ref_name = os.path.basename(ref_file).split('.')[0]
+    with open(f"results_{hyp_name}_{ref_name}.txt", "w") as f, open(f'tab_sep_res_{hyp_name}_{ref_name}.txt', 'w') as b:
+        for key in tqdm.tqdm(hyp_dict):
+            # print(hyp_dict[key], ref_dict[key])
+            # pdb.set_trace()
             metrics, lengths, hyp_phone, ref_phone = phonetic_sim_dist(
-                phonetic, hyp_dict[key], ref_dict[key])
+                phonetic, hyp_dict[key], ref_dict[key], epi_en, epi_ar)
 
             f.write("ID: " + key+"\n")
             f.write("REF: " + ref_dict[key]+"\n")
             f.write("HYP: " + hyp_dict[key]+"\n")
             f.write("REF phone: " + ref_phone + "\n")
             f.write("HYP phone: " + hyp_phone + "\n")
-            f.write("PER: " + str(round(metrics[2]/lengths[2], 5))+" ")
-            f.write("PSD: " + str(round(metrics[0]/lengths[0], 5))+" ")
-            f.write("PSD_norm: " + str(round(metrics[1]/lengths[1], 5))+"\n\n")
+            f.write(
+                "PER: " + str(round(metrics[2]/lengths[2], 5) if lengths[2] != 0 else metrics[2])+" ")
+            f.write(
+                "PSD: " + str(round(metrics[0]/lengths[0], 5) if lengths[0] != 0 else metrics[0])+" ")
+            f.write(
+                "PSD_norm: " + str(round(metrics[1]/lengths[1], 5) if lengths[1] != 0 else metrics[1])+"\n\n")
+
+            b.write(str(round(metrics[2]/lengths[2], 5)
+                    if lengths[2] != 0 else metrics[2])+"\t")
+            b.write(str(round(metrics[0]/lengths[0], 5)
+                    if lengths[0] != 0 else metrics[0])+"\t")
+            b.write(str(round(metrics[1]/lengths[1], 5)
+                    if lengths[1] != 0 else metrics[1])+"\n")
 
             PER_tot += metrics[2]
             PSD_tot += metrics[0]

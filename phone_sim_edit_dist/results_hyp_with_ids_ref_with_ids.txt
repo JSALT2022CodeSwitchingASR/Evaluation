@@ -1,0 +1,1426 @@
+ID: S05-C03-R05_059597-060193_E2EsysA_Annotator1_hyp
+REF: الشغل فى ال part time زى كان ال internship كان نفس الموضوع كان تمن ساعات فى اليوم خمس ايام فى الأسبوع
+HYP: الشغل في البارتايمز زي اللي كان الإنترنشيب كان نفس الموضوع كان تمن ساعات في اليوم خمس تيام في الأسبوع
+REF phone: alʃɣl fa al pɑɹt tajm za kan al ɪntɹ̩nʃɪp kan nfs almuduʕ kan tmn saʕat fa alium xms aiam fa alasbuʕ
+HYP phone: alʃɣl fi albartaimz zi alli kan al aj ntrnʃib kan nfs almuduʕ kan tmn saʕat fi alium xms tiam fi alasbuʕ
+PER: 0.25 PSD: 0.3024 PSD_norm: 0.21338
+
+ID: S09-C03-R09_090718-091286_E2EsysS_Annotator1_hyp
+REF: لأ فى at least a chance نحاول مرة extra معاه يمكن يبدأ يبقى more flexible يعنى
+HYP: لا في atlista chance نحاول مرة extra معي يمكن يبدأ يبقى more flexible
+REF phone: la fa æt list ə ʧæns nħaul mrt ɛkstɹə mʕah imkn ibda ibqa mɔɹ flɛksəbəl iʕna
+HYP phone: la fi ætlɪstə ʧæns nħaul mrt ɛkstɹə mʕi imkn ibda ibqa mɔɹ flɛksəbəl
+PER: 0.13115 PSD: 0.16446 PSD_norm: 0.07692
+
+ID: S09-C03-R09_058730-059035_E2EsysA_Annotator1_hyp
+REF: هى مجرد يعنى leisure time
+HYP: هي مجرد يعني نادر times
+REF phone: ha mʤrd iʕna lɛʒɹ̩ tajm
+HYP phone: hi mʤrd iʕni nadr tajmz
+PER: 0.42105 PSD: 0.58063 PSD_norm: 0.50229
+
+ID: S02-C03-R02_041575-042746_E2EsysA_Annotator1_hyp
+REF: i have to say اخر سفرية لى اللى هى فى المانيا علشان اشتغلت فيها كويس اوى و كانت يعنى كانت very fruitful
+HYP: أي هفتو ساي آخر سفرية ليا اللي هي في ألمانيا علشان اشتغلت فيها كويس قوي وكانت يعني كانت very fruitفل
+REF phone: aj hæv tə sej axr sfrit la alla ha fa almania ʕlʃan aʃtɣlt fiha kuis aua u kant iʕna kant vɛɹi fɹutfəl
+HYP phone: ai hftu sai aٓxr sfrit lia alli hi fi almania ʕlʃan aʃtɣlt fiha kuis qui ukant iʕni kant vɛɹi fɹut fl
+PER: 0.18519 PSD: 0.28195 PSD_norm: 0.09408
+
+ID: I02-C03-R10_065806-065900_E2EsysS_Annotator1_hyp
+REF: و ليه
+HYP: وليه
+REF phone: u lih
+HYP phone: ulih
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S09-C03-R09_058730-059035_E2EsysS_Annotator1_hyp
+REF: هى مجرد يعنى leisure time
+HYP: هي مجرد يعني لاجر تايمز
+REF phone: ha mʤrd iʕna lɛʒɹ̩ tajm
+HYP phone: hi mʤrd iʕni laʤr taimz
+PER: 0.42105 PSD: 0.54326 PSD_norm: 0.34329
+
+ID: S07-C03-R07_056518-056628_E2EsysA_Annotator1_hyp
+REF: و انا مابحبش ال academia
+HYP: وأنا محبش الأكاديمية
+REF phone: u ana mabħbʃ al ækədimiə
+HYP phone: uana mħbʃ alakadimit
+PER: 0.25 PSD: 0.3161 PSD_norm: 0.2
+
+ID: S10-C03-R10_021791-022231_E2EsysS_Annotator1_hyp
+REF: ok مش اوى يعنى
+HYP: ok مش قوي
+REF phone: owkej mʃ aua iʕna
+HYP phone: owkej mʃ qui
+PER: 0.35714 PSD: 0.42857 PSD_norm: 0.42857
+
+ID: I01-C03-R02_017724-018066_HMMDNN_Annotator1_hyp
+REF: فى حد فى حاجة فى حد معين ولا مافيش
+HYP: في حد في حاجة ما فيه حد معين ولم مافيش
+REF phone: fa ħd fa ħaʤt fa ħd mʕin ula mafiʃ
+HYP phone: fi ħd fi ħaʤt ma fih ħd mʕin ulm mafiʃ
+PER: 0.26923 PSD: 0.42308 PSD_norm: 0.17647
+
+ID: S10-C03-R10_034245-035673_E2EsysA_Annotator1_hyp
+REF: hyperloop ده زى method transportation كده بتبقى زى tube مقفولة و ال pressure فيها قليل شبه vacuum و بيمشى فيها pods كده بتنقل الناس من مكان لمكان
+HYP: فاللوب ده زي transportation method كده تبقى زي tube مقفولة وال pressure فيها قليل شبه vacuum ويمشي فيها puts كده يعني تنقل الناس من مكان لمكان
+REF phone: hajpɹ̩lup dh za mɛθəd tɹænspɹ̩tejʃən kdh btbqa za tub mqfult u al pɹɛʃɹ̩ fiha qlil ʃbh vækjum u bimʃa fiha pɑdz kdh btnql alnas mn mkan lmkan
+HYP phone: fallub dh zi tɹænspɹ̩tejʃən mɛθəd kdh tbqa zi tub mqfult ual pɹɛʃɹ̩ fiha qlil ʃbh vækjum uimʃi fiha pʊts kdh iʕni tnql alnas mn mkan lmkan
+PER: 0.24348 PSD: 0.27096 PSD_norm: 0.20113
+
+ID: I01-C03-R05_009928-010402_E2EsysS_Annotator1_hyp
+REF: okay السؤال التانى كان ايه ال bachelor بتاعك بيتكلم عن ايه بتعمل ايه و
+HYP: ok السؤال الثاني كان إيه الباتش اللي بتاعك بيكلم عن إيه بتعمل إيه
+REF phone: owkej alsual altana kan aih al bæʧəlɹ̩ btaʕk bitklm ʕn aih btʕml aih u
+HYP phone: owkej alsual alθani kan aj ih albatʃ alli btaʕk biklm ʕn aj ih btʕml aj ih
+PER: 0.22807 PSD: 0.25691 PSD_norm: 0.23117
+
+ID: S02-C03-R02_001422-001642_E2EsysA_Annotator1_hyp
+REF: و اتولدت فين
+HYP: وتولدت فين
+REF phone: u atuldt fin
+HYP phone: utuldt fin
+PER: 0.1 PSD: 0.1 PSD_norm: 0.0
+
+ID: S05-C03-R05_017927-018545_E2EsysA_Annotator1_hyp
+REF: يدوبك اكل و اتفرج على اى حاجة ع ال net ع ال youtube facebook اى حاجة و بعد كده ادخل انام
+HYP: يا دوبك يا كل وأتفرج على أي حاجة ع النت ع اليوتيوب فيسبوك أي حاجة وبعد كده أدخل أنام
+REF phone: idubk akl u atfrʤ ʕla aa ħaʤt ʕ al nɛt ʕ al jutub fejsbʊk aa ħaʤt u bʕd kdh adxl anam
+HYP phone: ia dubk ia kl uatfrʤ ʕla ai ħaʤt ʕ alnt ʕ aliutiub fisbuk ai ħaʤt ubʕd kdh adxl anam
+PER: 0.15385 PSD: 0.19305 PSD_norm: 0.04762
+
+ID: S05-C03-R05_030183-030854_HMMDNN_Annotator1_hyp
+REF: كانت هى بتبعتلنا زى designs و احنا بنعمل زى furniture by using cards
+HYP: آ كتير تبعث لنا زي designs وإحنا بنعمل زي furniture by using cards
+REF phone: kant ha btbʕtlna za dɪzajnz u aħna bnʕml za fɹ̩nɪʧɹ̩ baj juzɪŋ kɑɹdz
+HYP phone: aٓ ktir tbʕθ lna zi dɪzajnz u aj ħna bnʕml zi fɹ̩nɪʧɹ̩ baj juzɪŋ kɑɹdz
+PER: 0.17857 PSD: 0.26843 PSD_norm: 0.17151
+
+ID: S07-C03-R07_104793-105923_E2EsysS_Annotator1_hyp
+REF: اينعم ان انت تبقى يعنى محبوب وسط زمايلك فى الشغل دى حاجة obviously something that you would love to find and something that you would seek بس هى مستحيلة
+HYP: آ معي نعم إن أنت طبعا يعني محبوب بس زمانك في الشغلة دي حاجة أ بس لي something that you وظفت و find and something that you would seeك بس أ هي مستحيلة
+REF phone: ainʕm an ant tbqa iʕna mħbub ust zmailk fa alʃɣl da ħaʤt ɑbviəsli sʌmθɪŋ ðæt ju wʊd lʌv tə fajnd ænd sʌmθɪŋ ðæt ju wʊd sik bs ha mstħilt
+HYP phone: aٓ mʕi nʕm ajن ant tbʕa iʕni mħbub bs zmank fi alʃɣlt di ħaʤt a bs li sʌmθɪŋ ðæt ju uðft u fajnd ænd sʌmθɪŋ ðæt ju wʊd siك bs a hi mstħilt
+PER: 0.25926 PSD: 0.34646 PSD_norm: 0.2715
+
+ID: I02-C03-R05_022291-023002_E2EsysA_Annotator1_hyp
+REF: طيب ايه اكتر كتاب قريته و اثر فيك و عجبك و كان بلغة ايه عربى english ولا كان ايه
+HYP: طيب إيه أكتر كتاب قريته وأثر فيك وعجبك وكان بلغة إيه عربي إنجلش ولا كان إيه
+REF phone: tib aih aktr ktab qrith u aθr fik u ʕʤbk u kan blɣt aih ʕrba ɪŋɡlɪʃ ula kan aih
+HYP phone: tib aj ih aktr ktab qrith uaθr fik uʕʤbk ukan blɣt aj ih ʕrbi aj nʤlʃ ula kan aj ih
+PER: 0.13115 PSD: 0.18033 PSD_norm: 0.20513
+
+ID: I02-C03-R14_015995-016546_HMMDNN_Annotator1_hyp
+REF: طيب عندك هوايات معينة بتحب تمارسها فى وقت فراغك او فى اى وقت
+HYP: طيب عندك هوايات معينة بتحب تمارسها فوت فراغ أو في أي وقت
+REF phone: tib ʕndk huaiat mʕint btħb tmarsha fa uqt fraɣk au fa aa uqt
+HYP phone: tib ʕndk huaiat mʕint btħb tmarsha fut fraɣ au fi ai uqt
+PER: 0.10417 PSD: 0.14583 PSD_norm: 0.06452
+
+ID: I01-C03-R02_079722-080496_E2EsysS_Annotator1_hyp
+REF: مثلا مابتحسيش واحنا بنتكلم مع ناس social level اقل انه انا مش عارف اتكلم بنفس الطريقة اللى بتكلم معاها مع كل الناس مثلا
+HYP: مثلا لا بالحث إنه إحنا نتكلم عن social لفل أقل إنه أنا مش عارف أتكلم بنفس الطريقة اللي بتكلم معها مع كل الناس مثلا
+REF phone: mθla mabtħsiʃ uaħna bntklm mʕ nas sowʃəl lɛvəl aql anh ana mʃ ʕarf atklm bnfs altriqt alla btklm mʕaha mʕ kl alnas mθla
+HYP phone: mθla la balħθ aj nh aj ħna ntklm ʕn sowʃəl lfl aql aj nh ana mʃ ʕarf atklm bnfs altriqt alli btklm mʕha mʕ kl alnas mθla
+PER: 0.19588 PSD: 0.25307 PSD_norm: 0.2049
+
+ID: S05-C03-R05_027799-028163_HMMDNN_Annotator1_hyp
+REF: ok من ساعة ما دخلت الجامعة انا فى two clubs
+HYP: أوكي من ساعة ما دخلت الجامعة افتوك لوبس
+REF phone: owkej mn saʕt ma dxlt alʤamʕt ana fa tu klʌbz
+HYP phone: auki mn saʕt ma dxlt alʤamʕt aftuk lubs
+PER: 0.25 PSD: 0.26522 PSD_norm: 0.14064
+
+ID: S02-C03-R02_010793-010920_E2EsysA_Annotator1_hyp
+REF: ده بتاع paulo caulo
+HYP: دبا طاباو لوكويلو
+REF phone: dh btaʕ pɔlow kɔlow
+HYP phone: dba tabau lukuilu
+PER: 0.6875 PSD: 0.72775 PSD_norm: 0.41055
+
+ID: S07-C03-R07_074118-074373_E2EsysS_Annotator1_hyp
+REF: اه هو ال reix museum و ال ramram museum جمب بعد
+HYP: the haware excellent museum was rembrant misingham by
+REF phone: ah hu al ɹiks mjuziəm u al ɹæmɹæm mjuziəm ʤmb bʕd
+HYP phone: ðə həwɛɹ ɛksələnt mjuziəm wɑz ɹɛmbɹənt mɪzɪŋhæm baj
+PER: 0.71795 PSD: 1.03467 PSD_norm: 0.92
+
+ID: S10-C03-R10_077007-078140_E2EsysS_Annotator1_hyp
+REF: فمش و ماكنتش عايز ان انا اندم على حاجة يعنى اللى هو اتخرج و بعدين اقول ياه ده انا كنت او او اقابل حد مثلا فيقولى اخش mectronics فقوله لأ ده انا ده انا دخلت mectronics بس انا كان نفسى مش عارف اخش مش عارف ايه
+HYP: فما كنتش عايز إن أنا أندم على حاجة اللي هو أتخرج بعدين أقول لي أنا كنت أو أقابل حد مثلا فيقول لي خش مكتروس فقول له لا ده أنا دخلت الجسوس بس أنا كان نفسي شايف أوش إيه
+REF phone: fmʃ u makntʃ ʕaiz an ana andm ʕla ħaʤt iʕna alla hu atxrʤ u bʕdin aqul iah dh ana knt au au aqabl ħd mθla fiqula axʃ mɛktɹɑnɪks fqulh la dh ana dh ana dxlt mɛktɹɑnɪks bs ana kan nfsa mʃ ʕarf axʃ mʃ ʕarf aih
+HYP phone: fma kntʃ ʕaiz ajن ana andm ʕla ħaʤt alli hu atxrʤ bʕdin aqul li ana knt au aqabl ħd mθla fiqul li xʃ mktrus fqul lh la dh ana dxlt alʤsus bs ana kan nfsi ʃaif auʃ aj ih
+PER: 0.31677 PSD: 0.3885 PSD_norm: 0.34316
+
+ID: I01-C03-R14_024099-025102_HMMDNN_Annotator1_hyp
+REF: طيب لو يعنى مستقبليا لما لما تتجوز او يكون عندك اولاد حتحب ان انت تتدخلهم اكتر مدرسة national ولا international
+HYP: طيب لو مستقبليا لما لما تجاوزها ولكن عندك أولاد هتحبني تدخلهم أكتر مدرسة ناشيونال ولا انترناشيونال
+REF phone: tib lu iʕna mstqblia lma lma ttʤuz au ikun ʕndk aulad ħtħb an ant ttdxlhm aktr mdrst næʃənəl ula ɪntɹ̩næʃənəl
+HYP phone: tib lu mstqblia lma lma tʤauzha ulkn ʕndk aulad htħbni tdxlhm aktr mdrst naʃiunal ula antrnaʃiunal
+PER: 0.28889 PSD: 0.34298 PSD_norm: 0.18677
+
+ID: I01-C03-R02_086515-087156_E2EsysS_Annotator1_hyp
+REF: ماشى طيب ايه اكتر حاجة بتخليكى تحسى انك stressed
+HYP: طيب هي أكثر حاجة بتخليك تحسي ابنك stressed
+REF phone: maʃa tib aih aktr ħaʤt btxlika tħsa ank stɹɛst
+HYP phone: tib hi akθr ħaʤt btxlik tħsi abnk stɹɛst
+PER: 0.26316 PSD: 0.31663 PSD_norm: 0.15508
+
+ID: S05-C03-R05_054315-054620_HMMDNN_Annotator1_hyp
+REF: بس lately يعنى مالقتش ان الموضوع ده
+HYP: بس ما لقيتش إن الموضوع ده
+REF phone: bs lejtli iʕna malqtʃ an almuduʕ dh
+HYP phone: bs ma lqitʃ ajن almuduʕ dh
+PER: 0.44828 PSD: 0.48276 PSD_norm: 0.45
+
+ID: S12-C03-R12_149405-151367_E2EsysA_Annotator1_hyp
+REF: هو انت بعد كده هى حتكتشف ان العمر جرى بيك و ان انت عملت اللى هم عايزينه مش اللى انت عايزه و و حتبقى انت ممكن ساعتها يعنى تحس ان انت عايش حياة يعنى مملة طب و تقول طب هو ايه ده هو انا ليه ماروحتش عملت كذا فساعتها انت حتكون كبرت و خلاص مافيش وقت يعنى للندم يعنى و كده
+HYP: هو أنت بعد كده ستكتشف إن العمر جري بك وإن أنت عملت اللي هم عايزينه مش اللي أنت عايزه وستبقى أنت عايش حياة يعني مملة طب هو إيه ده هو أنا ليه ما رحتش عملت كذا فساعتها أنت هكون كبرت وخلاص ما فيش وقت يعني للندم وكده
+REF phone: hu ant bʕd kdh ha ħtktʃf an alʕmr ʤra bik u an ant ʕmlt alla hm ʕaizinh mʃ alla ant ʕaizh u u ħtbqa ant mmkn saʕtha iʕna tħs an ant ʕaiʃ ħiat iʕna mmlt tb u tqul tb hu aih dh hu ana lih maruħtʃ ʕmlt kða fsaʕtha ant ħtkun kbrt u xlas mafiʃ uqt iʕna llndm iʕna u kdh
+HYP phone: hu ant bʕd kdh stktʃf ajن alʕmr ʤri bk u ajن ant ʕmlt alli hm ʕaizinh mʃ alli ant ʕaizh ustbqa ant ʕaiʃ ħiat iʕni mmlt tb hu aj ih dh hu ana lih ma rħtʃ ʕmlt kða fsaʕtha ant hkun kbrt uxlas ma fiʃ uqt iʕni llndm ukdh
+PER: 0.2549 PSD: 0.30171 PSD_norm: 0.26442
+
+ID: I01-C03-R09_026995-027932_HMMDNN_Annotator1_hyp
+REF: ok طيب انت عامة تحب ولادك يعنى لو انت دخلتهم دلوقتى المدرسة تحب تدخلهم او تحب يكونوا فى مدرسة national ولا international
+HYP: طيب أنت تحب وليدك وأنت دخلتم دلوقتي المدرسة تحب إدخالهم أو تحب يكونوا في مدرسة ناشيونال ولا انترناشيونال
+REF phone: owkej tib ant ʕamt tħb uladk iʕna lu ant dxlthm dluqta almdrst tħb tdxlhm au tħb ikunua fa mdrst næʃənəl ula ɪntɹ̩næʃənəl
+HYP phone: tib ant tħb ulidk uant dxltm dluqti almdrst tħb aj dxalhm au tħb ikunua fi mdrst naʃiunal ula antrnaʃiunal
+PER: 0.32 PSD: 0.3832 PSD_norm: 0.20046
+
+ID: S07-C03-R07_074118-074373_E2EsysA_Annotator1_hyp
+REF: اه هو ال reix museum و ال ramram museum جمب بعد
+HYP: our extrem museum with rembrant museum mumbai
+REF phone: ah hu al ɹiks mjuziəm u al ɹæmɹæm mjuziəm ʤmb bʕd
+HYP phone: awɹ̩ ɪkstɹɪm mjuziəm wɪð ɹɛmbɹənt mjuziəm mʌmbaj
+PER: 0.58974 PSD: 0.77995 PSD_norm: 0.80128
+
+ID: I01-C03-R09_043061-044179_E2EsysS_Annotator1_hyp
+REF: فيعنى اه working life ممكن تكون حلوة اكتر بالنسبالك بس بتحس بإيه ناحية ال daily routine كل يوم بتصحى تروح الشغل ترجع البيت يادوبك ترتاح شوية و تاكل و تنام و تصحى تروح الشغل
+HYP: فيعني آه working life ما تكون حلوة أكتر بالنسبة لك بس بتحس بمنحت تدير الروتين كل يوم بتسعة رأس شغل ترجع البيت يا دوب بتفتح شوية وتأكل 29 شغل
+REF phone: fiʕna ah wɹ̩kɪŋ lajf mmkn tkun ħlut aktr balnsbalk bs btħs bi aj ih naħit al dejli ɹutin kl ium btsħa truħ alʃɣl trʤʕ albit iadubk trtaħ ʃuit u takl u tnam u tsħa truħ alʃɣl
+HYP phone: fiʕni aٓh wɹ̩kɪŋ lajf ma tkun ħlut aktr balnsbt lk bs btħs bmnħt tdir alrutin kl ium btsʕt ras ʃɣl trʤʕ albit ia dub btftħ ʃuit utakl 29 ʃɣl
+PER: 0.31884 PSD: 0.39177 PSD_norm: 0.33555
+
+ID: S12-C03-R12_058007-059534_E2EsysA_Annotator1_hyp
+REF: و دى كانت اول مرة قعدت فيها شهر و نص و انا بجد ماكنتش عايزة امشى يعنى انا حتى كان عندى plans يعنى ان انا كل ما كل ما ابقى فاضية يعنى ان انا اروح الشغل و كده يعنى حتى لو يوم فى الإسبوع مثلا او حاجة
+HYP: ودي كانت أول مرة وقعدت فيها شهر ونص وأنا بجد ما كنتش عايزة أمشي يعني أنا حتى كان عندي plans يعني إن أنا كل ما أبقى فاضية يعني إن أنا أروح لشغل وكده يعني حتى لو يوم في الأسبوع مثلا أو حاجة
+REF phone: u da kant aul mrt qʕdt fiha ʃhr u ns u ana bʤd makntʃ ʕaizt amʃa iʕna ana ħta kan ʕnda plænz iʕna an ana kl ma kl ma abqa fadit iʕna an ana aruħ alʃɣl u kdh iʕna ħta lu ium fa ali aj sbuʕ mθla au ħaʤt
+HYP phone: udi kant aul mrt uqʕdt fiha ʃhr uns uana bʤd ma kntʃ ʕaizt amʃi iʕni ana ħta kan ʕndi plænz iʕni ajن ana kl ma abqa fadit iʕni ajن ana aruħ lʃɣl ukdh iʕni ħta lu ium fi alasbuʕ mθla au ħaʤt
+PER: 0.13158 PSD: 0.19737 PSD_norm: 0.10753
+
+ID: I01-C03-R14_089906-090073_HMMDNN_Annotator1_hyp
+REF: طيب ماشى خلاص شكرا
+HYP: شكرا
+REF phone: tib maʃa xlas ʃkra
+HYP phone: ʃkra
+PER: 0.73333 PSD: 0.73333 PSD_norm: 0.7
+
+ID: S14-C03-R14_088097-089394_HMMDNN_Annotator1_hyp
+REF: طيب اخر سؤال ممكن تختار اى حاجة و تقنعنا بيها اى حاجة انت عايزها مثلا ان احنا ن نكمل master's ان احنا نسافر بره ان احنا مانسفرش اى اى حاجة فى دماغك انت مقتنع بيها و تقنعنا بيها
+HYP: طيب آخر سؤال ممكن تختار أي حاجة وتقنعنا بيها أي حاجة أنت عايزها مثلا إن إحنا نكمل ماسترز إن إحنا نسافر برا إن احنا ما نسافرش أي حاجة في دماغك أنت مقتنع بها وتقنعنا بها
+REF phone: tib axr sual mmkn txtar aa ħaʤt u tqnʕna biha aa ħaʤt ant ʕaizha mθla an aħna n nkml mæstɹ̩z an aħna nsafr brh an aħna mansfrʃ aa aa ħaʤt fa dmaɣk ant mqtnʕ biha u tqnʕna biha
+HYP phone: tib aٓxr sual mmkn txtar ai ħaʤt utqnʕna biha ai ħaʤt ant ʕaizha mθla ajن aj ħna nkml mastrz ajن aj ħna nsafr bra ajن aħna ma nsafrʃ ai ħaʤt fi dmaɣk ant mqtnʕ bha utqnʕna bha
+PER: 0.16667 PSD: 0.22136 PSD_norm: 0.17426
+
+ID: S14-C03-R14_031881-032134_E2EsysA_Annotator1_hyp
+REF: فقالولى حتقعد تستكشف ال weather فقولتلهم ده مش طموحى
+HYP: فقلت له تقعد تستكشف الوذر فقلت له لا ده مش طموح
+REF phone: fqalula ħtqʕd tstkʃf al wɛðɹ̩ fqultlhm dh mʃ tmuħa
+HYP phone: fqlt lh tqʕd tstkʃf aluðr fqlt lh la dh mʃ tmuħ
+PER: 0.28571 PSD: 0.37095 PSD_norm: 0.22294
+
+ID: S14-C03-R14_059903-060382_E2EsysA_Annotator1_hyp
+REF: بص حاقولك انا و انا student كنت بشتغل لوحدى و بس انا عندى trust issues
+HYP: بس سأقول لك أنا وأنا student كنت أشتغل لوحدي بس أنا عندي trust is
+REF phone: bs ħaqulk ana u ana studənt knt bʃtɣl luħda u bs ana ʕnda tɹʌst ɪʃuz
+HYP phone: bs saqul lk ana uana studənt knt aʃtɣl luħdi bs ana ʕndi tɹʌst ɪz
+PER: 0.14815 PSD: 0.21385 PSD_norm: 0.13889
+
+ID: I01-C03-R12_125310-126109_E2EsysS_Annotator1_hyp
+REF: طيب طيب بتحسى بصعوبة لما بتتعاملى مع ناس of different social level مابتعرفيش تتعاملى معاهم او بتحتاجى تفيرى طريقتك او كده
+HYP: نعم طيب تحسي بصعوبة لما تتعملي مع ناس of different social level ما تعرفش تعمل معايا أو بتغير طريتك أو كذا
+REF phone: tib tib btħsa bsʕubt lma bttʕamla mʕ nas ʌv dɪfɹ̩ənt sowʃəl lɛvəl mabtʕrfiʃ ttʕamla mʕahm au btħtaʤa tfira triqtk au kdh
+HYP phone: nʕm tib tħsi bsʕubt lma ttʕmli mʕ nas ʌv dɪfɹ̩ənt sowʃəl lɛvəl ma tʕrfʃ tʕml mʕaia au btɣir tritk au kða
+PER: 0.26 PSD: 0.33612 PSD_norm: 0.26214
+
+ID: S05-C03-R05_107121-108087_HMMDNN_Annotator1_hyp
+REF: و صراحتى مش بت مش بتعيب اللى قدامى يعنى لو حد عمل قدامى حاجة و شايف مثلا انى عاوز انتقده يعنى مبتبقاش صراحة اللى هى توجع لأ بالعكس لو حد قريب منى ببدأ واحدة واحدة معاه
+HYP: بصراحة مش مش بيتعيب إلي قدامي قدامي حاجة وشايف مثلا عايز انتقدوا يعني إنت بس صراحة لا يتوقع لا بالعكس لو حد ريميني مبدأ وحدة واحدة معاه
+REF phone: u sraħta mʃ bt mʃ btʕib alla qdama iʕna lu ħd ʕml qdama ħaʤt u ʃaif mθla ana ʕauz antqdh iʕna mbtbqaʃ sraħt alla ha tuʤʕ la balʕks lu ħd qrib mna bbda uaħdt uaħdt mʕah
+HYP phone: bsraħt mʃ mʃ bitʕib aj li qdami qdami ħaʤt uʃaif mθla ʕaiz antqdua iʕni aj nt bs sraħt la ituqʕ la balʕks lu ħd rimini mbda uħdt uaħdt mʕah
+PER: 0.31818 PSD: 0.40591 PSD_norm: 0.32258
+
+ID: S07-C03-R07_075129-075243_E2EsysS_Annotator1_hyp
+REF: قعدنا حاجة بتاعة تلات اربع ساعات
+HYP: يعني حاجة 3 4 ساعات
+REF phone: qʕdna ħaʤt btaʕt tlat arbʕ saʕat
+HYP phone: iʕni ħaʤt 3 4 saʕat
+PER: 0.59259 PSD: 0.74074 PSD_norm: 0.7
+
+ID: I01-C03-R05_026409-027799_E2EsysA_Annotator1_hyp
+REF: ok طيب ممكن تحكيلنا عن اى activities بتعملها student activities او scout او او clubs او اى حاجة و هدفها ايه و بتعمل فيها ايه ايه الدور ايه ال role بتاعك و كل حاجة ال projects اللى اشتغلتوا عليها
+HYP: أوكي طيب ممكن تحكي لنا عن أي activities بتعملها student activities أو سكاوت أو أو كلوبس أو أي حاجة وهدفها إيه وبتعمل فيها إيه إيه دور إيه الرول بتاعك وكل حاجة project اللي اشتغلتوا عليها
+REF phone: owkej tib mmkn tħkilna ʕn aa æktɪvətiz btʕmlha studənt æktɪvətiz au skawt au au klʌbz au aa ħaʤt u hdfha aih u btʕml fiha aih aih aldur aih al ɹowl btaʕk u kl ħaʤt al pɹɑʤɛkts alla aʃtɣltua ʕliha
+HYP phone: auki tib mmkn tħki lna ʕn ai æktɪvətiz btʕmlha studənt æktɪvətiz au skaut au au klubs au ai ħaʤt uhdfha aj ih ubtʕml fiha aj ih aj ih dur aj ih alrul btaʕk ukl ħaʤt pɹɑʤɛkt alli aʃtɣltua ʕliha
+PER: 0.14013 PSD: 0.16622 PSD_norm: 0.13071
+
+ID: I01-C03-R02_083885-084049_E2EsysA_Annotator1_hyp
+REF: مش فاهم
+HYP: طيب
+REF phone: mʃ fahm
+HYP phone: tib
+PER: 1.0 PSD: 1.33867 PSD_norm: 1.2064
+
+ID: S02-C03-R02_065006-065376_E2EsysA_Annotator1_hyp
+REF: بس ده ماخلانيش اقول لا انا مش عايزة اعملها
+HYP: بس ده ما خلانيش أقول لا أنا مش عايزة أعمل
+REF phone: bs dh maxlaniʃ aqul la ana mʃ ʕaizt aʕmlha
+HYP phone: bs dh ma xlaniʃ aqul la ana mʃ ʕaizt aʕml
+PER: 0.05882 PSD: 0.05882 PSD_norm: 0.04545
+
+ID: S07-C03-R07_005558-006005_HMMDNN_Annotator1_hyp
+REF: wasn't actually sure انا كنت عاوزة اخش انهى department انهى department
+HYP: wasn't actually شهور أنا كنت عايز أخش department
+REF phone: wɑznt ækʧəwəli ʃʊɹ ana knt ʕauzt axʃ anha dɪpɑɹtmənt anha dɪpɑɹtmənt
+HYP phone: wɑznt ækʧəwəli ʃhur ana knt ʕaiz axʃ dɪpɑɹtmənt
+PER: 0.39655 PSD: 0.4071 PSD_norm: 0.37924
+
+ID: I01-C03-R12_141648-142308_E2EsysS_Annotator1_hyp
+REF: طيب ممكن اخر حاجة تختارى اى حاجة انت عايزاها و تقنعينا بيها
+HYP: طيب ممكن آخر حاجات تختري أي حاجة إنتي عايزاها وتقمعنا بها
+REF phone: tib mmkn axr ħaʤt txtara aa ħaʤt ant ʕaizaha u tqnʕina biha
+HYP phone: tib mmkn aٓxr ħaʤat txtri ai ħaʤt aj nti ʕaizaha utqmʕna bha
+PER: 0.20833 PSD: 0.27083 PSD_norm: 0.13333
+
+ID: S07-C03-R07_080493-080969_E2EsysA_Annotator1_hyp
+REF: i think i would love to go to japan anytime soon يعنى
+HYP: أم think i would love to go to japan any time soon يعني
+REF phone: aj θɪŋk aj wʊd lʌv tə ɡow tə ʤəpæn ɛnitajm sun iʕna
+HYP phone: am θɪŋk aj wʊd lʌv tə ɡow tə ʤəpæn ɛni tajm sun iʕni
+PER: 0.05 PSD: 0.1 PSD_norm: 0.08333
+
+ID: S02-C03-R02_094303-094704_HMMDNN_Annotator1_hyp
+REF: لأ i think انها عدت بس
+HYP: أنا قعدت
+REF phone: la aj θɪŋk anha ʕdt bs
+HYP phone: ana qʕdt
+PER: 0.70588 PSD: 0.70588 PSD_norm: 0.75
+
+ID: I01-C03-R14_024099-025102_E2EsysS_Annotator1_hyp
+REF: طيب لو يعنى مستقبليا لما لما تتجوز او يكون عندك اولاد حتحب ان انت تتدخلهم اكتر مدرسة national ولا international
+HYP: طيب لو يعني مستقبليا لما تجاوز ok عندك أولد ستحب إن أنت تدخلهم أكثر مدرسة national ولا international
+REF phone: tib lu iʕna mstqblia lma lma ttʤuz au ikun ʕndk aulad ħtħb an ant ttdxlhm aktr mdrst næʃənəl ula ɪntɹ̩næʃənəl
+HYP phone: tib lu iʕni mstqblia lma tʤauz owkej ʕndk auld stħb ajن ant tdxlhm akθr mdrst næʃənəl ula ɪntɹ̩næʃənəl
+PER: 0.18889 PSD: 0.25053 PSD_norm: 0.21019
+
+ID: S10-C03-R10_015378-016145_E2EsysA_Annotator1_hyp
+REF: okay هو انا حاليا يعنى يعنى تقريبا تلات حاجات اللى هما واخدين وقتى
+HYP: أوكي هو أنا حاليا يعني ح يعني تقريبا تلات حاجات اللي هما يعني واخدين وقتي
+REF phone: owkej hu ana ħalia iʕna iʕna tqriba tlat ħaʤat alla hma uaxdin uqta
+HYP phone: auki hu ana ħalia iʕni ħ iʕni tqriba tlat ħaʤat alli hma iʕni uaxdin uqti
+PER: 0.23636 PSD: 0.30967 PSD_norm: 0.16667
+
+ID: S02-C03-R02_073899-074420_E2EsysS_Annotator1_hyp
+REF: يعنى بتعلم من كل حد حاجة
+HYP: آه يعني بتعلم من كل حد حاجة
+REF phone: iʕna btʕlm mn kl ħd ħaʤt
+HYP phone: aٓh iʕni btʕlm mn kl ħd ħaʤt
+PER: 0.21053 PSD: 0.26316 PSD_norm: 0.125
+
+ID: S07-C03-R07_014161-014746_HMMDNN_Annotator1_hyp
+REF: ال bachelor project بتاعى كان 3d object recognition which was at the time يعنى something fancy
+HYP: كان ثري دي object recognition which was عند تايم يعني something فانسي
+REF phone: al bæʧəlɹ̩ pɹɑʤɛkt btaʕa kan 3di ɑbʤɛkt ɹɛkəɡnɪʃən wɪʧ wɑz æt ðə tajm iʕna sʌmθɪŋ fænsi
+HYP phone: kan θri di ɑbʤɛkt ɹɛkəɡnɪʃən wɪʧ wɑz ʕnd taim iʕni sʌmθɪŋ fansi
+PER: 0.41667 PSD: 0.48656 PSD_norm: 0.44809
+
+ID: S09-C03-R09_089654-090398_E2EsysS_Annotator1_hyp
+REF: ده بيبقى dealing with these kind of people بيبقى صعب جدا جدا جدا و مهما حاولتى معاه مرة و اتنين و تلاتة فى الغالب مابتوصليش لحاجة
+HYP: ده بيبقى dealing with this kind of people بيبقى صعب جدا جدا ومهما حاولت معاه مرة وإتنين وثلاثة في الغالب ما بتوصلش لحاجة
+REF phone: dh bibqa dilɪŋ wɪð ðiz kajnd ʌv pipəl bibqa sʕb ʤda ʤda ʤda u mhma ħaulta mʕah mrt u atnin u tlatt fa alɣalb mabtusliʃ lħaʤt
+HYP phone: dh bibqa dilɪŋ wɪð ðɪs kajnd ʌv pipəl bibqa sʕb ʤda ʤda umhma ħault mʕah mrt u aj tnin uθlaθt fi alɣalb ma btuslʃ lħaʤt
+PER: 0.11111 PSD: 0.11729 PSD_norm: 0.08455
+
+ID: S10-C03-R10_067021-067249_HMMDNN_Annotator1_hyp
+REF: فنفسى ان انا اعيش برا يعنى
+HYP: فا نفسي إن أنا أعيش براي
+REF phone: fnfsa an ana aʕiʃ bra iʕna
+HYP phone: fa nfsi ajن ana aʕiʃ brai
+PER: 0.33333 PSD: 0.42857 PSD_norm: 0.41667
+
+ID: S07-C03-R07_035155-035212_HMMDNN_Annotator1_hyp
+REF: جدا
+HYP: جدا
+REF phone: ʤda
+HYP phone: ʤda
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S09-C03-R09_066351-066803_HMMDNN_Annotator1_hyp
+REF: كان ال turning point ان ال course بتاع cs3 هو اللى كان turning point بالنسبالى
+HYP: turning point الكرستة سيثري هو الكانتون
+REF phone: kan al tɹ̩nɪŋ pojnt an al kɔɹs btaʕ ks3 hu alla kan tɹ̩nɪŋ pojnt balnsbala
+HYP phone: tɹ̩nɪŋ pojnt alkrstt siθri hu alkantun
+PER: 0.58333 PSD: 0.64247 PSD_norm: 0.6054
+
+ID: S02-C03-R02_070755-071219_E2EsysA_Annotator1_hyp
+REF: يعنى كل واحد بشوفه role model فى حتة معينة
+HYP: يعني كل واحد بشوفه رون موديل في حتة معينة
+REF phone: iʕna kl uaħd bʃufh ɹowl mɑdəl fa ħtt mʕint
+HYP phone: iʕni kl uaħd bʃufh run mudil fi ħtt mʕint
+PER: 0.23529 PSD: 0.36335 PSD_norm: 0.168
+
+ID: S12-C03-R12_031799-032489_E2EsysS_Annotator1_hyp
+REF: و عادى لما بكون مخنوقة مثلا او حاجة معظم الوقت ممكن انزل اجرى فى ال track يعنى
+HYP: و العيدي لما بكون مخنوقة مثلا أو حاجة معظم الوقت ما كانزل لجنة في track يعني
+REF phone: u ʕada lma bkun mxnuqt mθla au ħaʤt mʕðm aluqt mmkn anzl aʤra fa al tɹæk iʕna
+HYP phone: u alʕidi lma bkun mxnuqt mθla au ħaʤt mʕðm aluqt ma kanzl lʤnt fi tɹæk iʕni
+PER: 0.21311 PSD: 0.31993 PSD_norm: 0.15893
+
+ID: S07-C03-R07_099465-099826_E2EsysS_Annotator1_hyp
+REF: حد بيصحى الساعة اربعة و نص الفجر يعنى
+HYP: أحتبس حتى أربعة ونص الفجر يعني
+REF phone: ħd bisħa alsaʕt arbʕt u ns alfʤr iʕna
+HYP phone: aħtbs ħta arbʕt uns alfʤr iʕni
+PER: 0.33333 PSD: 0.3516 PSD_norm: 0.16743
+
+ID: S09-C03-R09_082568-082994_HMMDNN_Annotator1_hyp
+REF: لأ احب اكتر كتير ابقى respected عن liked كتير
+HYP: أحب أكتر كتير كده كتير
+REF phone: la aħb aktr ktir abqa ɹɪspɛktɪd ʕn lajkt ktir
+HYP phone: aħb aktr ktir kdh ktir
+PER: 0.54054 PSD: 0.56757 PSD_norm: 0.53846
+
+ID: S02-C03-R02_073138-073842_E2EsysA_Annotator1_hyp
+REF: فى الشغل بشوف حد زى professor slim مثلا he's a very good teacher الصراحة
+HYP: في الشغل بشوف حد زي بروفاسيس لما مثلا إذا very good t shirt الصراحة
+REF phone: fa alʃɣl bʃuf ħd za pɹəfɛsɹ̩ slɪm mθla hɪs ə vɛɹi ɡʊd tiʧɹ̩ alsraħt
+HYP phone: fi alʃɣl bʃuf ħd zi brufasis lma mθla aj ða vɛɹi ɡʊd ti ʃɹ̩t alsraħt
+PER: 0.2963 PSD: 0.38944 PSD_norm: 0.23342
+
+ID: S07-C03-R07_049087-050038_E2EsysS_Annotator1_hyp
+REF: otherwise لو انا هنا فى مصر i guess since ان فى diversity كبيرة اوى فى المدارس ما بين التجريبى و ال international و ال national و و ال elite schools
+HYP: أ otherwise لو أنا هنا في مصر أجسس إن في divers كبيرة قوي في المدارس ما بين التجريبي وال international و و ال lead schools
+REF phone: ʌðɹ̩wajz lu ana hna fa msr aj ɡɛs sɪns an fa dɪvɹ̩səti kbirt aua fa almdars ma bin altʤriba u al ɪntɹ̩næʃənəl u al næʃənəl u u al ɪlit skulz
+HYP phone: a ʌðɹ̩wajz lu ana hna fi msr aʤss ajن fi dajvɹ̩z kbirt qui fi almdars ma bin altʤribi ual ɪntɹ̩næʃənəl u u al lɛd skulz
+PER: 0.30631 PSD: 0.37488 PSD_norm: 0.25421
+
+ID: S05-C03-R05_053182-054315_E2EsysS_Annotator1_hyp
+REF: مجال ايه فى الأول كنت الصراحة بفكر فى ال web development لإن ده يعنى خدت فيه experience ك internship و خدنا courses و كده فساعات حسيت ان ممكن يكون ده تبعه
+HYP: مجال إيه في الأول كنت الصراحة بفكر في web development لأن ده يعني أخذت في experience ك enterment شب وأخذنا courses وكده ف ساعات حسيت إن ممكن يكون ده تبعه
+REF phone: mʤal aih fa alaul knt alsraħt bfkr fa al wɛb dɪvɛləpmənt li ajن dh iʕna xdt fih ɪkspɪɹiəns k ɪntɹ̩nʃɪp u xdna kɔɹsəz u kdh fsaʕat ħsit an mmkn ikun dh tbʕh
+HYP phone: mʤal aj ih fi alaul knt alsraħt bfkr fi wɛb dɪvɛləpmənt lan dh iʕni axðt fi ɪkspɪɹiəns k ɛntɹ̩mənt ʃb uaxðna kɔɹsəz ukdh f saʕat ħsit ajن mmkn ikun dh tbʕh
+PER: 0.16935 PSD: 0.19432 PSD_norm: 0.15791
+
+ID: S07-C03-R07_106716-106883_E2EsysA_Annotator1_hyp
+REF: get things done faster
+HYP: get things done faster
+REF phone: ɡɛt θɪŋz dʌn fæstɹ̩
+HYP phone: ɡɛt θɪŋz dʌn fæstɹ̩
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R14_040288-040379_HMMDNN_Annotator1_hyp
+REF: ok
+HYP: 
+REF phone: owkej
+HYP phone: 
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: S10-C03-R10_009396-009938_E2EsysA_Annotator1_hyp
+REF: بس ف و المواد ال mechanical كنت يعنى يعنى بعدى فيها بس اللى هو c c minus كده
+HYP: بس والمواد الميكانيك الكت يعني ب يعني بعدت فيها بس اللي هو سي سي مينس كده
+REF phone: bs f u almuad al məkænɪkəl knt iʕna iʕna bʕda fiha bs alla hu si si majnəs kdh
+HYP phone: bs ualmuad almikanik alkt iʕni b iʕni bʕdt fiha bs alli hu si si mins kdh
+PER: 0.22951 PSD: 0.33049 PSD_norm: 0.13158
+
+ID: S05-C03-R05_047731-048282_E2EsysS_Annotator1_hyp
+REF: فأغلب الحاجات عربى مأظنش يعنى حتبعد عن الموضوع ده مش حنأمرك يعنى
+HYP: فأغلب الحاجات عربي ما ظلنا يعني تبعد عن الموضوع ده عشان أملك يعني
+REF phone: faɣlb alħaʤat ʕrba maðnʃ iʕna ħtbʕd ʕn almuduʕ dh mʃ ħnamrk iʕna
+HYP phone: faɣlb alħaʤat ʕrbi ma ðlna iʕni tbʕd ʕn almuduʕ dh ʕʃan amlk iʕni
+PER: 0.16981 PSD: 0.29336 PSD_norm: 0.19354
+
+ID: S05-C03-R05_046229-046715_HMMDNN_Annotator1_hyp
+REF: حتعلمهم ايه اول ما يبتدوا يتكلموا حتعلمهم كلمات ايه حتعلمهم كلمات بلغة ايه
+HYP: على العموم يتكلموا عليهم كلمات إياد علاوي قد إيه
+REF phone: ħtʕlmhm aih aul ma ibtdua itklmua ħtʕlmhm klmat aih ħtʕlmhm klmat blɣt aih
+HYP phone: ʕla alʕmum itklmua ʕlihm klmat aj iad ʕlaui qd aj ih
+PER: 0.54839 PSD: 0.62226 PSD_norm: 0.61289
+
+ID: S05-C03-R05_096162-097407_HMMDNN_Annotator1_hyp
+REF: بحب اتكلم مع ناس بحب ادوس مش مهم بقى تطلع صح ولا غلط مثلا يزعل منى يقفش منى طبعا باحترام كل حاجة لكن لا اتعرف على حد ده حاجة لازم تحبها جدا لازم تتعلمها اصلا
+HYP: أحب أتكلم مع ناس محب دوس إشمعنى بقى تطلع صح ولا غلط عملية طبعا باحترام كل حاجة لكن لا يتعرف على حد ده حاجة ولازم تحبها جدا لازم تتعلمها أصلا
+REF phone: bħb atklm mʕ nas bħb adus mʃ mhm bqa ttlʕ sħ ula ɣlt mθla izʕl mna iqfʃ mna tbʕa baħtram kl ħaʤt lkn la atʕrf ʕla ħd dh ħaʤt lazm tħbha ʤda lazm ttʕlmha asla
+HYP phone: aħb atklm mʕ nas mħb dus aj ʃmʕna bqa ttlʕ sħ ula ɣlt ʕmlit tbʕa baħtram kl ħaʤt lkn la itʕrf ʕla ħd dh ħaʤt ulazm tħbha ʤda lazm ttʕlmha asla
+PER: 0.20325 PSD: 0.25675 PSD_norm: 0.21438
+
+ID: S07-C03-R07_008141-008475_HMMDNN_Annotator1_hyp
+REF: عشان dealing with computers is a lot easier than dealing with human beings
+HYP: عشان dealing with computers الزلط easier than dealing with human beings
+REF phone: ʕʃan dilɪŋ wɪð kəmpjutɹ̩z ɪz ə lɑt iziɹ̩ ðæn dilɪŋ wɪð hjumən biɪŋz
+HYP phone: ʕʃan dilɪŋ wɪð kəmpjutɹ̩z alzlt iziɹ̩ ðæn dilɪŋ wɪð hjumən biɪŋz
+PER: 0.07273 PSD: 0.07331 PSD_norm: 0.02778
+
+ID: S12-C03-R12_068882-070329_E2EsysS_Annotator1_hyp
+REF: فقعدنا بقى نكلمهم فى ال reception علشان يبعتولنا حد و على بقى ما بعتولنا حد اصلا ما فهموا ان يعنى حد يتكلم english و بعتولنا حد و فتحلنا بقى الباب و كده يعنى و هى قعدت تعيط بقى و قرفتنا و كده
+HYP: فأنا بكلمهم في reception عشان يبعثوا لنا حد وعلى بقى ما بعثوا لنا حد أصلا ما فهموهم يعني حد كانوا ما english وبعثوا لنا حد وفتح لنا الباب وكده بقى وهي قاعدة تعيط بقى وعرفتنا وكده
+REF phone: fqʕdna bqa nklmhm fa al ɹɪsɛpʃən ʕlʃan ibʕtulna ħd u ʕla bqa ma bʕtulna ħd asla ma fhmua an iʕna ħd itklm ɪŋɡlɪʃ u bʕtulna ħd u ftħlna bqa albab u kdh iʕna u ha qʕdt tʕit bqa u qrftna u kdh
+HYP phone: fana bklmhm fi ɹɪsɛpʃən ʕʃan ibʕθua lna ħd uʕla bqa ma bʕθua lna ħd asla ma fhmuhm iʕni ħd kanua ma ɪŋɡlɪʃ ubʕθua lna ħd uftħ lna albab ukdh bqa uhi qaʕdt tʕit bqa uʕrftna ukdh
+PER: 0.23649 PSD: 0.31146 PSD_norm: 0.23624
+
+ID: S05-C03-R05_033559-034081_E2EsysA_Annotator1_hyp
+REF: ده اغلب ال activities اللى انا بعملها فى الجامعة يعنى
+HYP: آ ده أغلب ال أكتفيتيز اللي أنا بعملها في الجامعة يعني
+REF phone: dh aɣlb al æktɪvətiz alla ana bʕmlha fa alʤamʕt iʕna
+HYP phone: aٓ dh aɣlb al aktfitiz alli ana bʕmlha fi alʤamʕt iʕni
+PER: 0.2093 PSD: 0.2753 PSD_norm: 0.05615
+
+ID: I01-C03-R02_083885-084049_E2EsysS_Annotator1_hyp
+REF: مش فاهم
+HYP: غيرواضح
+REF phone: mʃ fahm
+HYP phone: ɣiruadħ
+PER: 1.0 PSD: 1.758 PSD_norm: 1.7096
+
+ID: S09-C03-R09_102439-102828_E2EsysA_Annotator1_hyp
+REF: و انا فعلا لأ اقدر اقول ان انا ماقدرش اعيش من غير internet او mobile
+HYP: وأنا فعلا لا أقدر أقول إن أنا مقدرش أعيش من غير إنترنت أو من موبايل
+REF phone: u ana fʕla la aqdr aqul an ana maqdrʃ aʕiʃ mn ɣir ɪntɹ̩nɛt au mowbəl
+HYP phone: uana fʕla la aqdr aqul ajن ana mqdrʃ aʕiʃ mn ɣir aj ntrnt au mn mubail
+PER: 0.24074 PSD: 0.28493 PSD_norm: 0.2737
+
+ID: I01-C03-R07_114526-116759_E2EsysS_Annotator1_hyp
+REF: طيب فى موقف حصل قبل كده فى حياتك ان انت كنت بتتكلم فى فى حاجة كنت بتتكام evaluation او فى الجامعة او اى ان كان وأنت كنت بتتكلم عن topic انت مش فاهمه كويس فاضطريت ان انت او او يعنى حاولت انك تقول expressions كبيرة و تتكلم english و ترسم نفسك علشان you pass this evaluation or you pass this meeting يعنى
+HYP: طيب في موقف حصل قبل كده في حياتك إن أنت كنت تتكلم في حاجة تتكلم في evaluation أو في الجامعة أو أي كان وأنت كنت تتكلم عن topك أنت مش فاهمه كويس فاطريت إن أنت أو يعني حاولت إنك تقول expressions كبيرة أو تتكلم english وترسم نفسك عشان you pass this evaluation we pass this meeting يعني
+REF phone: tib fa muqf ħsl qbl kdh fa ħiatk an ant knt bttklm fa fa ħaʤt knt bttkam ɪvæljuejʃən au fa alʤamʕt au aa an kan uant knt bttklm ʕn tɑpɪk ant mʃ fahmh kuis fadtrit an ant au au iʕna ħault ank tqul ɪkspɹɛʃənz kbirt u ttklm ɪŋɡlɪʃ u trsm nfsk ʕlʃan ju pæs ðɪs ɪvæljuejʃən ɔɹ ju pæs ðɪs mitɪŋ iʕna
+HYP phone: tib fi muqf ħsl qbl kdh fi ħiatk ajن ant knt ttklm fi ħaʤt ttklm fi ɪvæljuejʃən au fi alʤamʕt au ai kan uant knt ttklm ʕn tɑpك ant mʃ fahmh kuis fatrit ajن ant au iʕni ħault aj nk tqul ɪkspɹɛʃənz kbirt au ttklm ɪŋɡlɪʃ utrsm nfsk ʕʃan ju pæs ðɪs ɪvæljuejʃən wi pæs ðɪs mitɪŋ iʕni
+PER: 0.15517 PSD: 0.20926 PSD_norm: 0.15287
+
+ID: S02-C03-R02_089065-089358_E2EsysS_Annotator1_hyp
+REF: اللى هو لو urgent and important دى اول حاجة تتعمل
+HYP: اللي هو لو urgent and important the أول حاجة تتعمل
+REF phone: alla hu lu ɹ̩ʤənt ænd ɪmpɔɹtənt da aul ħaʤt ttʕml
+HYP phone: alli hu lu ɹ̩ʤənt ænd ɪmpɔɹtənt ðə aul ħaʤt ttʕml
+PER: 0.075 PSD: 0.12095 PSD_norm: 0.03822
+
+ID: S12-C03-R12_078651-079437_E2EsysS_Annotator1_hyp
+REF: و بعد كده السنة اللى فاتت روحت الإمارات تانى و بس
+HYP: وبعد كدا السنة اللي فاتت الواحد المرة التاني وا بس
+REF phone: u bʕd kdh alsnt alla fatt ruħt ali aj marat tana u bs
+HYP phone: ubʕd kda alsnt alli fatt aluaħd almrt altani ua bs
+PER: 0.34146 PSD: 0.44059 PSD_norm: 0.18756
+
+ID: I01-C03-R02_080939-081361_HMMDNN_Annotator1_hyp
+REF: ولا بتعرفى تتعاملى على طول انه once اللى قدامى مش فاهم ده حاعرف اتكلم معاه عادى
+HYP: ولا بتعرفي تتعاملي على طول إن أنتي اللي قدامي مش فاهم ده أعرف أتكلم معاه دي
+REF phone: ula btʕrfa ttʕamla ʕla tul anh wʌns alla qdama mʃ fahm dh ħaʕrf atklm mʕah ʕada
+HYP phone: ula btʕrfi ttʕamli ʕla tul ajن anti alli qdami mʃ fahm dh aʕrf atklm mʕah di
+PER: 0.21875 PSD: 0.33719 PSD_norm: 0.17849
+
+ID: I02-C03-R09_074292-075149_E2EsysS_Annotator1_hyp
+REF: بتحس نفسك ش شخص سهل الناس تتعامل معاه ولا بيحتاجوا وقت الأول عشان يتعرفوا عليك وكلمكوا بيبقى قليل فى الأول و كده
+HYP: بتحس نفسك الشخص السهل الناس تتعامل معه ولا يحتاجوا وقت الأول عشان تعرف عليكم وكلامكم يبقوا قليل في الأول وكده
+REF phone: btħs nfsk ʃ ʃxs shl alnas ttʕaml mʕah ula biħtaʤua uqt alaul ʕʃan itʕrfua ʕlik uklmkua bibqa qlil fa alaul u kdh
+HYP phone: btħs nfsk alʃxs alshl alnas ttʕaml mʕh ula iħtaʤua uqt alaul ʕʃan tʕrf ʕlikm uklamkm ibqua qlil fi alaul ukdh
+PER: 0.17582 PSD: 0.19815 PSD_norm: 0.09889
+
+ID: S14-C03-R14_083600-084048_HMMDNN_Annotator1_hyp
+REF: لو حاجة مش فاهم فيها مش حاقولك ان انا مش فاهمها يعنى او ساعتها حسألك طب انت قصدك ايه اوحاجة
+HYP: لو حاجة مش فاهم فيها مش هقول لك أنا مش فاهمة يعني ساعتها أسألك طيب أنت قصدك إيه يا حاجة
+REF phone: lu ħaʤt mʃ fahm fiha mʃ ħaqulk an ana mʃ fahmha iʕna au saʕtha ħsalk tb ant qsdk aih auħaʤt
+HYP phone: lu ħaʤt mʃ fahm fiha mʃ hqul lk ana mʃ fahmt iʕni saʕtha asalk tib ant qsdk aj ih ia ħaʤt
+PER: 0.20833 PSD: 0.25133 PSD_norm: 0.1606
+
+ID: S07-C03-R07_051186-052381_E2EsysA_Annotator1_hyp
+REF: عن تجربة شخصية انا فى ناس فى دفعتى actually خارجين مدارس french و حاسس ان ال education بتاعهم level مستوى ال education بتاعهم كان حلو اوى و كان satisfying جدا يعنى at least
+HYP: عن تجربة شخصية أنا في ناس في دفعتي أكشن خارجين مدارس فرينش وحاس إن ال ديوكيشان بتاعهم لاف المستوى الديكيش بتاعهم كان حلو قوي كان ساتس فاين جدا يعني أتليست
+REF phone: ʕn tʤrbt ʃxsit ana fa nas fa dfʕta ækʧəwəli xarʤin mdars fɹɛnʧ u ħass an al ɛʤəkejʃən btaʕhm lɛvəl mstua al ɛʤəkejʃən btaʕhm kan ħlu aua u kan sætɪsfajɪŋ ʤda iʕna æt list
+HYP phone: ʕn tʤrbt ʃxsit ana fi nas fi dfʕti akʃn xarʤin mdars frinʃ uħas ajن al diukiʃan btaʕhm laf almstua aldikiʃ btaʕhm kan ħlu qui kan sats fain ʤda iʕni atlist
+PER: 0.30435 PSD: 0.37538 PSD_norm: 0.23973
+
+ID: S12-C03-R12_123508-124027_E2EsysA_Annotator1_hyp
+REF: فيعنى respected و احب ابقى resepcted مش علشان مثلا انا بلبس كويس ولا علشان انا ب يعنى ممكن مثلا علشان بكلم ناس مثلا بتعامل مع ناس كويس او كده فهم الناس يعملوا respect ليا
+HYP: أوكي بس يعني حبوا هما مثلا يس بي إسباك مي علشان إنسان شغلي أو كده
+REF phone: fiʕna ɹɪspɛktɪd u aħb abqa ɹisɛpktəd mʃ ʕlʃan mθla ana blbs kuis ula ʕlʃan ana b iʕna mmkn mθla ʕlʃan bklm nas mθla btʕaml mʕ nas kuis au kdh fhm alnas iʕmlua ɹɪspɛkt lia
+HYP phone: auki bs iʕni ħbua hma mθla is bi aj sbak mi ʕlʃan aj nsan ʃɣli au kdh
+PER: 0.76642 PSD: 0.86318 PSD_norm: 0.84495
+
+ID: S02-C03-R02_010555-010793_HMMDNN_Annotator1_hyp
+REF: كان اسمه manuscript found in acra
+HYP: ياعصمه manuscript found an أكره
+REF phone: kan asmh mænjəskɹɪpt fawnd ɪn əkɹə
+HYP phone: iaʕsmh mænjəskɹɪpt fawnd æn akrh
+PER: 0.24138 PSD: 0.39262 PSD_norm: 0.2516
+
+ID: S14-C03-R14_001362-002309_E2EsysA_Annotator1_hyp
+REF: بص انا اتولدت فى القاهرة و دخلت الأول مدرسة فى ابتدائى خالص دخلت كنت كان مدرسة خاصة كان فيها عربى و english
+HYP: مثلا أنا انتقلت في القاهرة ودخلت لأول مدرسة في فدائي خالص دخلت كنت كدراسة خاصة كان في عربي إنجش
+REF phone: bs ana atuldt fa alqahrt u dxlt alaul mdrst fa abtdai ajا xals dxlt knt kan mdrst xast kan fiha ʕrba u ɪŋɡlɪʃ
+HYP phone: mθla ana antqlt fi alqahrt udxlt laul mdrst fi fda ajي xals dxlt knt kdrast xast kan fi ʕrbi aj nʤʃ
+PER: 0.32184 PSD: 0.38634 PSD_norm: 0.28872
+
+ID: S09-C03-R09_046921-048949_E2EsysA_Annotator1_hyp
+REF: فأنا على الاقل انا بحب ال teaching جدا وبحس ان فيه a kind of challenge اول حاجة ان انت whatever بقى level of students قصادك لازم توصلهم اللى انت عايز تقوله in whatever way تشوف الطريقة اللى تعرف توصل كلامك و ال content اللى انت عايز توصله ليهم correctly و in an efficient way و يفهمك regardless بقى هو اصلا technically كويس مش technically كويس
+HYP: فأنا ع على الأقل أنا بحب التيتشين جدا وبحس إن في أوكاين دوف تشالينج أول حاجة إن أنت واتفر بقى لافر أوف ستودنس قصادك لازم توصل لهم اللي أنت عايز توصله كلامك والكونتات اللي أنت عايز توصله ليهم آ كركت لي وإننا نفيشن واي ويفهمك regardless بقى هو أصلا تكنيك لكويس مش تكنيك لكويس
+REF phone: fana ʕla alaql ana bħb al tiʧɪŋ ʤda ubħs an fih ə kajnd ʌv ʧælənʤ aul ħaʤt an ant wʌtɛvɹ̩ bqa lɛvəl ʌv studənts qsadk lazm tuslhm alla ant ʕaiz tqulh ɪn wʌtɛvɹ̩ wej tʃuf altriqt alla tʕrf tusl klamk u al kɑntɛnt alla ant ʕaiz tuslh lihm kɹ̩ɛktli u ɪn æn ɪfɪʃənt wej u ifhmk ɹəɡɑɹdləs bqa hu asla tɛknɪkəli kuis mʃ tɛknɪkəli kuis
+HYP phone: fana ʕ ʕla alaql ana bħb altitʃin ʤda ubħs ajن fi aukain duf tʃalinʤ aul ħaʤt ajن ant uatfr bqa lafr auf studns qsadk lazm tusl lhm alli ant ʕaiz tuslh klamk ualkuntat alli ant ʕaiz tuslh lihm aٓ krkt li u aj nna nfiʃn uai uifhmk ɹəɡɑɹdləs bqa hu asla tknik lkuis mʃ tknik lkuis
+PER: 0.37121 PSD: 0.41921 PSD_norm: 0.34634
+
+ID: S14-C03-R14_006784-007163_HMMDNN_Annotator1_hyp
+REF: عشان basically من و انا صغير كنت بحب اقعد على computers بحب اشتخدمها و كده
+HYP: عشان basically من وأنا صغير كت وحباره كومبيوتر زحمه استخدمها وكده
+REF phone: ʕʃan bejsɪkli mn u ana sɣir knt bħb aqʕd ʕla kəmpjutɹ̩z bħb aʃtxdmha u kdh
+HYP phone: ʕʃan bejsɪkli mn uana sɣir kt uħbarh kumbiutr zħmh astxdmha ukdh
+PER: 0.28333 PSD: 0.34837 PSD_norm: 0.35769
+
+ID: S12-C03-R12_065918-067473_E2EsysA_Annotator1_hyp
+REF: اه سافرت اول سفرية كانت و انا عندى خمس سنين روحت مع بابا تركيا و علشان هو كان ساعتها اصلا شغل papy هناك يعنى فاحنا كنا رايحين معاه
+HYP: آه سافرت أول سفرية كانت وأنا عندي خمس سنين رحت مع بابايا تركية و علشان هو كان ساعتها أصلا شغل بابي هناك يعني فإحنا كنا رايحين معاه
+REF phone: ah safrt aul sfrit kant u ana ʕnda xms snin ruħt mʕ baba trkia u ʕlʃan hu kan saʕtha asla ʃɣl pejpi hnak iʕna faħna kna raiħin mʕah
+HYP phone: aٓh safrt aul sfrit kant uana ʕndi xms snin rħt mʕ babaia trkit u ʕlʃan hu kan saʕtha asla ʃɣl babi hnak iʕni f aj ħna kna raiħin mʕah
+PER: 0.11538 PSD: 0.14019 PSD_norm: 0.074
+
+ID: S02-C03-R02_008280-008464_HMMDNN_Annotator1_hyp
+REF: بروح ال gym
+HYP: ما راح الجم
+REF phone: bruħ al ʤɪm
+HYP phone: ma raħ alʤm
+PER: 0.44444 PSD: 0.55911 PSD_norm: 0.172
+
+ID: I01-C03-R10_111216-112009_HMMDNN_Annotator1_hyp
+REF: لأ انا انا سافرت انا سافرت برا قبل كده قعدت شهرين انا بعد اسبوعين بعد اسبوعين انا كنت عايز ارجع مصر
+HYP: لأ أنا أما سافرت سافرت برا قبل كده قعدت شهرين بعد أسبوعين بعد أسبوعين أنا كت عايز أرجع مصر
+REF phone: la ana ana safrt ana safrt bra qbl kdh qʕdt ʃhrin ana bʕd asbuʕin bʕd asbuʕin ana knt ʕaiz arʤʕ msr
+HYP phone: la ana ama safrt safrt bra qbl kdh qʕdt ʃhrin bʕd asbuʕin bʕd asbuʕin ana kt ʕaiz arʤʕ msr
+PER: 0.10127 PSD: 0.11392 PSD_norm: 0.09091
+
+ID: S12-C03-R12_148603-149405_E2EsysS_Annotator1_hyp
+REF: ف يعنى ماينفعش حد ان هو يفضل فى مكانه علشان علشان اهله عايزينه كده
+HYP: ف يعني ما ينفعش حد إن هو يفضل في مكانه علشان أهله عايزينه كده
+REF phone: f iʕna mainfʕʃ ħd an hu ifdl fa mkanh ʕlʃan ʕlʃan ahlh ʕaizinh kdh
+HYP phone: f iʕni ma infʕʃ ħd ajن hu ifdl fi mkanh ʕlʃan ahlh ʕaizinh kdh
+PER: 0.16981 PSD: 0.22642 PSD_norm: 0.18421
+
+ID: S10-C03-R10_045300-045666_HMMDNN_Annotator1_hyp
+REF: هو تقريبا اكتر فيلم بحبه dark knight rises
+HYP: هو فيلم بحبو درك نيترز
+REF phone: hu tqriba aktr film bħbh dɑɹk najt ɹajzəz
+HYP phone: hu film bħbu drk nitrz
+PER: 0.58824 PSD: 0.64894 PSD_norm: 0.52256
+
+ID: S05-C03-R05_061487-061960_E2EsysA_Annotator1_hyp
+REF: و شغل متواصل يعنى مثلا كل مثلا ساعة اخد break ربع ساعة
+HYP: آ مش شغل متواصل يعني مثلا كل مثلا ساعة آخد بريك ربع ساعة
+REF phone: u ʃɣl mtuasl iʕna mθla kl mθla saʕt axd bɹejk rbʕ saʕt
+HYP phone: aٓ mʃ ʃɣl mtuasl iʕni mθla kl mθla saʕt aٓxd brik rbʕ saʕt
+PER: 0.2093 PSD: 0.2453 PSD_norm: 0.1885
+
+ID: S09-C03-R09_007124-007455_E2EsysS_Annotator1_hyp
+REF: ال bachelor project بتاعى كان عن حاجة اسمها semantic web
+HYP: الباتhelor project بتاعي كان عن حاجة اسمها سمانتic web
+REF phone: al bæʧəlɹ̩ pɹɑʤɛkt btaʕa kan ʕn ħaʤt asmha sɪmæntɪk wɛb
+HYP phone: albat hɛlɹ̩ pɹɑʤɛkt btaʕi kan ʕn ħaʤt asmha smant ɪk wɛb
+PER: 0.15217 PSD: 0.18091 PSD_norm: 0.09677
+
+ID: S05-C03-R05_009654-009871_HMMDNN_Annotator1_hyp
+REF: met لأ مختلف يعنى
+HYP: يا بنتي لأ مختلف يعني
+REF phone: mɛt la mxtlf iʕna
+HYP phone: ia bnti la mxtlf iʕni
+PER: 0.42857 PSD: 0.53686 PSD_norm: 0.2032
+
+ID: I01-C03-R09_004851-005120_HMMDNN_Annotator1_hyp
+REF: و ال ممكن تحكيلنا عن project بتاعك bachelor او كده
+HYP: وال ممكن تحكي لنا عن project
+REF phone: u al mmkn tħkilna ʕn pɹɑʤɛkt btaʕk bæʧəlɹ̩ au kdh
+HYP phone: ual mmkn tħki lna ʕn pɹɑʤɛkt
+PER: 0.425 PSD: 0.425 PSD_norm: 0.41379
+
+ID: S09-C03-R09_096709-097239_E2EsysS_Annotator1_hyp
+REF: اندهش ان انا ان فى حد بيقول فعلا ان انا مش عارف ان حد داخل interview و بيقولى ده انا مش عارف فعلا الموضوع ده
+HYP: ماشي إن في حد يقول فعلا أنا مش عارف إن حد داخل interview يقول لي أنا مش عارف فعلا الموضوع ده
+REF phone: andhʃ an ana an fa ħd biqul fʕla an ana mʃ ʕarf an ħd daxl ɪntɹ̩vju u biqula dh ana mʃ ʕarf fʕla almuduʕ dh
+HYP phone: maʃi ajن fi ħd iqul fʕla ana mʃ ʕarf ajن ħd daxl ɪntɹ̩vju iqul li ana mʃ ʕarf fʕla almuduʕ dh
+PER: 0.25301 PSD: 0.33735 PSD_norm: 0.32727
+
+ID: S02-C03-R02_028766-029017_E2EsysA_Annotator1_hyp
+REF: مش عارفة
+HYP: أم مش عارف
+REF phone: mʃ ʕarft
+HYP phone: am mʃ ʕarf
+PER: 0.42857 PSD: 0.42857 PSD_norm: 0.33333
+
+ID: S09-C03-R09_085560-085835_E2EsysA_Annotator1_hyp
+REF: ممكن تبقى to be liked بحاجات مش صح
+HYP: نكتب ال tobi لاكتب حاجات مش صح
+REF phone: mmkn tbqa tə bi lajkt bħaʤat mʃ sħ
+HYP phone: nktb al towbi laktb ħaʤat mʃ sħ
+PER: 0.2963 PSD: 0.34407 PSD_norm: 0.38095
+
+ID: I02-C03-R09_057145-057603_E2EsysA_Annotator1_hyp
+REF: طيب انت سافرت برا قبل كده
+HYP: طيب م أنت سافرت برة قبل كده
+REF phone: tib ant safrt bra qbl kdh
+HYP phone: tib m ant safrt brt qbl kdh
+PER: 0.1 PSD: 0.15 PSD_norm: 0.125
+
+ID: I02-C03-R07_035819-035974_E2EsysS_Annotator1_hyp
+REF: و ايه اكتر كتاب اثر فيك
+HYP: يا دكتور كتاب أصر فيك
+REF phone: u aih aktr ktab aθr fik
+HYP phone: ia dktur ktab asr fik
+PER: 0.33333 PSD: 0.33511 PSD_norm: 0.27564
+
+ID: S12-C03-R12_117796-118364_E2EsysA_Annotator1_hyp
+REF: و بس يعنى فهو بالنسبالى يعنى حد كبير جدا
+HYP: و بس فيعني هو بالنسبة لي يعني حد كبير جدا
+REF phone: u bs iʕna fhu balnsbala iʕna ħd kbir ʤda
+HYP phone: u bs fiʕni hu balnsbt li iʕni ħd kbir ʤda
+PER: 0.1875 PSD: 0.3125 PSD_norm: 0.14286
+
+ID: S10-C03-R10_006800-007381_E2EsysA_Annotator1_hyp
+REF: بص اول حاجة انا كنت داخل الجامعة على اساس ان انا اخش mectronics او production تمام
+HYP: بس أنا أول حاجة كنت داخل الجامعة أثناء خش ميكروينكس و production تمام
+REF phone: bs aul ħaʤt ana knt daxl alʤamʕt ʕla asas an ana axʃ mɛktɹɑnɪks au pɹədʌkʃən tmam
+HYP phone: bs ana aul ħaʤt knt daxl alʤamʕt aθnaء xʃ mikruinks u pɹədʌkʃən tmam
+PER: 0.33333 PSD: 0.38806 PSD_norm: 0.23962
+
+ID: S02-C03-R02_034037-034330_E2EsysA_Annotator1_hyp
+REF: اه اقدر اقول حاجة زى كده
+HYP: آه أقدر أقول حاجة زي كده
+REF phone: ah aqdr aqul ħaʤt za kdh
+HYP phone: aٓh aqdr aqul ħaʤt zi kdh
+PER: 0.10526 PSD: 0.15789 PSD_norm: 0.07692
+
+ID: I02-C03-R02_034687-034883_E2EsysS_Annotator1_hyp
+REF: لأ ok
+HYP: لا لا ok
+REF phone: la owkej
+HYP phone: la la owkej
+PER: 0.28571 PSD: 0.28571 PSD_norm: 0.25
+
+ID: S12-C03-R12_088352-088849_E2EsysA_Annotator1_hyp
+REF: بس الباقى بقى عادى يعنى مثلا الغردقة و شرم الشيخ و الحاجات دى عادى
+HYP: آ بس الباقي بقى عادي يعني مثلا غرداء وشرم الشيخ والحياة زي ما عادي
+REF phone: bs albaqa bqa ʕada iʕna mθla alɣrdqt u ʃrm alʃix u alħaʤat da ʕada
+HYP phone: aٓ bs albaqi bqa ʕadi iʕni mθla ɣrdaء uʃrm alʃix ualħiat zi ma ʕadi
+PER: 0.28302 PSD: 0.4157 PSD_norm: 0.24339
+
+ID: I02-C03-R09_011623-012222_E2EsysS_Annotator1_hyp
+REF: ممكن تقولنا بتعمل ايه فى weekends لو عندك plans معينة او activities بتحب تعملها
+HYP: طيب ممكن تقول لنا تعمل a few week end لو عندك plans minor أو activities تحب تعملها
+REF phone: mmkn tqulna btʕml aih fa wikɛndz lu ʕndk plænz mʕint au æktɪvətiz btħb tʕmlha
+HYP phone: tib mmkn tqul lna tʕml ə fju wik ɛnd lu ʕndk plænz majnɹ̩ au æktɪvətiz tħb tʕmlha
+PER: 0.25 PSD: 0.32509 PSD_norm: 0.2766
+
+ID: S02-C03-R02_003552-004462_E2EsysS_Annotator1_hyp
+REF: ان انت تعمل ال board ازأى تبقى using laser pointer و it will be acted as a mouse بس
+HYP: in an تعمل in board the dataبقى using laser pointer it with the act like a mouse
+REF phone: an ant tʕml al bɔɹd azaa tbqa juzɪŋ lejzɹ̩ pojntɹ̩ u ɪt wɪl bi æktəd æz ə maws bs
+HYP phone: ɪn æn tʕml ɪn bɔɹd ðə dejtə bqa juzɪŋ lejzɹ̩ pojntɹ̩ ɪt wɪð ðə ækt lajk ə maws
+PER: 0.33333 PSD: 0.46489 PSD_norm: 0.40552
+
+ID: I02-C03-R02_008983-009307_E2EsysA_Annotator1_hyp
+REF: ايه اكتر حاجة بتحبى تطبخيها
+HYP: أوكي إيه أكتر حاجة تحبي تطبخيها
+REF phone: aih aktr ħaʤt btħba ttbxiha
+HYP phone: auki aj ih aktr ħaʤt tħbi ttbxiha
+PER: 0.30435 PSD: 0.34783 PSD_norm: 0.1875
+
+ID: S10-C03-R10_019647-020601_E2EsysA_Annotator1_hyp
+REF: حاليا دلوقتى الجمعة بروح انا بتمرن american football فكل جمعة تقريبا بروح بتفرج على ماتشات يا اما لو مش بروح بنزل مع صحابى عادى
+HYP: حاليا دلوقتي الجمعة بروح أنا بتمنى أعمل لك الفوتبول فكل جمعة تقريبا بروح بتفرج ع الماتشات يا إما لو مش بروح بنزل مع أصحاب يعني
+REF phone: ħalia dluqta alʤmʕt bruħ ana btmrn əmɛɹəkən fʊtbɔl fkl ʤmʕt tqriba bruħ btfrʤ ʕla matʃat ia ama lu mʃ bruħ bnzl mʕ sħaba ʕada
+HYP phone: ħalia dluqti alʤmʕt bruħ ana btmna aʕml lk alfutbul fkl ʤmʕt tqriba bruħ btfrʤ ʕ almatʃat ia aj ma lu mʃ bruħ bnzl mʕ asħab iʕni
+PER: 0.19608 PSD: 0.26216 PSD_norm: 0.10631
+
+ID: S07-C03-R07_061405-061877_E2EsysS_Annotator1_hyp
+REF: i acquired a lot of knowledge يعنى عن ال networks بشكل عام من ال project ده
+HYP: آه quite a lot of knowledge يعني عن network بشكل عام من project ده
+REF phone: aj əkwajɹ̩d ə lɑt ʌv nɑləʤ iʕna ʕn al nɛtwɹ̩ks bʃkl ʕam mn al pɹɑʤɛkt dh
+HYP phone: aٓh kwajt ə lɑt ʌv nɑləʤ iʕni ʕn nɛtwɹ̩k bʃkl ʕam mn pɹɑʤɛkt dh
+PER: 0.19298 PSD: 0.23712 PSD_norm: 0.20771
+
+ID: S12-C03-R12_093297-095505_HMMDNN_Annotator1_hyp
+REF: هى انا عارفه ان هى اكيد مش حتبقى سهلة وأن انا حابقى قاعدة لوحدى و و انها حتبقى فى يعنى responsibility كبيرة جدا ان انا يعنى ان انت نفسك خلاص انت بقيت مسئول عن نفسك و خلاص يعنى ما ماحدش حيقدر يلحقك لو فى اى مشكلة يعنى و كده بس انا بيتهيألى ان هم مش حينسونى و هيجيوا يزورونى يعنى و انا حابقى اكيد حاروحلهم يعنى
+HYP: هي أنا عارفة إن هي أكيد مش حتبقى سهلة و إن أنا هبقى لوحدي و وال هتبقى فيه يعني responsibility كبيرة جدا إن أنا يعني إن أنت نفسك خلاص بقيت مسؤولة عن نفسك وخلاص يعني ما حدش حيقدر يلحقك لو فيه أي مشكلة يعني وكده بس أنا بيتهيألي إن هما مش حينسوني هايبو ييجوا يزوروني يعني ونهب كذه نروحلو معاه
+REF phone: ha ana ʕarfh an ha akid mʃ ħtbqa shlt uan ana ħabqa qaʕdt luħda u u anha ħtbqa fa iʕna ɹispɑnsəbɪləti kbirt ʤda an ana iʕna an ant nfsk xlas ant bqit msi aj ul ʕn nfsk u xlas iʕna ma maħdʃ ħiqdr ilħqk lu fa aa mʃklt iʕna u kdh bs ana bithiala an hm mʃ ħinsuna u hiʤiua izuruna iʕna u ana ħabqa akid ħaruħlhm iʕna
+HYP phone: hi ana ʕarft ajن hi akid mʃ ħtbqa shlt u ajن ana hbqa luħdi u ual htbqa fih iʕni ɹispɑnsəbɪləti kbirt ʤda ajن ana iʕni ajن ant nfsk xlas bqit msuult ʕn nfsk uxlas iʕni ma ħdʃ ħiqdr ilħqk lu fih ai mʃklt iʕni ukdh bs ana bithiali ajن hma mʃ ħinsuni haibu iiʤua izuruni iʕni unhb kðh nruħlu mʕah
+PER: 0.27347 PSD: 0.37642 PSD_norm: 0.27963
+
+ID: S02-C03-R02_031455-031649_E2EsysS_Annotator1_hyp
+REF: عملت internships قبل كده ايام الجامعة
+HYP: قبل كده أيام الجامعة
+REF phone: ʕmlt ɪntɹ̩nʃɪps qbl kdh aiam alʤamʕt
+HYP phone: qbl kdh aiam alʤamʕt
+PER: 0.45161 PSD: 0.45161 PSD_norm: 0.5
+
+ID: S07-C03-R07_100398-100884_HMMDNN_Annotator1_hyp
+REF: ف ف يعنى اه this is definitely somthing i look up to يعنى
+HYP: this is definitely something هيلوكوبتر
+REF phone: f f iʕna ah ðɪs ɪz dɛfənətli sɑmθɪŋ aj lʊk ʌp tə iʕna
+HYP phone: ðɪs ɪz dɛfənətli sʌmθɪŋ hilukubtr
+PER: 0.46341 PSD: 0.50195 PSD_norm: 0.37633
+
+ID: S10-C03-R10_102836-104217_E2EsysS_Annotator1_hyp
+REF: لأ يعنى ساعات ممكن مثلا ابقى فى جدال مع حد مثلا و حد من صحابى يعنى عادى و ممكن ابقى حاسس مثلا ان هو الحاجة اللى انا حاقولها دى مش حيفهمها مثلا ففتى فيها عادى و ببقى عارف ان انا بفتى عادى
+HYP: لا يعني ساعات ممكن مثلا أبقى في جدال مع حد مثلا وحد أصحاب يعني عادي وممكن أبحث مثلا أن الحاجة اللي أنا ولادي مش سيفهمها مثلا ففتي فيها عادي وبعرف إني أنا بفت أدي جدا
+REF phone: la iʕna saʕat mmkn mθla abqa fa ʤdal mʕ ħd mθla u ħd mn sħaba iʕna ʕada u mmkn abqa ħass mθla an hu alħaʤt alla ana ħaqulha da mʃ ħifhmha mθla ffta fiha ʕada u bbqa ʕarf an ana bfta ʕada
+HYP phone: la iʕni saʕat mmkn mθla abqa fi ʤdal mʕ ħd mθla uħd asħab iʕni ʕadi ummkn abħθ mθla an alħaʤt alli ana uladi mʃ sifhmha mθla ffti fiha ʕadi ubʕrf aj ni ana bft adi ʤda
+PER: 0.22069 PSD: 0.30367 PSD_norm: 0.18314
+
+ID: I01-C03-R10_046430-046670_E2EsysS_Annotator1_hyp
+REF: يعنى ممكن اه brief story
+HYP: يعني ممكن أقعد بريف story
+REF phone: iʕna mmkn ah bɹif stɔɹi
+HYP phone: iʕni mmkn aqʕd brif stɔɹi
+PER: 0.26316 PSD: 0.37011 PSD_norm: 0.38708
+
+ID: S05-C03-R05_021725-022176_E2EsysA_Annotator1_hyp
+REF: و بحب اتعلم لغات كتيرة برضه
+HYP: و ما بحب أتعلم لغات كتيرة برضه
+REF phone: u bħb atʕlm lɣat ktirt brdh
+HYP phone: u ma bħb atʕlm lɣat ktirt brdh
+PER: 0.09091 PSD: 0.09091 PSD_norm: 0.05556
+
+ID: S12-C03-R12_077034-077999_E2EsysA_Annotator1_hyp
+REF: و طبعا احلى حاجة فيها كانت disney land يعنى i am a number one fan يعنى ل disney من الصغر و حافظة كل الأغانى بتاعتهم حتى دلوقتى
+HYP: و طبعا أحلى حاجة فيها كانت ديزني العند يعني أنا ما نمر ون فن يعني ديزني من صغر وحافظة على كل الأغاني بتاعتهم حتى دلوقتي
+REF phone: u tbʕa aħla ħaʤt fiha kant dɪzni lænd iʕna aj æm ə nʌmbɹ̩ wʌn fæn iʕna l dɪzni mn alsɣr u ħafðt kl alaɣana btaʕthm ħta dluqta
+HYP phone: u tbʕa aħla ħaʤt fiha kant dizni alʕnd iʕni ana ma nmr un fn iʕni dizni mn sɣr uħafðt ʕla kl alaɣani btaʕthm ħta dluqti
+PER: 0.24242 PSD: 0.31214 PSD_norm: 0.16972
+
+ID: S05-C03-R05_048282-049387_E2EsysS_Annotator1_hyp
+REF: و بس once بقى انهم واحدة واحدة بدأوا يفهموا اللغات ممكن يفهموا معنى الكلمة اكتر ممكن نعلمها بلغة تانية اللغة اللى مش بتتقال فى البيت او اللغة الى ممكن يستخدموها فى المدارس او فى حاجة تانية
+HYP: و بس once بقى إن هو واحدة بدأ يفهم اللغاات ممكن ال يفهموا معاك كلمة أكتر ممكن نعلمها بلغة تانية اللي من اللغة اللي مش بتتقال في البيت أو اللغة اللي ممكن يستخدموها في المدارس أو في حاجة تانية
+REF phone: u bs wʌns bqa anhm uaħdt uaħdt bdaua ifhmua allɣat mmkn ifhmua mʕna alklmt aktr mmkn nʕlmha blɣt tanit allɣt alla mʃ bttqal fa albit au allɣt ala mmkn istxdmuha fa almdars au fa ħaʤt tanit
+HYP phone: u bs wʌns bqa ajن hu uaħdt bda ifhm allɣaat mmkn al ifhmua mʕak klmt aktr mmkn nʕlmha blɣt tanit alli mn allɣt alli mʃ bttqal fi albit au allɣt alli mmkn istxdmuha fi almdars au fi ħaʤt tanit
+PER: 0.18954 PSD: 0.23529 PSD_norm: 0.15385
+
+ID: S10-C03-R10_001959-002161_E2EsysA_Annotator1_hyp
+REF: اتولدت فى القاهرة عادى
+HYP: إتولدت في القاهرة عادي
+REF phone: atuldt fa alqahrt ʕada
+HYP phone: aj tuldt fi alqahrt ʕadi
+PER: 0.15789 PSD: 0.26316 PSD_norm: 0.08333
+
+ID: I01-C03-R10_046430-046670_E2EsysA_Annotator1_hyp
+REF: يعنى ممكن اه brief story
+HYP: أه يعني ممكن أقعد brief story
+REF phone: iʕna mmkn ah bɹif stɔɹi
+HYP phone: ah iʕni mmkn aqʕd bɹif stɔɹi
+PER: 0.31579 PSD: 0.42105 PSD_norm: 0.38462
+
+ID: I02-C03-R10_057575-058394_E2EsysA_Annotator1_hyp
+REF: طيب ممكن تحكيلنا سافرت فين و ايه ال experience اللى كانت هناك و اكتر مكان فى البلد اللى انت زورتها دى فرق معاك يعنى
+HYP: طيب ممكن تحكي لنا سافرت فين والإكسبرينس اللي كانت هناك وأكتر مكان في البلد اللي أنت زرتها دي فرق معاكي يعني
+REF phone: tib mmkn tħkilna safrt fin u aih al ɪkspɪɹiəns alla kant hnak u aktr mkan fa albld alla ant zurtha da frq mʕak iʕna
+HYP phone: tib mmkn tħki lna safrt fin ual aj ksbrins alli kant hnak uaktr mkan fi albld alli ant zrtha di frq mʕaki iʕni
+PER: 0.16304 PSD: 0.2237 PSD_norm: 0.05816
+
+ID: S05-C03-R05_063998-064867_E2EsysA_Annotator1_hyp
+REF: ال working life دى حاجة رهيبة جميلة بس دايما فيها risks كتيرة و بعدين انت بتبقى خلاص لوحدك كده بقى انت لو عكيت الدنيا خلاص ماحدش حينجدك يعنى
+HYP: ال working life دي حاجة رهيبة جميلة بس دايما فيها risk كتيرة وبعدين أنت بتبقى خلاص لوحدك كده بقى أنت لو عكيت الدنيا خلاص ما حدش هينجدك يعني
+REF phone: al wɹ̩kɪŋ lajf da ħaʤt rhibt ʤmilt bs daima fiha ɹɪsks ktirt u bʕdin ant btbqa xlas luħdk kdh bqa ant lu ʕkit aldnia xlas maħdʃ ħinʤdk iʕna
+HYP phone: al wɹ̩kɪŋ lajf di ħaʤt rhibt ʤmilt bs daima fiha ɹɪsk ktirt ubʕdin ant btbqa xlas luħdk kdh bqa ant lu ʕkit aldnia xlas ma ħdʃ hinʤdk iʕni
+PER: 0.03571 PSD: 0.05846 PSD_norm: 0.03185
+
+ID: S07-C03-R07_093352-093933_E2EsysS_Annotator1_hyp
+REF: ok هو انا as student انا شخصيا كنت بفضل اشتغل individually مش in group projects
+HYP: okay one as a student أنا شخصيا كنت بفضل أشتغل individually مش group projects
+REF phone: owkej hu ana æz studənt ana ʃxsia knt bfdl aʃtɣl ɪndɪvɪʤuəli mʃ ɪn ɡɹup pɹɑʤɛkts
+HYP phone: owkej wʌn æz ə studənt ana ʃxsia knt bfdl aʃtɣl ɪndɪvɪʤuəli mʃ ɡɹup pɹɑʤɛkts
+PER: 0.10606 PSD: 0.12952 PSD_norm: 0.06977
+
+ID: S14-C03-R14_005400-006583_E2EsysA_Annotator1_hyp
+REF: بص هو انا basically دخلت computer science و ال ال major بقى بتاعى information systems اللى كانت كنا بن analyze data بقى و ال retrieval و ال storage و الحاجات دية
+HYP: بص هو أنا بقى زي كده خدت كمبيوتر ساينس والما الميجر بقى بتاعي اللي هو information systems اللي هو كانت كنا بنقول لاي من أنا لايز ديتة بقى وال تريبر والستور دي بالحاجات ديت
+REF phone: bs hu ana bejsɪkli dxlt kəmpjutɹ̩ sajəns u al al mejʤɹ̩ bqa btaʕa ɪnfɹ̩mejʃən sɪstəmz alla kant kna bn ænəlajz dejtə bqa u al ɹɪtɹivəl u al stɔɹəʤ u alħaʤat dit
+HYP phone: bs hu ana bqa zi kdh xdt kmbiutr sains ualma almiʤr bqa btaʕi alli hu ɪnfɹ̩mejʃən sɪstəmz alli hu kant kna bnqul lai mn ana laiz ditt bqa ual tribr ualstur di balħaʤat dit
+PER: 0.42308 PSD: 0.49575 PSD_norm: 0.42548
+
+ID: S02-C03-R02_065660-066676_HMMDNN_Annotator1_hyp
+REF: بس يعنى المشكلة اللى حصلتلى اياميها كانت مشكلة جامدة و الحمد لله overcame it يعنى
+HYP: بس يعني ال ال ال المشكلة اللي حصلت لي أياميها كنت مشكلة جامدة والحمد لله أوفر تايم
+REF phone: bs iʕna almʃklt alla ħsltla aiamiha kant mʃklt ʤamdt u alħmd llh owvɹ̩kejm ɪt iʕna
+HYP phone: bs iʕni al al al almʃklt alli ħslt li aiamiha knt mʃklt ʤamdt ualħmd llh aufr taim
+PER: 0.33824 PSD: 0.38329 PSD_norm: 0.26142
+
+ID: I01-C03-R14_000568-000641_E2EsysS_Annotator1_hyp
+REF: اتولدت فين
+HYP: مترتفين
+REF phone: atuldt fin
+HYP phone: mtrtfin
+PER: 0.44444 PSD: 0.50178 PSD_norm: 0.41933
+
+ID: S07-C03-R07_016084-016618_HMMDNN_Annotator1_hyp
+REF: ف i believe يعنى ان دى كت one of the defining experiences in my life
+HYP: i believe the defining experiences in my life
+REF phone: f aj bɪliv iʕna an da kt wʌn ʌv ðə dɪfajnɪŋ ɪkspɪɹiənsɪz ɪn maj lajf
+HYP phone: aj bɪliv ðə dɪfajnɪŋ ɪkspɪɹiənsɪz ɪn maj lajf
+PER: 0.2963 PSD: 0.2963 PSD_norm: 0.30303
+
+ID: S05-C03-R05_111592-112474_E2EsysA_Annotator1_hyp
+REF: لكن اه يعنى بسبب ال courses اللى عندنا فى الجامعة و بسبب ان فى ناس فى الجامعة doctors او tas انت مضطر ان انت تتعامل بالطريقة اه انت بتدوس فى الموضوع ده يعنى
+HYP: لكن آه يعني بسبب الكورسيز اللي عندنا في الجامعة وسبب إن في ناس في الجامعة دكتور أو تي إس أنت مضطر إن أنت تتعامل بالطريقة دي آه أنت بتدوس في الموضوع ده يعني
+REF phone: lkn ah iʕna bsbb al kɔɹsəz alla ʕndna fa alʤamʕt u bsbb an fa nas fa alʤamʕt dɑktɹ̩z au tæs ant mdtr an ant ttʕaml baltriqt ah ant btdus fa almuduʕ dh iʕna
+HYP phone: lkn aٓh iʕni bsbb alkursiz alli ʕndna fi alʤamʕt usbb ajن fi nas fi alʤamʕt dktur au ti ajس ant mdtr ajن ant ttʕaml baltriqt di aٓh ant btdus fi almuduʕ dh iʕni
+PER: 0.21951 PSD: 0.31654 PSD_norm: 0.20075
+
+ID: S02-C03-R02_005218-005504_E2EsysS_Annotator1_hyp
+REF: يعنى بعمل ايه فى يومى يعنى اى
+HYP: يعني بعمل few يعني إيه
+REF phone: iʕna bʕml aih fa iuma iʕna aa
+HYP phone: iʕni bʕml fju iʕni aj ih
+PER: 0.52174 PSD: 0.69565 PSD_norm: 0.45455
+
+ID: S09-C03-R09_072931-073345_HMMDNN_Annotator1_hyp
+REF: تقريبا لأ خالص
+HYP: تقريبا لا خالص
+REF phone: tqriba la xals
+HYP phone: tqriba la xals
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S05-C03-R05_028521-029447_HMMDNN_Annotator1_hyp
+REF: انا فى ال club عامة ده احنا شغالين على projects مش شغل logistics او hr او حاجات زى كده projects معينة بنمسك project
+HYP: أنا في الكلام دا دا إحنا شغالين على بروجيكس مش شغل واللوجيستيكس أو حاجة زي كده بروجيكس معينة من يمسك project
+REF phone: ana fa al klʌb ʕamt dh aħna ʃɣalin ʕla pɹɑʤɛkts mʃ ʃɣl ləʤɪstɪks au hɹ au ħaʤat za kdh pɹɑʤɛkts mʕint bnmsk pɹɑʤɛkt
+HYP phone: ana fi alklam da da aj ħna ʃɣalin ʕla bruʤiks mʃ ʃɣl ualluʤistiks au ħaʤt zi kdh bruʤiks mʕint mn imsk pɹɑʤɛkt
+PER: 0.34409 PSD: 0.40441 PSD_norm: 0.20991
+
+ID: S02-C03-R02_034037-034330_HMMDNN_Annotator1_hyp
+REF: اه اقدر اقول حاجة زى كده
+HYP: آه آه أقدر أقول حاجة زي كده
+REF phone: ah aqdr aqul ħaʤt za kdh
+HYP phone: aٓh aٓh aqdr aqul ħaʤt zi kdh
+PER: 0.26316 PSD: 0.31579 PSD_norm: 0.23077
+
+ID: I02-C03-R14_068563-069201_E2EsysA_Annotator1_hyp
+REF: طيب فيه سؤال بيقول would you rather be liked or respected انت حتختار ايه و ليه
+HYP: طيب في سؤال بيقول ودي راذر بي لايكت وال respected أنت هتختار إيه وليه
+REF phone: tib fih sual biqul wʊd ju ɹæðɹ̩ bi lajkt ɔɹ ɹɪspɛktɪd ant ħtxtar aih u lih
+HYP phone: tib fi sual biqul udi raðr bi laikt ual ɹɪspɛktɪd ant htxtar aj ih ulih
+PER: 0.25424 PSD: 0.28427 PSD_norm: 0.26653
+
+ID: S14-C03-R14_014933-015995_E2EsysS_Annotator1_hyp
+REF: بس و بعد كده بقى بشوف ال tutorials اللى ورايا مثلا او ورايا correction او ورايا مثلا meetings او حاجة م الحاجات دية او لو فيه حاجة فى ال research مثلا حاعملها مثلا experiment حاجة كده يعنى وبس
+HYP: this why can i أشوف to swears the ورائي مثلا our recollection or i مثلا meeting the high on الحاجات date oh لو fact if you research مثلا هعملها مثلا experiment حاجة كده annu بس
+REF phone: bs u bʕd kdh bqa bʃuf al tutɔɹiəlz alla uraia mθla au uraia kɹ̩ɛkʃən au uraia mθla mitɪŋz au ħaʤt m alħaʤat dit au lu fih ħaʤt fa al ɹisɹ̩ʧ mθla ħaʕmlha mθla ɪkspɛɹəmənt ħaʤt kdh iʕna ubs
+HYP phone: ðɪs waj kæn aj aʃuf tə swɛɹz ðə ura ajي mθla awɹ̩ ɹɛkəlɛkʃən ɔɹ aj mθla mitɪŋ ðə haj ɑn alħaʤat dejt ow lu fækt ɪf ju ɹisɹ̩ʧ mθla hʕmlha mθla ɪkspɛɹəmənt ħaʤt kdh ænu bs
+PER: 0.44 PSD: 0.58191 PSD_norm: 0.52
+
+ID: I02-C03-R02_051389-051914_E2EsysS_Annotator1_hyp
+REF: طيب لو جاتلك فرصة انك تهاجرى برا تحبى كده ولا انت بتحبى تقعدى هنا فى البلد
+HYP: طيب لو كانت لك فرصة إنك تها agreeبر تحبي كده ولا إنتي تحبيت عدي هنا في البلد
+REF phone: tib lu ʤatlk frst ank thaʤra bra tħba kdh ula ant btħba tqʕda hna fa albld
+HYP phone: tib lu kant lk frst aj nk tha əɡɹi br tħbi kdh ula aj nti tħbit ʕdi hna fi albld
+PER: 0.25424 PSD: 0.39037 PSD_norm: 0.2333
+
+ID: I01-C03-R14_033835-034044_E2EsysA_Annotator1_hyp
+REF: ok ماشى ده حلو
+HYP: ok ماشي هذا حلو
+REF phone: owkej maʃa dh ħlu
+HYP phone: owkej maʃi hða ħlu
+PER: 0.28571 PSD: 0.35714 PSD_norm: 0.22222
+
+ID: S07-C03-R07_021100-022847_E2EsysA_Annotator1_hyp
+REF: بس اول ما بصحى obviously actually read a few articles يعنى ان اول حاجة المفروض تعملها الصبح انك تأخد cold shower عشان ال shock ده بتخلى ال ال blood ى migrate into the inner organs مش لبرا
+HYP: بس أول ما بأصحى أو بس لي آ عاش لي ردة فيو أرتكنز يعني إن أول حاجة مفروض تعملها الصبح إن أنت آخد كول شاور عشان الشك ده بتخلي ال آ ال blood آ يماي جريت إنتو الإنر أورغن مش لبرا
+REF phone: bs aul ma bsħa ɑbviəsli ækʧəwəli ɹɛd ə fju ɑɹtəkəlz iʕna an aul ħaʤt almfrud tʕmlha alsbħ ank taxd kowld ʃawɹ̩ ʕʃan al ʃɑk dh btxla al al blʌd a majɡɹejt ɪntu ðə ɪnɹ̩ ɔɹɡənz mʃ lbra
+HYP phone: bs aul ma basħa au bs li aٓ ʕaʃ li rdt fiu artknz iʕni ajن aul ħaʤt mfrud tʕmlha alsbħ ajن ant aٓxd kul ʃaur ʕʃan alʃk dh btxli al aٓ al blʌd aٓ imai ʤrit aj ntu al aj nr aurɣn mʃ lbra
+PER: 0.42069 PSD: 0.51388 PSD_norm: 0.42169
+
+ID: S10-C03-R10_012803-013040_HMMDNN_Annotator1_hyp
+REF: مش فاكر الصراحة عشان ماكدبش عليك
+HYP: مش فاكر بصراحة
+REF phone: mʃ fakr alsraħt ʕʃan makdbʃ ʕlik
+HYP phone: mʃ fakr bsraħt
+PER: 0.59259 PSD: 0.62963 PSD_norm: 0.61905
+
+ID: S02-C03-R02_032387-032830_HMMDNN_Annotator1_hyp
+REF: و كان فى training تانى كان فى siemens
+HYP: وكان في فانينغ تاني كنت فوجيتسو سيمنز
+REF phone: u kan fa tɹejnɪŋ tana kan fa simənz
+HYP phone: ukan fi faninɣ tani knt fuʤitsu simnz
+PER: 0.60714 PSD: 0.73614 PSD_norm: 0.59388
+
+ID: I01-C03-R02_074510-075216_HMMDNN_Annotator1_hyp
+REF: طيب يعنى انا السؤال حاقراه زى ما هو كده اللى هو in a class او عامة would you rather be liked or respected
+HYP: طيب أنا سأقرأ وزي ما هو كده would you rather be like a respected
+REF phone: tib iʕna ana alsual ħaqrah za ma hu kdh alla hu ɪn ə klæs au ʕamt wʊd ju ɹæðɹ̩ bi lajkt ɔɹ ɹɪspɛktɪd
+HYP phone: tib ana saqra uzi ma hu kdh wʊd ju ɹæðɹ̩ bi lajk ə ɹɪspɛktɪd
+PER: 0.4359 PSD: 0.46526 PSD_norm: 0.38298
+
+ID: I01-C03-R02_017724-018066_E2EsysS_Annotator1_hyp
+REF: فى حد فى حاجة فى حد معين ولا مافيش
+HYP: في حاجة في حد معين ولا م ما فيش
+REF phone: fa ħd fa ħaʤt fa ħd mʕin ula mafiʃ
+HYP phone: fi ħaʤt fi ħd mʕin ula m ma fiʃ
+PER: 0.26923 PSD: 0.34615 PSD_norm: 0.23529
+
+ID: I01-C03-R02_078534-078670_E2EsysA_Annotator1_hyp
+REF: ماشى
+HYP: ماشي
+REF phone: maʃa
+HYP phone: maʃi
+PER: 0.25 PSD: 0.5 PSD_norm: 0.0
+
+ID: S07-C03-R07_008475-008731_HMMDNN_Annotator1_hyp
+REF: ال social aspects فى حياتى كان صغير و كان يعنى ال component بتاعه كان ضعيف اوى يعنى
+HYP: 
+REF phone: al sowʃəl æspɛkts fa ħiata kan sɣir u kan iʕna al kəmpownənt btaʕh kan dʕif aua iʕna
+HYP phone: 
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: I02-C03-R02_040925-041434_E2EsysA_Annotator1_hyp
+REF: ok طب ايه اكتر مكان علم معاكى فى اكتر بلد عجبتك
+HYP: أوكي طيب إيه أكتر مكان نعلم معاكي ف أكتر بلد عجبتك
+REF phone: owkej tb aih aktr mkan ʕlm mʕaka fa aktr bld ʕʤbtk
+HYP phone: auki tib aj ih aktr mkan nʕlm mʕaki f aktr bld ʕʤbtk
+PER: 0.225 PSD: 0.2508 PSD_norm: 0.13333
+
+ID: S14-C03-R14_048352-049298_HMMDNN_Annotator1_hyp
+REF: او احتا عندنا مثلا يعنى high level مثلا of authority عليك فلازم ت follow us و لو ماعملتش كدا حنخش فى debates او حاجات من كدا
+HYP: فإحنا عندنا مثلا high level of authority عليك فلازم follow أصلا ما عملتش كده عن خشب ديبيتي وحاجات كده
+REF phone: au aħta ʕndna mθla iʕna haj lɛvəl mθla ʌv əθɔɹəti ʕlik flazm t fɑlow ʌs u lu maʕmltʃ kda ħnxʃ fa dəbejts au ħaʤat mn kda
+HYP phone: f aj ħna ʕndna mθla haj lɛvəl ʌv əθɔɹəti ʕlik flazm fɑlow asla ma ʕmltʃ kdh ʕn xʃb dibiti uħaʤat kdh
+PER: 0.29474 PSD: 0.36297 PSD_norm: 0.28872
+
+ID: S07-C03-R07_090188-090976_HMMDNN_Annotator1_hyp
+REF: و it's ال stress بتاع الشغل كان عالى اوى فى الفترة دى بالذات فى حياتى فحاسيت اللى هو ok يعنى ان this is the difficult choice to make
+HYP: الشغل كان علي قوي في الفترة دي بالذات في حياتي فأحست difficult choice
+REF phone: u ɪts al stɹɛs btaʕ alʃɣl kan ʕala aua fa alftrt da balðat fa ħiata fħasit alla hu owkej iʕna an ðɪs ɪz ðə dɪfəkəlt ʧojs tə mejk
+HYP phone: alʃɣl kan ʕli qui fi alftrt di balðat fi ħiati faħst dɪfəkəlt ʧojs
+PER: 0.55446 PSD: 0.62376 PSD_norm: 0.45902
+
+ID: S14-C03-R14_018069-018683_E2EsysS_Annotator1_hyp
+REF: حاقولك بصى basically و انا صغير كنت بسمع كنت بسمع عربى اكتر من english لما كبرت بقى بقيت العكس خالص بقيت اسمع english اكتر من العربى
+HYP: آه اللي بصي بيدك لي معاناة صغيرة كنت أصعب بكنت أسمع عربي أكتر من english لما أجبرت أبقت العكس خالص تسمعين مش أكثر من عربي
+REF phone: ħaqulk bsa bejsɪkli u ana sɣir knt bsmʕ knt bsmʕ ʕrba aktr mn ɪŋɡlɪʃ lma kbrt bqa bqit alʕks xals bqit asmʕ ɪŋɡlɪʃ aktr mn alʕrba
+HYP phone: aٓh alli bsi bidk li mʕanat sɣirt knt asʕb bknt asmʕ ʕrbi aktr mn ɪŋɡlɪʃ lma aʤbrt abqt alʕks xals tsmʕin mʃ akθr mn ʕrbi
+PER: 0.375 PSD: 0.48727 PSD_norm: 0.38626
+
+ID: S12-C03-R12_048643-050458_HMMDNN_Annotator1_hyp
+REF: بس يعنى يعنى لسه ما اكيد انا لما هبدى ابقى related شوية لل لل field ده و اشوفه مثلا فى masters و كده حابتدى اشوف حاجات تانية ممكن انا ماكنش واخدة بالى منها دلوقتى فممكن ساعتها ابقى بقى يبقى عندى حاجة specificly اوى انه ده ده ده ده ال dream job يعنى
+HYP: شوف يا بيه يعني لسة ما اكيد انا لما هبتدي بقى ريلايتد شويه لل لل فيلده وأشوفه مثلا في مصر وكده هابتدي أشوف حاجات تانية ممكن أنا ما كتش واخدة بالي منها دلوقتي فممكن ساعتها بقى بقى يبقى عند يعني حكى specifically قوي وده هد دولين دو بيان
+REF phone: bs iʕna iʕna lsh ma akid ana lma hbda abqa ɹɪlejtɪd ʃuit ll ll fild dh u aʃufh mθla fa mæstɹ̩z u kdh ħabtda aʃuf ħaʤat tanit mmkn ana maknʃ uaxdt bala mnha dluqta fmmkn saʕtha abqa bqa ibqa ʕnda ħaʤt spɛsɪfɪkli aua anh dh dh dh dh al dɹim ʤɑb iʕna
+HYP phone: ʃuf ia bih iʕni lst ma akid ana lma hbtdi bqa rilaitd ʃuih ll ll fildh uaʃufh mθla fi msr ukdh habtdi aʃuf ħaʤat tanit mmkn ana ma ktʃ uaxdt bali mnha dluqti fmmkn saʕtha bqa bqa ibqa ʕnd iʕni ħka spəsɪfɪkli qui udh hd dulin du bian
+PER: 0.28061 PSD: 0.38823 PSD_norm: 0.28585
+
+ID: S02-C03-R02_050086-050178_HMMDNN_Annotator1_hyp
+REF: اه paris
+HYP: باريس
+REF phone: ah pɛɹɪs
+HYP phone: baris
+PER: 0.85714 PSD: 0.728 PSD_norm: 0.637
+
+ID: S09-C03-R09_088836-089654_E2EsysA_Annotator1_hyp
+REF: بس ال ال الشخص ال العنيد اللى هو هو بيتمسك بوجهة نظر معينة و بى shape everything around
+HYP: بس ال ال الشخص ال العنيد اللي هو هو بيتمسك بوجهة نظر معينة وبي shape everything around it
+REF phone: bs al al alʃxs al alʕnid alla hu hu bitmsk buʤht nðr mʕint u ba ʃejp ɛvɹiθɪŋ ɹ̩awnd
+HYP phone: bs al al alʃxs al alʕnid alli hu hu bitmsk buʤht nðr mʕint ubi ʃejp ɛvɹiθɪŋ ɹ̩awnd ɪt
+PER: 0.06061 PSD: 0.09091 PSD_norm: 0.02174
+
+ID: S05-C03-R05_028163-028285_E2EsysS_Annotator1_hyp
+REF: club enactus
+HYP: club nectors
+REF phone: klʌb ɪnæktəs
+HYP phone: klʌb nɛktɹ̩z
+PER: 0.45455 PSD: 0.50436 PSD_norm: 0.35943
+
+ID: S05-C03-R05_036442-036595_HMMDNN_Annotator1_hyp
+REF: team work لأ بيشجعوا بعض
+HYP: تيمور كلها بيشجعوا بعض
+REF phone: tim wɹ̩k la biʃʤʕua bʕd
+HYP phone: timur klha biʃʤʕua bʕd
+PER: 0.21053 PSD: 0.26484 PSD_norm: 0.288
+
+ID: S05-C03-R05_122656-123025_E2EsysA_Annotator1_hyp
+REF: ازاى بقى تخس ما انت بقى حتمشى كتير بقى و تفكر و كده اكيد مش حتاكل
+HYP: إزاي بقى تخس ما أنت بقى هتتمشى كتير بقى وتفكر وكده أكيد مش هتاكل
+REF phone: azaa bqa txs ma ant bqa ħtmʃa ktir bqa u tfkr u kdh akid mʃ ħtakl
+HYP phone: aj zai bqa txs ma ant bqa httmʃa ktir bqa utfkr ukdh akid mʃ htakl
+PER: 0.1 PSD: 0.14192 PSD_norm: 0.1456
+
+ID: I01-C03-R02_079235-079291_E2EsysA_Annotator1_hyp
+REF: بتحسى الوضوع
+HYP: السيسي مضاعفة
+REF phone: btħsa aluduʕ
+HYP phone: alsisi mdaʕft
+PER: 0.90909 PSD: 1.32255 PSD_norm: 1.14743
+
+ID: I01-C03-R09_001081-001196_E2EsysA_Annotator1_hyp
+REF: english ولا عربى
+HYP: الإنجش والعربي
+REF phone: ɪŋɡlɪʃ ula ʕrba
+HYP phone: al aj nʤʃ ualʕrbi
+PER: 0.69231 PSD: 0.85108 PSD_norm: 0.625
+
+ID: I01-C03-R02_044475-045016_E2EsysA_Annotator1_hyp
+REF: ok ماشى طب ممكن ممكن تحكيلنا ع ال phd نسمع عنها
+HYP: ok ممكن ممكن تحكي لنا عن ph d نسمعنا
+REF phone: owkej maʃa tb mmkn mmkn tħkilna ʕ al fd nsmʕ ʕnha
+HYP phone: owkej mmkn mmkn tħki lna ʕn piejʧ di nsmʕna
+PER: 0.38462 PSD: 0.43672 PSD_norm: 0.35587
+
+ID: I01-C03-R02_053794-053873_HMMDNN_Annotator1_hyp
+REF: فى اسباب
+HYP: 
+REF phone: fa asbab
+HYP phone: 
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: S02-C03-R02_089358-089670_HMMDNN_Annotator1_hyp
+REF: urgent but not important دى تانى حاجة تتعمل and so forth
+HYP: أرجو أن تبقى طنط امبورتانت تاني حاجة تعملها نتهم فورا
+REF phone: ɹ̩ʤənt bʌt nɑt ɪmpɔɹtənt da tana ħaʤt ttʕml ænd sow fɔɹθ
+HYP phone: arʤu an tbqa tnt amburtant tani ħaʤt tʕmlha nthm fura
+PER: 0.54348 PSD: 0.69417 PSD_norm: 0.42812
+
+ID: S02-C03-R02_007566-007881_HMMDNN_Annotator1_hyp
+REF: ده كل يوم بصحى الساعة ستة و نص الصبح
+HYP: ده كل يوم بس ها الساعة ستة ونص الصبح
+REF phone: dh kl ium bsħa alsaʕt stt u ns alsbħ
+HYP phone: dh kl ium bs ha alsaʕt stt uns alsbħ
+PER: 0.03571 PSD: 0.05529 PSD_norm: 0.07371
+
+ID: S05-C03-R05_097407-098138_E2EsysA_Annotator1_hyp
+REF: فانا حاسس ان انا عندى ال ان انا متعلم يعنى مش حاقول gift يعنى بس انا متعلم ان انت اه لأ ادخل و اتكلم و هو زى ما تيجى تيجى يعنى طالما باحترام
+HYP: فأنا حاسس إن أنا عندي ال إن أنا متعلم يعني مش هقول جفت يعني بس أنا متعلم إن قلت آه أدخل وأتكلم زي اللي تيجي تيجي يعني طالما باحترام
+REF phone: fana ħass an ana ʕnda al an ana mtʕlm iʕna mʃ ħaqul ɡɪft iʕna bs ana mtʕlm an ant ah la adxl u atklm u hu za ma tiʤa tiʤa iʕna talma baħtram
+HYP phone: fana ħass ajن ana ʕndi al ajن ana mtʕlm iʕni mʃ hqul ʤft iʕni bs ana mtʕlm ajن qlt aٓh adxl uatklm zi alli tiʤi tiʤi iʕni talma baħtram
+PER: 0.25926 PSD: 0.39396 PSD_norm: 0.32161
+
+ID: S12-C03-R12_132439-133444_HMMDNN_Annotator1_hyp
+REF: يعنى usage of english ان انا اقعد استخدم مثلا conjunctions و اه okay
+HYP: يعني إيه usage of english إن أنا أصطاد مثلا كانتون تشينزو أوكي
+REF phone: iʕna jusəʤ ʌv ɪŋɡlɪʃ an ana aqʕd astxdm mθla kənʤʌŋkʃənz u ah owkej
+HYP phone: iʕni aj ih jusəʤ ʌv ɪŋɡlɪʃ ajن ana astad mθla kantun tʃinzu auki
+PER: 0.41818 PSD: 0.53898 PSD_norm: 0.54286
+
+ID: S05-C03-R05_084037-084969_HMMDNN_Annotator1_hyp
+REF: بس هى البلد الى انا سافرتها هى كانت كلها forests فالغابات بالنسبالى كانت experience جديدة ماشفتهاش قبل كدا فى مصر خالص فبنسبالى دى كانت حاجة جميلة مش حاقدر انساها
+HYP: بس البلد للأسف نتائجه كانت كلها فورست فالغابات بالنسبة لي كان الإكسبيريانس جديدة ما شفتهاش قبل كده في مصر خالص فا فبالنسبة لي دي كات حاجة جميلة يعني مش هقدر أنساه
+REF phone: bs ha albld ala ana safrtha ha kant klha fɔɹəsts falɣabat balnsbala kant ɪkspɪɹiəns ʤdidt maʃfthaʃ qbl kda fa msr xals fbnsbala da kant ħaʤt ʤmilt mʃ ħaqdr ansaha
+HYP phone: bs albld llasf nta aj ʤh kant klha furst falɣabat balnsbt li kan al aj ksbirians ʤdidt ma ʃfthaʃ qbl kdh fi msr xals fa fbalnsbt li di kat ħaʤt ʤmilt iʕni mʃ hqdr ansah
+PER: 0.3209 PSD: 0.40345 PSD_norm: 0.24089
+
+ID: I01-C03-R10_001470-001612_HMMDNN_Annotator1_hyp
+REF: يعنى ال background
+HYP: يعني باجراوند
+REF phone: iʕna al bækɡɹawnd
+HYP phone: iʕni baʤraund
+PER: 0.53333 PSD: 0.7032 PSD_norm: 0.6032
+
+ID: I01-C03-R09_004281-004742_HMMDNN_Annotator1_hyp
+REF: كنت بتدرس ايه او mainly mainly ال ال education كان عن ايه
+HYP: كنت أدرس إي أو مين مين اللي يجي تيشم تاعك
+REF phone: knt btdrs aih au mejnli mejnli al al ɛʤəkejʃən kan ʕn aih
+HYP phone: knt adrs ajي au min min alli iʤi tiʃm taʕk
+PER: 0.58696 PSD: 0.72717 PSD_norm: 0.67407
+
+ID: S12-C03-R12_025006-026321_HMMDNN_Annotator1_hyp
+REF: بس و المفروض يعنى ان احنا بنسيب ال lab الساعة اربعة بس ده طبعا مابيحصلش كله يعنى ممكن مثلا لو خلصنا بدرى نمشى بدرى و ده اكتر حاجة احنا بنحبها يعنى
+HYP: بس المفروض إن إحنا بنسيبه لابس أربعة بس طبعا مابيحصلش كلو يعني ممكن مثلا خلصنا بدري نمشي بدري ده أكتر حاجة إحنا بنحبه
+REF phone: bs u almfrud iʕna an aħna bnsib al læb alsaʕt arbʕt bs dh tbʕa mabiħslʃ klh iʕna mmkn mθla lu xlsna bdra nmʃa bdra u dh aktr ħaʤt aħna bnħbha iʕna
+HYP phone: bs almfrud ajن aj ħna bnsibh labs arbʕt bs tbʕa mabiħslʃ klu iʕni mmkn mθla xlsna bdri nmʃi bdri dh aktr ħaʤt aj ħna bnħbh
+PER: 0.26724 PSD: 0.32814 PSD_norm: 0.21687
+
+ID: I02-C03-R12_118364-119020_E2EsysS_Annotator1_hyp
+REF: طيب فى سؤال بيقول would you rather be liked or respected تختارى انهى و ليه
+HYP: طيب في سؤال بقول would you rather be liked or respected تختري and he really
+REF phone: tib fa sual biqul wʊd ju ɹæðɹ̩ bi lajkt ɔɹ ɹɪspɛktɪd txtara anha u lih
+HYP phone: tib fi sual bqul wʊd ju ɹæðɹ̩ bi lajkt ɔɹ ɹɪspɛktɪd txtri ænd hi ɹɪli
+PER: 0.17857 PSD: 0.22407 PSD_norm: 0.08571
+
+ID: S05-C03-R05_104638-105017_E2EsysA_Annotator1_hyp
+REF: فعلى طبعا على قد مقدر بحاول الموضوع ده مايبقاش عيب يعنى
+HYP: طبعا على قد ما أقدر أحاول أن الموضوع ده ما يبقاش عيب يعني
+REF phone: fʕla tbʕa ʕla qd mqdr bħaul almuduʕ dh maibqaʃ ʕib iʕna
+HYP phone: tbʕa ʕla qd ma aqdr aħaul an almuduʕ dh ma ibqaʃ ʕib iʕni
+PER: 0.22222 PSD: 0.26667 PSD_norm: 0.16129
+
+ID: S10-C03-R10_080849-082448_E2EsysS_Annotator1_hyp
+REF: و الله ال experience مع ال team ماكنتش لطيفة اوى فى كل لأ بس كان فى يعنى حالات كانت كان ال team كويس بس عامة بالنسبالى الأتنين مش فارقة الصراحة لإن انا كده كده فى الحالتين الجزء اللى فيه ببقى individual يعنى
+HYP: والله experience معلتين ما كانت لطيفة قوي فكل لا بس كان في يعني حالات كانت كان تيم كويس بس عامة بالنسبة لي الاثنين مش فرع صرح إن أنا ككافي الحالتين الجزء اللي فيه أبقى individual يعني
+REF phone: u allh al ɪkspɪɹiəns mʕ al tim makntʃ ltift aua fa kl la bs kan fa iʕna ħalat kant kan al tim kuis bs ʕamt balnsbala alatnin mʃ farqt alsraħt li ajن ana kdh kdh fa alħaltin alʤzء alla fih bbqa ɪndəvɪʤəwəl iʕna
+HYP phone: uallh ɪkspɪɹiəns mʕltin ma kant ltift qui fkl la bs kan fi iʕni ħalat kant kan tim kuis bs ʕamt balnsbt li alaθnin mʃ frʕ srħ ajن ana kkafi alħaltin alʤzء alli fih abqa ɪndəvɪʤəwəl iʕni
+PER: 0.1976 PSD: 0.27564 PSD_norm: 0.17461
+
+ID: S14-C03-R14_042172-042741_HMMDNN_Annotator1_hyp
+REF: بس فأنا basically انا اخر مرة سافرت فيها ده كان من كتير اوى ده كان من خمس سنين فاتوا
+HYP: بس أنا عايزك هنا آخر مره سافرت في هذا كمان كتير قوي ده من خمس سنين فاتت
+REF phone: bs fana bejsɪkli ana axr mrt safrt fiha dh kan mn ktir aua dh kan mn xms snin fatua
+HYP phone: bs ana ʕaizk hna aٓxr mrh safrt fi hða kman ktir qui dh mn xms snin fatt
+PER: 0.36923 PSD: 0.46203 PSD_norm: 0.37609
+
+ID: S07-C03-R07_041152-042437_E2EsysA_Annotator1_hyp
+REF: فالقصة كانت بتتناول شخصية كانت عايشة وقت الحرب يعنى و how did she stumble upon يعنى من one family to the other
+HYP: فالقصة كانت بتتناول شخصية كانت عايشة وقت الحرب يعني وهاودة شي ستامبل أبان يعني من one family to do the other
+REF phone: falqst kant bttnaul ʃxsit kant ʕaiʃt uqt alħrb iʕna u haw dɪd ʃi stʌmbəl əpɑn iʕna mn wʌn fæməli tə ðə ʌðɹ̩
+HYP phone: falqst kant bttnaul ʃxsit kant ʕaiʃt uqt alħrb iʕni uhaudt ʃi stambl aban iʕni mn wʌn fæməli tə du ðə ʌðɹ̩
+PER: 0.13953 PSD: 0.17928 PSD_norm: 0.05319
+
+ID: S02-C03-R02_059500-059827_HMMDNN_Annotator1_hyp
+REF: كل الحاجات بتاعة دهب يعنى
+HYP: كل الحاجات دهب يعني
+REF phone: kl alħaʤat btaʕt dhb iʕna
+HYP phone: kl alħaʤat dhb iʕni
+PER: 0.28571 PSD: 0.33333 PSD_norm: 0.26667
+
+ID: S05-C03-R05_061487-061960_E2EsysS_Annotator1_hyp
+REF: و شغل متواصل يعنى مثلا كل مثلا ساعة اخد break ربع ساعة
+HYP: وشغل متواصل يعني مثلا كل مثلا سأأخذ برك ربع ساعة
+REF phone: u ʃɣl mtuasl iʕna mθla kl mθla saʕt axd bɹejk rbʕ saʕt
+HYP phone: uʃɣl mtuasl iʕni mθla kl mθla saaxð brk rbʕ saʕt
+PER: 0.16279 PSD: 0.18753 PSD_norm: 0.15825
+
+ID: S07-C03-R07_078885-079203_HMMDNN_Annotator1_hyp
+REF: اه هم بس الناس اللى كانوا معايا فى ال dutch course
+HYP: بس الناس اللي كانت معي
+REF phone: ah hm bs alnas alla kanua mʕaia fa al dʌʧ kɔɹs
+HYP phone: bs alnas alli kant mʕi
+PER: 0.55556 PSD: 0.61111 PSD_norm: 0.52381
+
+ID: S10-C03-R10_107231-107633_E2EsysA_Annotator1_hyp
+REF: اه اه لأ عادى انا بتكلم قصدى ك ك phone calls يعنى
+HYP: آه آه لا عادي أنا بتكلم قصدي ك ك فنكولز يعني
+REF phone: ah ah la ʕada ana btklm qsda k k fown kɔlz iʕna
+HYP phone: aٓh aٓh la ʕadi ana btklm qsdi k k fnkulz iʕni
+PER: 0.22222 PSD: 0.32078 PSD_norm: 0.125
+
+ID: S14-C03-R14_069283-069986_E2EsysS_Annotator1_hyp
+REF: liked or respected طب ما هو ما هو لو الناس بتحبك فأكيد هى respect you some point at some point
+HYP: أ liked أو respected تماما ما هو لو الناس بتحبك فأكيدها respective some point
+REF phone: lajkt ɔɹ ɹɪspɛktɪd tb ma hu ma hu lu alnas btħbk fakid ha ɹɪspɛkt ju sʌm pojnt æt sʌm pojnt
+HYP phone: a lajkt au ɹɪspɛktɪd tmama ma hu lu alnas btħbk fakidha ɹɪspɛktɪv sʌm pojnt
+PER: 0.25 PSD: 0.30106 PSD_norm: 0.23633
+
+ID: S12-C03-R12_112005-112992_E2EsysA_Annotator1_hyp
+REF: و و يعنى هو بيقدر ى foreshadow الأحداث اللى بعد كده بيعنى يعنى نتيجة ال experience اللى عنده او حاجة انا مش عارفه يعنى
+HYP: و يعني هو بيقدر يخش أدوا الأحداث اللي بعد كده ب يعني يعني نتيجة الإسبرينس اللي عنده أو حاجة أنا مش عارفة يعني
+REF phone: u u iʕna hu biqdr a fɔɹʃædow alaħdaθ alla bʕd kdh biʕna iʕna ntiʤt al ɪkspɪɹiəns alla ʕndh au ħaʤt ana mʃ ʕarfh iʕna
+HYP phone: u iʕni hu biqdr ixʃ adua alaħdaθ alli bʕd kdh b iʕni iʕni ntiʤt al aj sbrins alli ʕndh au ħaʤt ana mʃ ʕarft iʕni
+PER: 0.22581 PSD: 0.32916 PSD_norm: 0.16462
+
+ID: S05-C03-R05_091246-092270_E2EsysA_Annotator1_hyp
+REF: turning point فى حياتى مرة كان اه يعنى اظن حاجة تبع والدى والدى قبل كده كان دخل غيبوبة و مشاكل و كده فمن ساعتها خلاص بقى ابتديت احس ان انت بتتتحمل مسئولية
+HYP: turning point في حياتي مرة كان آه يعني أظن حاجة تبع والدي والدي قبل كده كان دخل في غيبوبة ومشاكل وكده فمن ساعتها خلاص بقى تحس إن أنت تحمل المسؤولية
+REF phone: tɹ̩nɪŋ pojnt fa ħiata mrt kan ah iʕna aðn ħaʤt tbʕ ualda ualda qbl kdh kan dxl ɣibubt u mʃakl u kdh fmn saʕtha xlas bqa abtdit aħs an ant btttħml msi aj ulit
+HYP phone: tɹ̩nɪŋ pojnt fi ħiati mrt kan aٓh iʕni aðn ħaʤt tbʕ ualdi ualdi qbl kdh kan dxl fi ɣibubt umʃakl ukdh fmn saʕtha xlas bqa tħs ajن ant tħml almsuulit
+PER: 0.19355 PSD: 0.24635 PSD_norm: 0.14943
+
+ID: I01-C03-R09_113327-113393_HMMDNN_Annotator1_hyp
+REF: ماشى شكرا
+HYP: شكرا
+REF phone: maʃa ʃkra
+HYP phone: ʃkra
+PER: 0.5 PSD: 0.5 PSD_norm: 0.4
+
+ID: S10-C03-R10_029722-030120_HMMDNN_Annotator1_hyp
+REF: بإن احنا بنستخدم two cameras فى الموضوع فيه math و كده يعنى لسه مادخلتش فيه
+HYP: نحنا نستانتينوس في موضوع فيما وكده يعني لسه ما دخلتش فيه
+REF phone: bi ajن aħna bnstxdm tu kæmɹ̩əz fa almuduʕ fih mæθ u kdh iʕna lsh madxltʃ fih
+HYP phone: nħna nstantinus fi muduʕ fima ukdh iʕni lsh ma dxltʃ fih
+PER: 0.40984 PSD: 0.47646 PSD_norm: 0.37433
+
+ID: S02-C03-R02_098202-098422_E2EsysA_Annotator1_hyp
+REF: فيه كل حاجة انا بحتاجها
+HYP: في كل حاجة أنا بحتاجها
+REF phone: fih kl ħaʤt ana bħtaʤha
+HYP phone: fi kl ħaʤt ana bħtaʤha
+PER: 0.05263 PSD: 0.05263 PSD_norm: 0.07692
+
+ID: I01-C03-R02_058555-058700_E2EsysS_Annotator1_hyp
+REF: ok
+HYP: okay
+REF phone: owkej
+HYP phone: owkej
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S10-C03-R10_053446-053563_E2EsysS_Annotator1_hyp
+REF: للأسف لأ
+HYP: للأسف لا
+REF phone: llasf la
+HYP phone: llasf la
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S14-C03-R14_060543-061014_HMMDNN_Annotator1_hyp
+REF: اللى هو مثلا حد انا عارف ان هو شغله مش كويس او حيودينى لمنطقة مش كويسة فى الشغل فانا مش حاشتغل معاه
+HYP: لا ما حدا عارف لو وشنو مش كويس أو هيوديني المنطقة مش كويسة في الشغل اللي أنا مش حشتغل معاه
+REF phone: alla hu mθla ħd ana ʕarf an hu ʃɣlh mʃ kuis au ħiudina lmntqt mʃ kuist fa alʃɣl fana mʃ ħaʃtɣl mʕah
+HYP phone: la ma ħda ʕarf lu uʃnu mʃ kuis au hiudini almntqt mʃ kuist fi alʃɣl alli ana mʃ ħʃtɣl mʕah
+PER: 0.28205 PSD: 0.366 PSD_norm: 0.31223
+
+ID: I01-C03-R02_074510-075216_E2EsysS_Annotator1_hyp
+REF: طيب يعنى انا السؤال حاقراه زى ما هو كده اللى هو in a class او عامة would you rather be liked or respected
+HYP: طيب يعني أنا سؤالها أروزي ما هو كده ال her would you rather be light or respected
+REF phone: tib iʕna ana alsual ħaqrah za ma hu kdh alla hu ɪn ə klæs au ʕamt wʊd ju ɹæðɹ̩ bi lajkt ɔɹ ɹɪspɛktɪd
+HYP phone: tib iʕni ana sualha aruzi ma hu kdh al hɹ̩ wʊd ju ɹæðɹ̩ bi lajt ɔɹ ɹɪspɛktɪd
+PER: 0.32051 PSD: 0.38544 PSD_norm: 0.29923
+
+ID: S02-C03-R02_029820-030315_E2EsysS_Annotator1_hyp
+REF: هو انا نفسى اشتغل researcher اكتر منها teacher يعنى
+HYP: هنا نفسي أستغرب يستشر أكثر منها teacher يعني
+REF phone: hu ana nfsa aʃtɣl ɹisɹ̩ʧɹ̩ aktr mnha tiʧɹ̩ iʕna
+HYP phone: hna nfsi astɣrb istʃr akθr mnha tiʧɹ̩ iʕni
+PER: 0.33333 PSD: 0.45821 PSD_norm: 0.42393
+
+ID: I01-C03-R09_103688-104210_E2EsysS_Annotator1_hyp
+REF: ممكن مثلا ان احنا نعمل masters ان احنا نسافر ان احنا نسافر نقعد اى حاجة
+HYP: ممكن مثلا إحنا نعمل masters إن إحنا نسافر إن إحنا نقعد أي حاجة
+REF phone: mmkn mθla an aħna nʕml mæstɹ̩z an aħna nsafr an aħna nsafr nqʕd aa ħaʤt
+HYP phone: mmkn mθla aj ħna nʕml mæstɹ̩z ajن aj ħna nsafr ajن aj ħna nqʕd ai ħaʤt
+PER: 0.24561 PSD: 0.31579 PSD_norm: 0.34146
+
+ID: S07-C03-R07_078022-078347_E2EsysA_Annotator1_hyp
+REF: و i'm still in touch with some of them not all of them obviously
+HYP: i'm still in touch with some of them not all of them obviously
+REF phone: u ajm stɪl ɪn tʌʧ wɪð sʌm ʌv ðɛm nɑt ɔl ʌv ðɛm ɑbviəsli
+HYP phone: ajm stɪl ɪn tʌʧ wɪð sʌm ʌv ðɛm nɑt ɔl ʌv ðɛm ɑbviəsli
+PER: 0.02381 PSD: 0.02381 PSD_norm: 0.0
+
+ID: I01-C03-R07_134225-134354_E2EsysA_Annotator1_hyp
+REF: شكرا
+HYP: شكرا
+REF phone: ʃkra
+HYP phone: ʃkra
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S14-C03-R14_056313-056672_HMMDNN_Annotator1_hyp
+REF: فانا فى state of mind حاجة زى كده ان انا ايه بقى فين او حاعمل ايه
+HYP: فأنا في الاستوديو في حاجة زي كده إن أنا إيه بقى فين أو حعمل إيه
+REF phone: fana fa stejt ʌv majnd ħaʤt za kdh an ana aih bqa fin au ħaʕml aih
+HYP phone: fana fi alastudiu fi ħaʤt zi kdh ajن ana aj ih bqa fin au ħʕml aj ih
+PER: 0.35294 PSD: 0.47122 PSD_norm: 0.38813
+
+ID: S07-C03-R07_035974-036439_HMMDNN_Annotator1_hyp
+REF: اكتر كاتب بحب او يعنى اكتر كاتب بحب اقراله خالد الحسينى
+HYP: أكتر كتير بحبها أكتر كاتب بحبر لخالد الحسيني
+REF phone: aktr katb bħb au iʕna aktr katb bħb aqralh xald alħsina
+HYP phone: aktr ktir bħbha aktr katb bħbr lxald alħsini
+PER: 0.28889 PSD: 0.35556 PSD_norm: 0.22581
+
+ID: I01-C03-R10_093790-094832_E2EsysA_Annotator1_hyp
+REF: ok طيب و بتحس بصعوبة فى التعامل مع شخصيات من different social levels بت بتلاقى الموضوع صعب شوية متحتاج تغير طريقتك متحتاج تغير طريقة كلامك
+HYP: أوكي طيب وبتحس بصعوبة في التعامل مع شخصيات من different social level بت بتلاقي الموضوع صعب شوية ما تضحك تغير طريقتك ما حضرتك بطريق كلامك
+REF phone: owkej tib u btħs bsʕubt fa altʕaml mʕ ʃxsiat mn dɪfɹ̩ənt sowʃəl lɛvəlz bt btlaqa almuduʕ sʕb ʃuit mtħtaʤ tɣir triqtk mtħtaʤ tɣir triqt klamk
+HYP phone: auki tib ubtħs bsʕubt fi altʕaml mʕ ʃxsiat mn dɪfɹ̩ənt sowʃəl lɛvəl bt btlaqi almuduʕ sʕb ʃuit ma tdħk tɣir triqtk ma ħdrtk btriq klamk
+PER: 0.17241 PSD: 0.22052 PSD_norm: 0.16916
+
+ID: S02-C03-R02_052812-053578_E2EsysS_Annotator1_hyp
+REF: لو ماكانتش المانيا تبقى امارات
+HYP: أ لو ما كانتش ألمانيا تبقى إمارات
+REF phone: lu makantʃ almania tbqa amarat
+HYP phone: a lu ma kantʃ almania tbqa aj marat
+PER: 0.07692 PSD: 0.07692 PSD_norm: 0.06667
+
+ID: S05-C03-R05_075925-076170_E2EsysS_Annotator1_hyp
+REF: اه سافرت قبل كده رومانيا
+HYP: آه سافرت برا قبل كده رومانيا
+REF phone: ah safrt qbl kdh rumania
+HYP phone: aٓh safrt bra qbl kdh rumania
+PER: 0.2 PSD: 0.2 PSD_norm: 0.21429
+
+ID: I01-C03-R09_103688-104210_HMMDNN_Annotator1_hyp
+REF: ممكن مثلا ان احنا نعمل masters ان احنا نسافر ان احنا نسافر نقعد اى حاجة
+HYP: ممكن مثلا إن إحنا نعمل ماسترز إن إحنا نسافر إن إحنا نقعد أي حاجة
+REF phone: mmkn mθla an aħna nʕml mæstɹ̩z an aħna nsafr an aħna nsafr nqʕd aa ħaʤt
+HYP phone: mmkn mθla ajن aj ħna nʕml mastrz ajن aj ħna nsafr ajن aj ħna nqʕd ai ħaʤt
+PER: 0.31579 PSD: 0.37804 PSD_norm: 0.4398
+
+ID: S12-C03-R12_010663-010842_E2EsysA_Annotator1_hyp
+REF: okay
+HYP: أوكي
+REF phone: owkej
+HYP phone: auki
+PER: 0.8 PSD: 0.8064 PSD_norm: 0.66667
+
+ID: I01-C03-R07_101818-102644_HMMDNN_Annotator1_hyp
+REF: اذا كان فى class او عامة فى حياتك انت تحب الناس تعمل حاجة عشان هى بتحبك عشان هى ولا عشان they have to و they respect you
+HYP: إسكان class أو عامة في حياتها كتضحيه بالناس يعمل حاجة عشان هي بتحبك عشان هي ولا عشان هي ذي هاف تو وزي سباكتي
+REF phone: aða kan fa klæs au ʕamt fa ħiatk ant tħb alnas tʕml ħaʤt ʕʃan ha btħbk ʕʃan ha ula ʕʃan ðej hæv tə u ðej ɹɪspɛkt ju
+HYP phone: aj skan klæs au ʕamt fi ħiatha ktdħih balnas iʕml ħaʤt ʕʃan hi btħbk ʕʃan hi ula ʕʃan hi ði haf tu uzi sbakti
+PER: 0.32584 PSD: 0.38816 PSD_norm: 0.25641
+
+ID: S09-C03-R09_040189-041373_E2EsysA_Annotator1_hyp
+REF: كل ال activities اللى a kind of student activities من ناحية readings و نجيب papers و نطلع منها مش عارف ايه و الكلام ده كله لأ كانت حاجة سيئة بالنسبالى ومش حابب ارجع ل this kind of activities تانى
+HYP: كل الأكتيفيتيز الأكاين دوف ستودنت أكتيفيتيز من ناحية ريدينج ونجيب بيبرز ونطلع منها مش عارف إيه والكلام ده كله لأ كات حاجة سيئة بالنسبة لي ومش ححب أرجع لل ديسكاين دوف أكتفيتيز تاني
+REF phone: kl al æktɪvətiz alla ə kajnd ʌv studənt æktɪvətiz mn naħit ɹɛdɪŋz u nʤib pejpɹ̩z u ntlʕ mnha mʃ ʕarf aih u alklam dh klh la kant ħaʤt sii ajت balnsbala umʃ ħabb arʤʕ l ðɪs kajnd ʌv æktɪvətiz tana
+HYP phone: kl alaktifitiz alakain duf studnt aktifitiz mn naħit ridinʤ unʤib bibrz untlʕ mnha mʃ ʕarf aj ih ualklam dh klh la kat ħaʤt si ajت balnsbt li umʃ ħħb arʤʕ ll diskain duf aktfitiz tani
+PER: 0.27564 PSD: 0.32606 PSD_norm: 0.20873
+
+ID: S05-C03-R05_088357-089572_HMMDNN_Annotator1_hyp
+REF: بتتعرف على ناس جديدة جدا بقى مش بتفكر خالص تفكيرك انت مثلا بقالك say اتنين و عشرين تلاتة و عشرين سنة بتفكر مع ناس تقريبا حوالى تقريبا نفس التفكير انت بتروح هناك هناك مجتمع مش بيقتنع بأى حاجة انت بتقلها
+HYP: تتعرف على ناس جديدة جدا مابش بتفكر خالص تفكيرك أنت بس أنا بقلك 22 تلاتة وعشرين سنة بتفكر مع ناس تقريبا حوالي تقريبا نفس التفكير نت بتروح لأنها كانت مجتمع مش مقتنع بأي حاجة أنت بتقولها
+REF phone: bttʕrf ʕla nas ʤdidt ʤda bqa mʃ btfkr xals tfkirk ant mθla bqalk sej atnin u ʕʃrin tlatt u ʕʃrin snt btfkr mʕ nas tqriba ħuala tqriba nfs altfkir ant btruħ hnak hnak mʤtmʕ mʃ biqtnʕ baa ħaʤt ant btqlha
+HYP phone: ttʕrf ʕla nas ʤdidt ʤda mabʃ btfkr xals tfkirk ant bs ana bqlk 22 tlatt uʕʃrin snt btfkr mʕ nas tqriba ħuali tqriba nfs altfkir nt btruħ lanha kant mʤtmʕ mʃ mqtnʕ bai ħaʤt ant btqulha
+PER: 0.21605 PSD: 0.26642 PSD_norm: 0.21045
+
+ID: S05-C03-R05_038521-038908_E2EsysA_Annotator1_hyp
+REF: او الحاجات العربى القديمة بقى اللى اتعودنا عليها من زمان لكن دلوقتى مش متابع اوى الصراحة
+HYP: أو الحاجات العربية القديمة بقى تعودنا عليها من زمان لكن دي الوقت مش متابعة أو الصراحة
+REF phone: au alħaʤat alʕrba alqdimt bqa alla atʕudna ʕliha mn zman lkn dluqta mʃ mtabʕ aua alsraħt
+HYP phone: au alħaʤat alʕrbit alqdimt bqa tʕudna ʕliha mn zman lkn di aluqt mʃ mtabʕt au alsraħt
+PER: 0.16438 PSD: 0.17808 PSD_norm: 0.08511
+
+ID: S05-C03-R05_040187-040404_E2EsysA_Annotator1_hyp
+REF: english ولا عربى يعنى
+HYP: ام نجلس في العربي يعني
+REF phone: ɪŋɡlɪʃ ula ʕrba iʕna
+HYP phone: am nʤls fi alʕrbi iʕni
+PER: 0.64706 PSD: 1.00376 PSD_norm: 0.8
+
+ID: I02-C03-R10_018862-019532_E2EsysA_Annotator1_hyp
+REF: طيب عندك activities معينة فى ال weekend بتعملها او بتقضى ال weekend ازاى
+HYP: طيب عندك activities معينة في ال week end بتعملها أو بتقضي ال weekend إزاي
+REF phone: tib ʕndk æktɪvətiz mʕint fa al wikɛnd btʕmlha au btqda al wikɛnd azaa
+HYP phone: tib ʕndk æktɪvətiz mʕint fi al wik ɛnd btʕmlha au btqdi al wikɛnd aj zai
+PER: 0.07018 PSD: 0.12281 PSD_norm: 0.02703
+
+ID: I01-C03-R10_005496-006157_E2EsysA_Annotator1_hyp
+REF: ok طيب و انت فى الجامعة ال major بتاعك ايه و و اختارت ال major ده ليه
+HYP: أوكي طيب و أنت في الجامعة الميجر بتاعك إيه واخترت الميجر ده ليه
+REF phone: owkej tib u ant fa alʤamʕt al mejʤɹ̩ btaʕk aih u u axtart al mejʤɹ̩ dh lih
+HYP phone: auki tib u ant fi alʤamʕt almiʤr btaʕk aj ih uaxtrt almiʤr dh lih
+PER: 0.27586 PSD: 0.27807 PSD_norm: 0.23853
+
+ID: S07-C03-R07_122166-123269_E2EsysA_Annotator1_hyp
+REF: يعنى اللى هو اه يعنى خلاص اللى هو اتكلمت عن ال project وقد ايه انا تعبت فيه و مش عارف ايه و عملت فيه و واحد اتنين تلاتة و ال class الفلانى و العلانى و i guess ان it worked eventually يعنى
+HYP: يعني إن هو آه يعني خلاص اللي هو تكلمت عن project وبعدين أنا تعبت فيه ومش عارف إيه وعملت فيه واحد اثنين ثلاثة والخلاص الفلاني والخلاص الإعلاني و guss no it worked eventually يعني
+REF phone: iʕna alla hu ah iʕna xlas alla hu atklmt ʕn al pɹɑʤɛkt uqd aih ana tʕbt fih u mʃ ʕarf aih u ʕmlt fih u uaħd atnin tlatt u al klæs alflana u alʕlana u aj ɡɛs an ɪt wɹ̩kt ɪvɛnʧəwəli iʕna
+HYP phone: iʕni ajن hu aٓh iʕni xlas alli hu tklmt ʕn pɹɑʤɛkt ubʕdin ana tʕbt fih umʃ ʕarf aj ih uʕmlt fih uaħd aθnin θlaθt ualxlas alflani ualxlas al aj ʕlani u ɡʌs now ɪt wɹ̩kt ɪvɛnʧəwəli iʕni
+PER: 0.25175 PSD: 0.32979 PSD_norm: 0.25991
+
+ID: S10-C03-R10_014236-014347_HMMDNN_Annotator1_hyp
+REF: لا لا مابندمش لا
+HYP: لا لا
+REF phone: la la mabndmʃ la
+HYP phone: la la
+PER: 0.69231 PSD: 0.69231 PSD_norm: 0.77778
+
+ID: S02-C03-R02_083444-083686_E2EsysA_Annotator1_hyp
+REF: المتملقين
+HYP: هم متملقين
+REF phone: almtmlqin
+HYP phone: hm mtmlqin
+PER: 0.22222 PSD: 0.44444 PSD_norm: 0.42857
+
+ID: I02-C03-R02_005504-005756_E2EsysA_Annotator1_hyp
+REF: يعنى الصبح بتصحى بتعملى ايه
+HYP: يعني الصبح التسحي تعملي إيه
+REF phone: iʕna alsbħ btsħa btʕmla aih
+HYP phone: iʕni alsbħ altsħi tʕmli aj ih
+PER: 0.30435 PSD: 0.47826 PSD_norm: 0.25
+
+ID: S07-C03-R07_020565-020706_E2EsysA_Annotator1_hyp
+REF: لو نمت الساعة حداشر بصحى الساعة ستة
+HYP: للمساح احداشر بستة ستة
+REF phone: lu nmt alsaʕt ħdaʃr bsħa alsaʕt stt
+HYP phone: llmsaħ aħdaʃr bstt stt
+PER: 0.48276 PSD: 0.53614 PSD_norm: 0.434
+
+
+
+Mean PER_tot:     0.2784
+ Mean PSD_tot:      0.34543
+ Mean PSD_norm_tot: 0.26032
