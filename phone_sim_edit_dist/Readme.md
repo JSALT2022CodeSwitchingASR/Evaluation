@@ -15,7 +15,7 @@ nltk.download('wordnet')
 nltk.download('omw-1.4')
 nltk.download('punkt')
 ```
-3. If you are on the QCRI cluster set the following:
+3. If you are on the QCRI cluster source the following for flite:
 ```
 export PATH=$PATH:/export/sharedapps/flite/bin
 
