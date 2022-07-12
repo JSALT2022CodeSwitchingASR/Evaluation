@@ -5,6 +5,7 @@
 pip install epitran
 pip install abydos
 pip install camel-tools
+apt install -qq enchant
 pip install pyenchant
 pip install nltk
 ```
