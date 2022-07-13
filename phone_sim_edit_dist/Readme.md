@@ -32,16 +32,29 @@ The script should generate results.txt
 ID: 1
 REF: a kind of
 HYP: ا كايند اوف
-REF phone: əkajndʌv
-HYP phone: akaindauf
-PER: 0.625 PSD: 0.25012 PSD_norm: 0.213
+REF phone: ə kajnd ʌv
+HYP phone: a kaind auf
+PER: 0.625 PSD: 0.375 PSD_norm: 0.2258
 
 ID: 2
 REF: لا في at least a chance نحاول مرة extra معاه يمكن يبدأ يبقى more flexible
 HYP: لا في atlista chance نحاول مرة extra معي يمكن يبدأ يبقى more flexible
-REF phone: lafiætlistəʧænsnħaulmrtɛkstɹəmʕahimknibdaibqamɔɹflɛksəbəl
-HYP phone: lafiʧænsnħaulmrtɛkstɹəmʕiimknibdaibqamɔɹflɛksəbəl
-PER: 0.15789 PSD: 0.14488 PSD_norm: 0.13514
+REF phone: la fi æt list ə ʧæns nħaul mrt ɛkstɹə mʕah imkn ibda ibqa mɔɹ flɛksəbəl
+HYP phone: la fi ætlɪstə ʧæns nħaul mrt ɛkstɹə mʕi imkn ibda ibqa mɔɹ flɛksəbəl
+PER: 0.05263 PSD: 0.03112 PSD_norm: 0.02703
+
+ID: 3
+REF: artificial
+HYP: ارتficial
+REF phone: ɑɹtəfɪʃəl
+HYP phone: art fɪʃəl
+PER: 0.33333 PSD: 0.16844 PSD_norm: 0.0516
+
+
+
+Mean PER_tot:     0.14865
+ Mean PSD_tot:      0.085
+ Mean PSD_norm_tot: 0.05079
 ```
 
 4. To run the pipeline 
