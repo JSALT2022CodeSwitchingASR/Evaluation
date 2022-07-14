@@ -1,3 +1,7 @@
+# Phoneme similarity edit distance
+
+This is an emplementation of the edit distance in the phoneme (IPA) space with the substitusion weight scaled by the (1-similarty) of the phonemes.
+
 ### Installation
 1. Install libraries:
 
