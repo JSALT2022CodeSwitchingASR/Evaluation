@@ -1,6 +1,6 @@
 # Phoneme similarity edit distance
 
-This is an emplementation of the edit distance in the phoneme (IPA) space with the substitusion weight scaled by the (1-similarty) of the phonemes. The script reports three metrics: 
+This is an emplementation of the edit distance in the phoneme (IPA) space with the substitution weight scaled by the (1-similarty) of the phonemes. The script reports three metrics: 
 - PER: similar to CER but measured in the phoneme space
 - PSD: same as PER but the substitusion weight scaled by the (1-similarty) between phonemes.
 - PSD_norm: PSD but after removing the vowels 
