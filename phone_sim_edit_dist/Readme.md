@@ -54,7 +54,7 @@ ID: 3
 REF: artificial
 HYP: ارتficial
 REF phone: ɑɹtəfɪʃəl
-HYP phone: art fɪʃəl
+HYP phone: artfɪʃəl
 PER: 0.33333 PSD: 0.16844 PSD_norm: 0.0516
 
 
