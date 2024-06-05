@@ -1,0 +1,40 @@
+ID: 1
+REF: أوكي طيب أنت عامه تحب ولادك يعني لوأنت دخلتهم دلوقتي المدرسة تحب تدخالهم أو تحب يكونوا في مدرسة ناشيونال ولا انترناشيونال
+HYP: طيب أنت تحب وليدك وأنت دخلتم دلوقتي المدرسة تحب إدخالهم أو تحب يكونوا في مدرسة ناشيونال ولا انترناشيونال
+REF phone: auki tib ant ʕamh tħb uladk iʕni luant dxlthm dluqti almdrst tħb tdxalhm au tħb ikunua fi mdrst naʃiunal ula antrnaʃiunal
+HYP phone: tib ant tħb ulidk uant dxltm dluqti almdrst tħb idxalhm au tħb ikunua fi mdrst naʃiunal ula antrnaʃiunal
+PER: 0.15842 PSD: 0.16352 PSD_norm: 0.13433
+
+ID: 2
+REF: a kind of
+HYP: ا كايند اوف
+REF phone: ə kajnd ʌv
+HYP phone: a kaind auf
+PER: 0.625 PSD: 0.375 PSD_norm: 0.2258
+
+ID: 3
+REF: لا في at least a chance نحاول مرة extra معاه يمكن يبدأ يبقى more flexible
+HYP: لا في atlista chance نحاول مرة extra معي يمكن يبدأ يبقى more flexible
+REF phone: la fi æt list ə ʧæns nħaul mrt ɛkstɹə mʕah imkn ibda ibqa mɔɹ flɛksəbəl
+HYP phone: la fi ætlɪstə ʧæns nħaul mrt ɛkstɹə mʕi imkn ibda ibqa mɔɹ flɛksəbəl
+PER: 0.05263 PSD: 0.03112 PSD_norm: 0.02703
+
+ID: 4
+REF: artificial sensors
+HYP: ارتficial سنsors
+REF phone: ɑɹtəfɪʃəl sɛnsɹ̩z
+HYP phone: artfɪʃəl snsɔɹz
+PER: 0.375 PSD: 0.28225 PSD_norm: 0.11436
+
+ID: 5
+REF: i have to say اخر سفرية لي
+HYP: أي هفتو ساي آخر سفرية ليا
+REF phone: aj hæv tə sej axr sfrit li
+HYP phone: ai hftu sai aٓxr sfrit lia
+PER: 0.4 PSD: 0.3016 PSD_norm: 0.24069
+
+
+
+Mean PER_tot:     0.18812
+ Mean PSD_tot:      0.15761
+ Mean PSD_norm_tot: 0.11666

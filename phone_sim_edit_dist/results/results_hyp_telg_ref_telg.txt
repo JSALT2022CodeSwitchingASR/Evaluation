@@ -1,0 +1,40 @@
+ID: 1
+REF: వెంటనే చుట్టుపక్కల వారు చేరుకుని POLICE లకు సమాచారం ఇచ్చారు
+HYP: వెంటనే చుట్టుపక్కల వారు చేరుకుని పోలీసులు సమాచారం ఇచ్చారు
+REF phone: ʋemʈəne ʧʊʈʈʊpəkkələ ʋaru ʧerʊkʊni pəlis ləku səmaʧarəm iʧʧaru
+HYP phone: ʋemʈəne ʧʊʈʈʊpəkkələ ʋaru ʧerʊkʊni polisʊlu səmaʧarəm iʧʧaru
+PER: 0.07273 PSD: 0.04722 PSD_norm: 0.03333
+
+ID: 2
+REF: సీమాంధ్ర నాయకుల అధ్యపత్యం లో PARTY లకు ఊపిరి ఆడడం లేదు
+HYP: సీమాంద్రం నాయకులు పార్టీలకు ఆడడం లేదు
+REF phone: simandrə najəkʊlə ʌdjəpətjəm lo pɑɹti ləku upɪri aɖəɖəm ledu
+HYP phone: simamdrəm najəkʊlu parʈiləku aɖəɖəm ledu
+PER: 0.44231 PSD: 0.36665 PSD_norm: 0.35661
+
+ID: 3
+REF: B J P తో చంద్రబాబు దోస్తీ కట్టడంతో వాటి స్నేహానికి గండి పడింది
+HYP: బిజెపితో చంద్రబాబు దొస్తి కట్టడంతో వాటి స్నేహానికి గండిపడింది
+REF phone: bi ʤej pi to ʧəmdrəbabu dosti kəʈʈəɖənto ʋaʈi snehanɪki ɡəmɖi pəɖɪmdi
+HYP phone: bɪʤepɪto ʧəmdrəbabu dosti kəʈʈəɖənto ʋaʈi snehanɪki ɡəmɖɪpəɖɪmdi
+PER: 0.0678 PSD: 0.02681 PSD_norm: 0.02941
+
+ID: 4
+REF: నెల రోజుల వ్యవధిలో తండ్రి సుబ్రహ్మణ్యం నాయుడు చెందిన BANK ఖాతాలు నుంచి రూపాయలు
+HYP: నేనూ రోజుల్లో చుట్టూ తండ్రి సుబ్రమణం నాయుడు చంద్రబాబు బ్యాంకు ఖాతాలు నుంచి రూపాయలు
+REF phone: nelə roʤʊlə ʋjəʋədɪlo təmɖri sʊbrəhməɳjəm najʊɖu ʧemdɪnə bæŋk kʰatalu nʊɲʧi rupajəlu
+HYP phone: nenu roʤʊllo ʧʊʈʈu təmɖri sʊbrəməɳəm najʊɖu ʧəmdrəbabu bjaŋku kʰatalu nʊɲʧi rupajəlu
+PER: 0.32432 PSD: 0.21168 PSD_norm: 0.2037
+
+ID: 5
+REF: పరిపాలనలో T R S ప్రభుత్వం పూర్తిగా విఫలమైందని దేవయ్య విమర్శించాడు
+HYP: పరిపాలనలో టీఆర్ఎస్ ప్రభుత్వం పూర్తిగా విఫలమైందని దేవే విమర్శించాడు
+REF phone: pərɪpalənəlo ti ɑɹ ɛs prəbʊtʋəm purtɪɡa ʋɪpʰələməɪndəni deʋəjjə ʋɪmərʃɪɲʧaɖu
+HYP phone: pərɪpalənəlo ʈiares prəbʊtʋəm purtɪɡa ʋɪpʰələməɪndəni deʋe ʋɪmərʃɪɲʧaɖu
+PER: 0.11765 PSD: 0.05766 PSD_norm: 0.06029
+
+
+
+Mean PER_tot:     0.20455
+ Mean PSD_tot:      0.13906
+ Mean PSD_norm_tot: 0.13315

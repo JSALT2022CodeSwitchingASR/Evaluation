@@ -1,0 +1,8993 @@
+ID: S09-C03-R09_038141-039396_HMMDNN
+REF: أرجع
+HYP: مش
+REF phone: arʤʕ
+HYP phone: mʃ
+PER: 1.0 PSD: 0.77425 PSD_norm: 0.699
+
+ID: I02-C03-R02_011250-011432_HMMDNN
+REF: بيحكي
+HYP: وكيف
+REF phone: biħki
+HYP phone: ukif
+PER: 0.8 PSD: 0.6774 PSD_norm: 0.871
+
+ID: S05-C03-R05_103704-104638_HMMDNN
+REF: أنا
+HYP: حلوة
+REF phone: ana
+HYP phone: ħlut
+PER: 1.33333 PSD: 1.344 PSD_norm: 2.387
+
+ID: I01-C03-R07_082601-084361_HMMDNN
+REF: تقول
+HYP: طيب
+REF phone: tqul
+HYP phone: tib
+PER: 0.75 PSD: 0.637 PSD_norm: 0.656
+
+ID: S09-C03-R09_086429-086920_HMMDNN
+REF: أجيب
+HYP: إن
+REF phone: aʤib
+HYP phone: in
+PER: 0.75 PSD: 0.72575 PSD_norm: 0.9515
+
+ID: S10-C03-R10_017969-018727_HMMDNN
+REF: بنزل
+HYP: بس
+REF phone: bnzl
+HYP phone: bs
+PER: 0.75 PSD: 0.53225 PSD_norm: 0.53225
+
+ID: S07-C03-R07_106237-106388_HMMDNN
+REF: مستحيل
+HYP: الموضوع
+REF phone: mstħil
+HYP phone: almuduʕ
+PER: 1.16667 PSD: 1.016 PSD_norm: 0.6516
+
+ID: I01-C03-R14_079240-080543_HMMDNN
+REF: أكتر
+HYP: طيب
+REF phone: aktr
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.59133
+
+ID: S07-C03-R07_105923-106237_HMMDNN
+REF: أحب
+HYP: عمر
+REF phone: aħb
+HYP phone: ʕmr
+PER: 1.0 PSD: 0.79567 PSD_norm: 0.6935
+
+ID: S09-C03-R09_078072-078390_HMMDNN
+REF: إنها
+HYP: بالعكس
+REF phone: inha
+HYP phone: balʕks
+PER: 1.5 PSD: 1.37075 PSD_norm: 2.016
+
+ID: S09-C03-R09_089654-090398_HMMDNN
+REF: dealing
+HYP: ده
+REF phone: dilɪŋ
+HYP phone: dh
+PER: 0.8 PSD: 0.7806 PSD_norm: 0.63433
+
+ID: I01-C03-R07_079615-079800_HMMDNN
+REF: نفسك
+HYP: في
+REF phone: nfsk
+HYP phone: fi
+PER: 0.75 PSD: 0.9515 PSD_norm: 0.75
+
+ID: I01-C03-R09_082353-082568_HMMDNN
+REF: respected
+HYP: would
+REF phone: ɹɪspɛktɪd
+HYP phone: wʊd
+PER: 0.88889 PSD: 0.79567 PSD_norm: 0.83867
+
+ID: S14-C03-R14_080644-080858_HMMDNN
+REF: عارف
+HYP: أنا
+REF phone: ʕarf
+HYP phone: ana
+PER: 0.75 PSD: 0.65325 PSD_norm: 0.70967
+
+ID: S12-C03-R12_087237-088352_HMMDNN
+REF: برضو
+HYP: الأقصر
+REF phone: brdu
+HYP phone: alaqsr
+PER: 1.5 PSD: 1.40325 PSD_norm: 0.871
+
+ID: I02-C03-R07_035625-035819_HMMDNN
+REF: english
+HYP: هل
+REF phone: ɪŋɡlɪʃ
+HYP phone: hl
+PER: 0.83333 PSD: 0.8065 PSD_norm: 0.70975
+
+ID: S05-C03-R05_014331-014503_HMMDNN
+REF: ليش
+HYP: وأنا
+REF phone: liʃ
+HYP phone: uana
+PER: 1.33333 PSD: 1.344 PSD_norm: 0.758
+
+ID: S10-C03-R10_004524-004955_HMMDNN
+REF: نلبس
+HYP: كلهم
+REF phone: nlbs
+HYP phone: klhm
+PER: 0.75 PSD: 0.79025 PSD_norm: 0.79025
+
+ID: S10-C03-R10_045666-046067_HMMDNN
+REF: كل
+HYP: هو
+REF phone: kl
+HYP phone: hu
+PER: 1.0 PSD: 1.226 PSD_norm: 0.855
+
+ID: I02-C03-R07_087297-088011_HMMDNN
+REF: يا
+HYP: أنت
+REF phone: ia
+HYP phone: ant
+PER: 1.5 PSD: 1.5 PSD_norm: 2
+
+ID: S09-C03-R09_058730-059035_HMMDNN
+REF: يعني
+HYP: هي
+REF phone: iʕni
+HYP phone: hi
+PER: 0.75 PSD: 0.629 PSD_norm: 0.758
+
+ID: S09-C03-R09_016102-016801_HMMDNN
+REF: كتب
+HYP: إحنا
+REF phone: ktb
+HYP phone: iħna
+PER: 1.33333 PSD: 1.19367 PSD_norm: 0.742
+
+ID: S10-C03-R10_106277-106795_HMMDNN
+REF: لو
+HYP: على
+REF phone: lu
+HYP phone: ʕla
+PER: 1.0 PSD: 0.9515 PSD_norm: 1.0
+
+ID: I01-C03-R02_015658-015835_HMMDNN
+REF: حتة
+HYP: في
+REF phone: ħtt
+HYP phone: fi
+PER: 1.0 PSD: 1.215 PSD_norm: 0.88167
+
+ID: I01-C03-R10_043860-044141_HMMDNN
+REF: أفلام
+HYP: أوكي
+REF phone: aflam
+HYP phone: auki
+PER: 0.8 PSD: 0.8968 PSD_norm: 0.98933
+
+ID: S10-C03-R10_080849-082448_HMMDNN
+REF: مالتي
+HYP: والله
+REF phone: malti
+HYP phone: uallh
+PER: 0.6 PSD: 0.8 PSD_norm: 0.559
+
+ID: S02-C03-R02_092633-093514_HMMDNN
+REF: إن
+HYP: لا
+REF phone: in
+HYP phone: la
+PER: 1.0 PSD: 1.258 PSD_norm: 0.516
+
+ID: I01-C03-R10_044288-045215_HMMDNN
+REF: ممكن
+HYP: كي
+REF phone: mmkn
+HYP phone: ki
+PER: 0.75 PSD: 1.0 PSD_norm: 0.75
+
+ID: I01-C03-R02_099257-099527_HMMDNN
+REF: ميرسي
+HYP: طيب
+REF phone: mirsi
+HYP phone: tib
+PER: 0.8 PSD: 0.7612 PSD_norm: 0.76333
+
+ID: S14-C03-R14_066082-066252_HMMDNN
+REF: professors
+HYP: اللهم
+REF phone: pɹəfɛsɹ̩z
+HYP phone: allhm
+PER: 1.0 PSD: 0.81 PSD_norm: 0.80643
+
+ID: I01-C03-R02_029017-029197_HMMDNN
+REF: بتشتغلي
+HYP: كان
+REF phone: btʃtɣli
+HYP phone: kan
+PER: 1.0 PSD: 0.96771 PSD_norm: 0.79567
+
+ID: S02-C03-R02_076332-076475_HMMDNN
+REF: respected
+HYP: خلاص
+REF phone: ɹɪspɛktɪd
+HYP phone: xlas
+PER: 1.0 PSD: 0.71322 PSD_norm: 0.6935
+
+ID: S14-C03-R14_075842-076114_HMMDNN
+REF: قوي
+HYP: فأنا
+REF phone: qui
+HYP phone: fana
+PER: 1.33333 PSD: 1.129 PSD_norm: 1.968
+
+ID: I02-C03-R05_013610-014120_HMMDNN
+REF: لنا
+HYP: طيب
+REF phone: lna
+HYP phone: tib
+PER: 1.0 PSD: 0.96767 PSD_norm: 0.774
+
+ID: I01-C03-R02_078670-079086_HMMDNN
+REF: صعب
+HYP: بتحسين
+REF phone: sʕb
+HYP phone: btħsin
+PER: 1.66667 PSD: 1.43 PSD_norm: 1.09667
+
+ID: I01-C03-R14_028872-029596_HMMDNN
+REF: أنت
+HYP: أوكي
+REF phone: ant
+HYP phone: auki
+PER: 1.0 PSD: 1.23667 PSD_norm: 0.855
+
+ID: S07-C03-R07_020565-020706_HMMDNN
+REF: الساعة
+HYP: أم
+REF phone: alsaʕt
+HYP phone: am
+PER: 0.83333 PSD: 0.83867 PSD_norm: 1.008
+
+ID: I01-C03-R14_004036-004805_HMMDNN
+REF: في
+HYP: طيب
+REF phone: fi
+HYP phone: tib
+PER: 1.0 PSD: 0.887 PSD_norm: 1.387
+
+ID: I01-C03-R10_000873-001090_HMMDNN
+REF: منين
+HYP: أنت
+REF phone: mnin
+HYP phone: ant
+PER: 0.75 PSD: 0.6855 PSD_norm: 0.46233
+
+ID: S09-C03-R09_099120-099841_HMMDNN
+REF: الشديد
+HYP: أه
+REF phone: alʃdid
+HYP phone: ah
+PER: 0.83333 PSD: 0.77417 PSD_norm: 0.91125
+
+ID: S10-C03-R10_009938-010853_HMMDNN
+REF: أنا
+HYP: فقررت
+REF phone: ana
+HYP phone: fqrrt
+PER: 1.66667 PSD: 1.828 PSD_norm: 4.129
+
+ID: S07-C03-R07_001766-002033_HMMDNN
+REF: مصر
+HYP: بعدين
+REF phone: msr
+HYP phone: bʕdin
+PER: 1.66667 PSD: 0.92467 PSD_norm: 0.59133
+
+ID: I01-C03-R10_033086-033247_HMMDNN
+REF: 
+HYP: لأ
+REF phone: 
+HYP phone: la
+PER: 2 PSD: 2 PSD_norm: 1
+
+ID: S05-C03-R05_091246-092270_HMMDNN
+REF: for
+HYP: turning
+REF phone: fɔɹ
+HYP phone: tɹ̩nɪŋ
+PER: 2.0 PSD: 1.79567 PSD_norm: 1.887
+
+ID: S09-C03-R09_005190-006185_HMMDNN
+REF: تهتم
+HYP: أنا
+REF phone: thtm
+HYP phone: ana
+PER: 1.0 PSD: 1.15325 PSD_norm: 0.84675
+
+ID: I01-C03-R02_004462-004968_HMMDNN
+REF: تقولي
+HYP: طيب
+REF phone: tquli
+HYP phone: tib
+PER: 0.8 PSD: 0.7096 PSD_norm: 0.656
+
+ID: S07-C03-R07_057656-057901_HMMDNN
+REF: حاجة
+HYP: ما
+REF phone: ħaʤt
+HYP phone: ma
+PER: 0.75 PSD: 0.79025 PSD_norm: 1.01067
+
+ID: S02-C03-R02_097152-097256_HMMDNN
+REF: لأ
+HYP: لأ
+REF phone: la
+HYP phone: la
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I02-C03-R10_065806-065900_HMMDNN
+REF: و
+HYP: وليه
+REF phone: u
+HYP phone: ulih
+PER: 3.0 PSD: 3.0 PSD_norm: 2
+
+ID: I02-C03-R09_011623-012222_HMMDNN
+REF: تقول
+HYP: طيب
+REF phone: tqul
+HYP phone: tib
+PER: 0.75 PSD: 0.637 PSD_norm: 0.656
+
+ID: I01-C03-R07_004512-004894_HMMDNN
+REF: point
+HYP: at
+REF phone: pojnt
+HYP phone: æt
+PER: 0.8 PSD: 0.729 PSD_norm: 0.75
+
+ID: S05-C03-R05_067614-068137_HMMDNN
+REF: individual
+HYP: أنا
+REF phone: ɪndəvɪʤəwəl
+HYP phone: ana
+PER: 0.90909 PSD: 0.77418 PSD_norm: 0.83333
+
+ID: S02-C03-R02_013845-014021_HMMDNN
+REF: مشاعرهم
+HYP: هما
+REF phone: mʃaʕrhm
+HYP phone: hma
+PER: 0.85714 PSD: 0.85714 PSD_norm: 0.66667
+
+ID: S09-C03-R09_106463-107271_HMMDNN
+REF: رايح
+HYP: لو
+REF phone: raiħ
+HYP phone: lu
+PER: 1.0 PSD: 0.6935 PSD_norm: 0.6935
+
+ID: S07-C03-R07_113641-114152_HMMDNN
+REF: to
+HYP: فالهواء
+REF phone: tə
+HYP phone: falhuaء
+PER: 3.5 PSD: 2.984 PSD_norm: 3.516
+
+ID: S10-C03-R10_107920-108510_HMMDNN
+REF: لي
+HYP: لا
+REF phone: li
+HYP phone: la
+PER: 0.5 PSD: 0.258 PSD_norm: 0.0
+
+ID: I02-C03-R12_095638-097009_HMMDNN
+REF: سؤال
+HYP: طيب
+REF phone: sual
+HYP phone: tib
+PER: 1.0 PSD: 0.7015 PSD_norm: 0.7095
+
+ID: S10-C03-R10_043095-043307_HMMDNN
+REF: لأ
+HYP: laughter
+REF phone: la
+HYP phone: læftɹ̩
+PER: 2.5 PSD: 2.0645 PSD_norm: 4.0
+
+ID: S07-C03-R07_043452-043948_HMMDNN
+REF: فايند
+HYP: بس
+REF phone: faind
+HYP phone: bs
+PER: 1.0 PSD: 0.7548 PSD_norm: 0.59133
+
+ID: S05-C03-R05_017250-017927_HMMDNN
+REF: بالبصرة
+HYP: برجع
+REF phone: balbsrt
+HYP phone: brʤʕ
+PER: 0.85714 PSD: 0.74186 PSD_norm: 0.69883
+
+ID: S07-C03-R07_042976-043452_HMMDNN
+REF: حضرتك
+HYP: وإزاي
+REF phone: ħdrtk
+HYP phone: uizai
+PER: 1.0 PSD: 1.5354 PSD_norm: 0.8516
+
+ID: S07-C03-R07_084448-084699_HMMDNN
+REF: نفسها
+HYP: بنزعل
+REF phone: nfsha
+HYP phone: bnzʕl
+PER: 1.0 PSD: 0.8774 PSD_norm: 0.895
+
+ID: S02-C03-R02_043762-043874_HMMDNN
+REF: نتكلم
+HYP: وبنتكلم
+REF phone: ntklm
+HYP phone: ubntklm
+PER: 0.4 PSD: 0.4 PSD_norm: 0.2
+
+ID: S10-C03-R10_030120-030466_HMMDNN
+REF: عرفت
+HYP: بس
+REF phone: ʕrft
+HYP phone: bs
+PER: 1.0 PSD: 0.66125 PSD_norm: 0.66125
+
+ID: I01-C03-R14_077593-078536_HMMDNN
+REF: أكتر
+HYP: طيب
+REF phone: aktr
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.59133
+
+ID: S07-C03-R07_114152-114317_HMMDNN
+REF: بحس
+HYP: يعني
+REF phone: bħs
+HYP phone: iʕni
+PER: 1.33333 PSD: 1.043 PSD_norm: 0.59133
+
+ID: S10-C03-R10_022231-022704_HMMDNN
+REF: ما
+HYP: يعني
+REF phone: ma
+HYP phone: iʕni
+PER: 2.0 PSD: 1.5805 PSD_norm: 1.645
+
+ID: S05-C03-R05_081354-082321_HMMDNN
+REF: كتيرة
+HYP: في
+REF phone: ktirt
+HYP phone: fi
+PER: 0.8 PSD: 0.7548 PSD_norm: 0.9435
+
+ID: S05-C03-R05_086815-086890_HMMDNN
+REF: اسافر
+HYP: والشفافية
+REF phone: asafr
+HYP phone: ualʃfafit
+PER: 1.2 PSD: 0.9806 PSD_norm: 0.96767
+
+ID: S12-C03-R12_057376-058007_HMMDNN
+REF: أنا
+HYP: اكتشفت
+REF phone: ana
+HYP phone: aktʃft
+PER: 1.66667 PSD: 1.62367 PSD_norm: 4.387
+
+ID: I02-C03-R14_018683-019223_HMMDNN
+REF: أغنية
+HYP: طيب
+REF phone: aɣnit
+HYP phone: tib
+PER: 0.8 PSD: 0.6322 PSD_norm: 0.72033
+
+ID: I01-C03-R02_096726-097047_HMMDNN
+REF: كده
+HYP: فاحتجوا
+REF phone: kdh
+HYP phone: faħtʤua
+PER: 2.33333 PSD: 2.086 PSD_norm: 1.086
+
+ID: S02-C03-R02_024303-024692_HMMDNN
+REF: اللي
+HYP: هو
+REF phone: alli
+HYP phone: hu
+PER: 1.0 PSD: 0.8225 PSD_norm: 0.9515
+
+ID: I01-C03-R12_141648-142308_HMMDNN
+REF: آخر
+HYP: طيب
+REF phone: aٓxr
+HYP phone: tib
+PER: 1.0 PSD: 1.0725 PSD_norm: 0.871
+
+ID: S07-C03-R07_070645-070930_HMMDNN
+REF: حتى
+HYP: سافرت
+REF phone: ħta
+HYP phone: safrt
+PER: 1.66667 PSD: 1.41933 PSD_norm: 1.3225
+
+ID: S05-C03-R05_054784-054921_HMMDNN
+REF: الرهيبة
+HYP: مش
+REF phone: alrhibt
+HYP phone: mʃ
+PER: 1.0 PSD: 0.88943 PSD_norm: 0.8452
+
+ID: S05-C03-R05_093906-094136_HMMDNN
+REF: متن
+HYP: يعني
+REF phone: mtn
+HYP phone: iʕni
+PER: 1.0 PSD: 1.043 PSD_norm: 0.59133
+
+ID: S14-C03-R14_036197-036712_HMMDNN
+REF: الفكرة
+HYP: بس
+REF phone: alfkrt
+HYP phone: bs
+PER: 1.0 PSD: 0.77417 PSD_norm: 0.729
+
+ID: S14-C03-R14_082779-083600_HMMDNN
+REF: عمري
+HYP: بص
+REF phone: ʕmri
+HYP phone: bs
+PER: 1.0 PSD: 0.6935 PSD_norm: 0.59133
+
+ID: S05-C03-R05_111592-112474_HMMDNN
+REF: الكرسي
+HYP: لكن
+REF phone: alkrsi
+HYP phone: lkn
+PER: 0.66667 PSD: 0.5215 PSD_norm: 0.28225
+
+ID: S05-C03-R05_070890-071576_HMMDNN
+REF: كان
+HYP: لحد
+REF phone: kan
+HYP phone: lħd
+PER: 1.0 PSD: 1.03233 PSD_norm: 1.0485
+
+ID: S05-C03-R05_025434-026038_HMMDNN
+REF: ابني
+HYP: دعا
+REF phone: abni
+HYP phone: dʕa
+PER: 1.0 PSD: 0.766 PSD_norm: 0.774
+
+ID: I01-C03-R07_044756-045736_HMMDNN
+REF: لما
+HYP: أوكي
+REF phone: lma
+HYP phone: auki
+PER: 1.33333 PSD: 1.49467 PSD_norm: 1.113
+
+ID: S02-C03-R02_008786-008983_HMMDNN
+REF: cooking
+HYP: cooking
+REF phone: kʊkɪŋ
+HYP phone: kʊkɪŋ
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S07-C03-R07_102836-103868_HMMDNN
+REF: we
+HYP: i
+REF phone: wi
+HYP phone: aj
+PER: 1.0 PSD: 1.032 PSD_norm: 0.516
+
+ID: S12-C03-R12_011920-012761_HMMDNN
+REF: كده
+HYP: هو
+REF phone: kdh
+HYP phone: hu
+PER: 1.0 PSD: 1.0 PSD_norm: 0.66667
+
+ID: I01-C03-R02_076930-077488_HMMDNN
+REF: تحسي
+HYP: ماشي
+REF phone: tħsi
+HYP phone: maʃi
+PER: 0.75 PSD: 0.83875 PSD_norm: 0.914
+
+ID: S02-C03-R02_031649-031758_HMMDNN
+REF: أميركا
+HYP: كنت
+REF phone: amirka
+HYP phone: knt
+PER: 1.0 PSD: 0.84417 PSD_norm: 0.68833
+
+ID: S05-C03-R05_118190-119155_HMMDNN
+REF: إن
+HYP: بس
+REF phone: in
+HYP phone: bs
+PER: 1.0 PSD: 1.0 PSD_norm: 1.645
+
+ID: S09-C03-R09_010645-010962_HMMDNN
+REF: فيهوش
+HYP: هو
+REF phone: fihuʃ
+HYP phone: hu
+PER: 0.6 PSD: 0.6 PSD_norm: 0.66667
+
+ID: S10-C03-R10_015378-016145_HMMDNN
+REF: يعني
+HYP: هو
+REF phone: iʕni
+HYP phone: hu
+PER: 1.0 PSD: 0.72575 PSD_norm: 0.758
+
+ID: S07-C03-R07_049087-050038_HMMDNN
+REF: أنا
+HYP: otherwise
+REF phone: ana
+HYP phone: ʌðɹ̩wajz
+PER: 2.33333 PSD: 1.92467 PSD_norm: 5.387
+
+ID: S09-C03-R09_007455-008583_HMMDNN
+REF: search
+HYP: إن
+REF phone: sɹ̩ʧ
+HYP phone: in
+PER: 1.0 PSD: 1.09675 PSD_norm: 0.84675
+
+ID: I01-C03-R09_001196-001373_HMMDNN
+REF: background
+HYP: background
+REF phone: bækɡɹawnd
+HYP phone: bækɡɹawnd
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R09_027932-028645_HMMDNN
+REF: اللي
+HYP: تحب
+REF phone: alli
+HYP phone: tħb
+PER: 1.0 PSD: 1.008 PSD_norm: 1.3385
+
+ID: S09-C03-R09_046921-048949_HMMDNN
+REF: بحب
+HYP: أنا
+REF phone: bħb
+HYP phone: ana
+PER: 1.0 PSD: 1.24733 PSD_norm: 0.96767
+
+ID: S02-C03-R02_009892-009994_HMMDNN
+REF: اه
+HYP: أم
+REF phone: ah
+HYP phone: am
+PER: 0.5 PSD: 0.516 PSD_norm: 1.032
+
+ID: S12-C03-R12_027893-029387_HMMDNN
+REF: خلصتش
+HYP: لو
+REF phone: xlstʃ
+HYP phone: lu
+PER: 0.8 PSD: 1.0 PSD_norm: 0.8
+
+ID: S09-C03-R09_065574-066351_HMMDNN
+REF: قبلها
+HYP: لأنهم
+REF phone: qblha
+HYP phone: lanhm
+PER: 0.8 PSD: 0.9162 PSD_norm: 0.91925
+
+ID: S02-C03-R02_084370-086168_HMMDNN
+REF: أنا
+HYP: آه
+REF phone: ana
+HYP phone: aٓh
+PER: 0.66667 PSD: 0.96767 PSD_norm: 1.903
+
+ID: I02-C03-R05_071576-072494_HMMDNN
+REF: حسن
+HYP: حادثتين
+REF phone: ħsn
+HYP phone: ħadθtin
+PER: 1.66667 PSD: 1.41933 PSD_norm: 0.75267
+
+ID: S12-C03-R12_073961-074858_HMMDNN
+REF: أول
+HYP: فا
+REF phone: aul
+HYP phone: fa
+PER: 1.0 PSD: 1.0 PSD_norm: 1.161
+
+ID: I01-C03-R09_098349-098706_HMMDNN
+REF: تقدر
+HYP: طيب
+REF phone: tqdr
+HYP phone: tib
+PER: 0.75 PSD: 0.895 PSD_norm: 0.66125
+
+ID: I01-C03-R02_001793-002675_HMMDNN
+REF: كونتي
+HYP: أوكي
+REF phone: kunti
+HYP phone: auki
+PER: 0.6 PSD: 0.729 PSD_norm: 0.66667
+
+ID: S10-C03-R10_059506-060552_HMMDNN
+REF: حاجة
+HYP: كان
+REF phone: ħaʤt
+HYP phone: kan
+PER: 0.75 PSD: 0.5565 PSD_norm: 0.742
+
+ID: S02-C03-R02_086390-086515_HMMDNN
+REF: منتهية
+HYP: متى
+REF phone: mnthit
+HYP phone: mta
+PER: 0.66667 PSD: 0.586 PSD_norm: 0.6
+
+ID: S09-C03-R09_018962-019754_HMMDNN
+REF: the
+HYP: كان
+REF phone: ðə
+HYP phone: kan
+PER: 1.5 PSD: 1.21 PSD_norm: 1.516
+
+ID: I01-C03-R07_012356-012726_HMMDNN
+REF: patch
+HYP: when
+REF phone: pæʧ
+HYP phone: wɛn
+PER: 1.0 PSD: 0.96767 PSD_norm: 1.3225
+
+ID: S05-C03-R05_105644-105827_HMMDNN
+REF: أسأل
+HYP: دائما
+REF phone: asal
+HYP phone: daima
+PER: 1.0 PSD: 1.0725 PSD_norm: 0.774
+
+ID: S12-C03-R12_001483-002079_HMMDNN
+REF: من
+HYP: أنا
+REF phone: mn
+HYP phone: ana
+PER: 1.0 PSD: 1.1775 PSD_norm: 0.5
+
+ID: S09-C03-R09_039396-040189_HMMDNN
+REF: العاطفية
+HYP: حتى
+REF phone: alʕatfit
+HYP phone: ħta
+PER: 0.875 PSD: 0.70562 PSD_norm: 0.6258
+
+ID: I01-C03-R09_091438-093276_HMMDNN
+REF: مرة
+HYP: طيب
+REF phone: mrt
+HYP phone: tib
+PER: 1.0 PSD: 1.01067 PSD_norm: 0.67733
+
+ID: S02-C03-R02_035446-035699_HMMDNN
+REF: وأنا
+HYP: لا
+REF phone: uana
+HYP phone: la
+PER: 0.75 PSD: 0.629 PSD_norm: 0.516
+
+ID: S05-C03-R05_001912-003005_HMMDNN
+REF: كنت
+HYP: تمام
+REF phone: knt
+HYP phone: tmam
+PER: 1.33333 PSD: 1.129 PSD_norm: 0.79567
+
+ID: S07-C03-R07_132317-132800_HMMDNN
+REF: إحنا
+HYP: فأحس
+REF phone: iħna
+HYP phone: faħs
+PER: 1.0 PSD: 0.79025 PSD_norm: 0.8225
+
+ID: S05-C03-R05_097407-098138_HMMDNN
+REF: عند
+HYP: فأنا
+REF phone: ʕnd
+HYP phone: fana
+PER: 1.0 PSD: 1.258 PSD_norm: 0.59133
+
+ID: S14-C03-R14_039240-039818_HMMDNN
+REF: أنا
+HYP: لكن
+REF phone: ana
+HYP phone: lkn
+PER: 1.0 PSD: 1.24733 PSD_norm: 2.0
+
+ID: S05-C03-R05_114734-115732_HMMDNN
+REF: الموبايل
+HYP: أوقف
+REF phone: almubail
+HYP phone: auqf
+PER: 0.75 PSD: 0.76612 PSD_norm: 0.90325
+
+ID: I02-C03-R02_040415-040531_HMMDNN
+REF: سافرت
+HYP: سافرت
+REF phone: safrt
+HYP phone: safrt
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S02-C03-R02_083444-083686_HMMDNN
+REF: المتملقين
+HYP: متملقين
+REF phone: almtmlqin
+HYP phone: mtmlqin
+PER: 0.22222 PSD: 0.22222 PSD_norm: 0.14286
+
+ID: I02-C03-R12_106544-107173_HMMDNN
+REF: عندك
+HYP: طيب
+REF phone: ʕndk
+HYP phone: tib
+PER: 1.0 PSD: 1.008 PSD_norm: 0.758
+
+ID: S10-C03-R10_056207-057077_HMMDNN
+REF: في
+HYP: شغلة
+REF phone: fi
+HYP phone: ʃɣlt
+PER: 2.0 PSD: 2.355 PSD_norm: 3.774
+
+ID: S09-C03-R09_016801-017542_HMMDNN
+REF: روايات
+HYP: كان
+REF phone: ruaiat
+HYP phone: kan
+PER: 0.83333 PSD: 0.72583 PSD_norm: 0.6775
+
+ID: I01-C03-R02_045016-045269_HMMDNN
+REF: موشكيل
+HYP: أوكي
+REF phone: muʃkil
+HYP phone: auki
+PER: 0.5 PSD: 0.55917 PSD_norm: 0.75
+
+ID: S10-C03-R10_069914-070587_HMMDNN
+REF: مش
+HYP: يعني
+REF phone: mʃ
+HYP phone: iʕni
+PER: 2.0 PSD: 2.1935 PSD_norm: 1.1935
+
+ID: S14-C03-R14_064968-065387_HMMDNN
+REF: بس
+HYP: هو
+REF phone: bs
+HYP phone: hu
+PER: 1.0 PSD: 1.258 PSD_norm: 0.758
+
+ID: I02-C03-R02_009994-010351_HMMDNN
+REF: أكتر
+HYP: طب
+REF phone: aktr
+HYP phone: tb
+PER: 0.75 PSD: 0.6935 PSD_norm: 0.59133
+
+ID: S09-C03-R09_044224-045500_HMMDNN
+REF: حاجة
+HYP: هو
+REF phone: ħaʤt
+HYP phone: hu
+PER: 1.0 PSD: 0.8225 PSD_norm: 0.79567
+
+ID: I01-C03-R02_026034-026116_HMMDNN
+REF: ما
+HYP: ما
+REF phone: ma
+HYP phone: ma
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S05-C03-R05_062316-062714_HMMDNN
+REF: عاجبني
+HYP: بس
+REF phone: ʕaʤbni
+HYP phone: bs
+PER: 0.83333 PSD: 0.77417 PSD_norm: 0.66125
+
+ID: I01-C03-R02_081500-081690_HMMDNN
+REF: ماشي
+HYP: أوكي
+REF phone: maʃi
+HYP phone: auki
+PER: 0.75 PSD: 0.6935 PSD_norm: 0.887
+
+ID: S07-C03-R07_040409-041152_HMMDNN
+REF: قص
+HYP: فهو
+REF phone: qs
+HYP phone: fhu
+PER: 1.5 PSD: 1.242 PSD_norm: 0.742
+
+ID: S09-C03-R09_052677-053159_HMMDNN
+REF: كده
+HYP: قلت
+REF phone: kdh
+HYP phone: qlt
+PER: 1.0 PSD: 0.387 PSD_norm: 0.387
+
+ID: S07-C03-R07_056927-057656_HMMDNN
+REF: pass
+HYP: trying
+REF phone: pæs
+HYP phone: tɹajɪŋ
+PER: 2.0 PSD: 1.70967 PSD_norm: 1.5805
+
+ID: S07-C03-R07_019216-020018_HMMDNN
+REF: من
+HYP: بحب
+REF phone: mn
+HYP phone: bħb
+PER: 1.5 PSD: 1.0805 PSD_norm: 1.0805
+
+ID: I01-C03-R02_050178-050358_HMMDNN
+REF: إشمعنى
+HYP: إشمعنى
+REF phone: iʃmʕna
+HYP phone: iʃmʕna
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S09-C03-R09_095583-096221_HMMDNN
+REF: إيه
+HYP: طيب
+REF phone: iih
+HYP phone: tib
+PER: 0.66667 PSD: 0.92467 PSD_norm: 1.516
+
+ID: I01-C03-R09_081669-082067_HMMDNN
+REF: ريفر
+HYP: طيب
+REF phone: rifr
+HYP phone: tib
+PER: 0.75 PSD: 0.41125 PSD_norm: 0.54833
+
+ID: S09-C03-R09_048949-049215_HMMDNN
+REF: of
+HYP: this
+REF phone: ʌv
+HYP phone: ðɪs
+PER: 1.5 PSD: 1.145 PSD_norm: 1.645
+
+ID: S09-C03-R09_105235-106463_HMMDNN
+REF: كمبيوتر
+HYP: في
+REF phone: kmbiutr
+HYP phone: fi
+PER: 0.85714 PSD: 0.76957 PSD_norm: 0.8774
+
+ID: I02-C03-R10_064609-065747_HMMDNN
+REF: جالك
+HYP: طيب
+REF phone: ʤalk
+HYP phone: tib
+PER: 1.0 PSD: 0.91125 PSD_norm: 0.871
+
+ID: I01-C03-R02_086515-087156_HMMDNN
+REF: أكتر
+HYP: طيب
+REF phone: aktr
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.59133
+
+ID: S10-C03-R10_032321-032761_HMMDNN
+REF: بقى
+HYP: هايبرلوب
+REF phone: bqa
+HYP phone: haibrlub
+PER: 2.33333 PSD: 2.29033 PSD_norm: 1.984
+
+ID: S02-C03-R02_073899-074420_HMMDNN
+REF: بتعلم
+HYP: أه
+REF phone: btʕlm
+HYP phone: ah
+PER: 1.0 PSD: 0.9742 PSD_norm: 0.9032
+
+ID: S09-C03-R09_077651-078072_HMMDNN
+REF: محتاج
+HYP: بحس
+REF phone: mħtaʤ
+HYP phone: bħs
+PER: 0.8 PSD: 0.5032 PSD_norm: 0.379
+
+ID: I01-C03-R14_000483-000568_HMMDNN
+REF: منين
+HYP: أنت
+REF phone: mnin
+HYP phone: ant
+PER: 0.75 PSD: 0.6855 PSD_norm: 0.46233
+
+ID: I01-C03-R02_056010-056794_HMMDNN
+REF: ممكن
+HYP: طيب
+REF phone: mmkn
+HYP phone: tib
+PER: 1.0 PSD: 1.0725 PSD_norm: 0.8225
+
+ID: I01-C03-R14_005051-005400_HMMDNN
+REF: إن
+HYP: أنت
+REF phone: in
+HYP phone: ant
+PER: 1.0 PSD: 0.758 PSD_norm: 1.0
+
+ID: I01-C03-R10_104656-105179_HMMDNN
+REF: وكان
+HYP: بحس
+REF phone: ukan
+HYP phone: bħs
+PER: 1.0 PSD: 0.992 PSD_norm: 1.242
+
+ID: I01-C03-R10_001090-001358_HMMDNN
+REF: مدرسة
+HYP: وكنت
+REF phone: mdrst
+HYP phone: uknt
+PER: 0.8 PSD: 0.6904 PSD_norm: 0.5936
+
+ID: I01-C03-R05_094220-095243_HMMDNN
+REF: تعتبر
+HYP: أوكي
+REF phone: tʕtbr
+HYP phone: auki
+PER: 1.0 PSD: 1.3098 PSD_norm: 0.942
+
+ID: I01-C03-R07_125734-126227_HMMDNN
+REF: ممكن
+HYP: آخر
+REF phone: mmkn
+HYP phone: aٓxr
+PER: 1.0 PSD: 0.90325 PSD_norm: 0.8145
+
+ID: S02-C03-R02_071219-071974_HMMDNN
+REF: أنتي
+HYP: بغيكزومبل
+REF phone: anti
+HYP phone: bɣikzumbl
+PER: 2.25 PSD: 1.84675 PSD_norm: 3.0805
+
+ID: S09-C03-R09_008583-009918_HMMDNN
+REF: نعمل
+HYP: كنا
+REF phone: nʕml
+HYP phone: kna
+PER: 1.0 PSD: 1.08875 PSD_norm: 0.871
+
+ID: S10-C03-R10_060552-060984_HMMDNN
+REF: دي
+HYP: فكان
+REF phone: di
+HYP phone: fkan
+PER: 2.0 PSD: 1.6775 PSD_norm: 2.258
+
+ID: S07-C03-R07_009510-010114_HMMDNN
+REF: قادرة
+HYP: فما
+REF phone: qadrt
+HYP phone: fma
+PER: 1.0 PSD: 0.9936 PSD_norm: 0.91925
+
+ID: S12-C03-R12_023358-025006_HMMDNN
+REF: بتتبع
+HYP: وا
+REF phone: bttbʕ
+HYP phone: ua
+PER: 1.0 PSD: 1.1678 PSD_norm: 1.0
+
+ID: S05-C03-R05_024890-025434_HMMDNN
+REF: عليها
+HYP: فإزاي
+REF phone: ʕliha
+HYP phone: fizai
+PER: 0.8 PSD: 0.6838 PSD_norm: 0.76333
+
+ID: I01-C03-R10_053563-054494_HMMDNN
+REF: ماشي
+HYP: أوكي
+REF phone: maʃi
+HYP phone: auki
+PER: 0.75 PSD: 0.6935 PSD_norm: 0.887
+
+ID: S02-C03-R02_015835-016558_HMMDNN
+REF: فاكرة
+HYP: والله
+REF phone: fakrt
+HYP phone: uallh
+PER: 0.8 PSD: 0.7742 PSD_norm: 0.766
+
+ID: S14-C03-R14_047732-048082_HMMDNN
+REF: مثلا
+HYP: يعني
+REF phone: mθla
+HYP phone: iʕni
+PER: 1.0 PSD: 0.758 PSD_norm: 0.72033
+
+ID: S09-C03-R09_056400-057145_HMMDNN
+REF: لي
+HYP: ولو
+REF phone: li
+HYP phone: ulu
+PER: 1.0 PSD: 0.6935 PSD_norm: 0.0
+
+ID: S07-C03-R07_116845-117006_HMMDNN
+REF: الجامعة
+HYP: مش
+REF phone: alʤamʕt
+HYP phone: mʃ
+PER: 0.85714 PSD: 0.85257 PSD_norm: 0.7936
+
+ID: I01-C03-R02_055810-056010_HMMDNN
+REF: ok
+HYP: إيه
+REF phone: owkej
+HYP phone: iih
+PER: 1.0 PSD: 0.7484 PSD_norm: 0.90333
+
+ID: S02-C03-R02_010351-010555_HMMDNN
+REF: كان
+HYP: كان
+REF phone: kan
+HYP phone: kan
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I02-C03-R02_034687-034883_HMMDNN
+REF: أوكي
+HYP: أوكي
+REF phone: auki
+HYP phone: auki
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R02_097669-097767_HMMDNN
+REF: ليه
+HYP: ليه
+REF phone: lih
+HYP phone: lih
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S14-C03-R14_026517-027450_HMMDNN
+REF: ده
+HYP: لو
+REF phone: dh
+HYP phone: lu
+PER: 1.0 PSD: 1.1935 PSD_norm: 0.758
+
+ID: S02-C03-R02_061070-061362_HMMDNN
+REF: لأ
+HYP: لأ
+REF phone: la
+HYP phone: la
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I02-C03-R09_074292-075149_HMMDNN
+REF: شخص
+HYP: بتحس
+REF phone: ʃxs
+HYP phone: btħs
+PER: 1.0 PSD: 0.89267 PSD_norm: 0.89267
+
+ID: S14-C03-R14_044603-044728_HMMDNN
+REF: أحضر
+HYP: كان
+REF phone: aħdr
+HYP phone: kan
+PER: 1.0 PSD: 0.78225 PSD_norm: 0.656
+
+ID: I01-C03-R02_097435-097597_HMMDNN
+REF: من
+HYP: تقدر
+REF phone: mn
+HYP phone: tqdr
+PER: 2.0 PSD: 1.516 PSD_norm: 1.516
+
+ID: I02-C03-R10_018862-019532_HMMDNN
+REF: اكتيفتيز
+HYP: طيب
+REF phone: aktiftiz
+HYP phone: tib
+PER: 0.75 PSD: 0.67338 PSD_norm: 0.6774
+
+ID: S07-C03-R07_099826-099974_HMMDNN
+REF: اللي
+HYP: عشان
+REF phone: alli
+HYP phone: ʕʃan
+PER: 1.0 PSD: 1.129 PSD_norm: 1.2095
+
+ID: S07-C03-R07_099465-099826_HMMDNN
+REF: أربعة
+HYP: أحدثها
+REF phone: arbʕt
+HYP phone: aħdθha
+PER: 1.0 PSD: 0.7418 PSD_norm: 0.67725
+
+ID: S14-C03-R14_019529-020081_HMMDNN
+REF: ياسان
+HYP: وأنا
+REF phone: iasan
+HYP phone: uana
+PER: 0.6 PSD: 0.4064 PSD_norm: 0.5
+
+ID: I01-C03-R07_000590-000661_HMMDNN
+REF: فين
+HYP: نعم
+REF phone: fin
+HYP phone: nʕm
+PER: 1.0 PSD: 1.13967 PSD_norm: 1.2095
+
+ID: S07-C03-R07_054248-054959_HMMDNN
+REF: نضجت
+HYP: i'm
+REF phone: ndʤt
+HYP phone: ajm
+PER: 1.0 PSD: 1.28225 PSD_norm: 1.03225
+
+ID: I02-C03-R05_067178-067614_HMMDNN
+REF: لك
+HYP: أه
+REF phone: lk
+HYP phone: ah
+PER: 1.0 PSD: 1.226 PSD_norm: 0.855
+
+ID: S10-C03-R10_008260-008913_HMMDNN
+REF: الميكاترونكس
+HYP: ما
+REF phone: almikatrunks
+HYP phone: ma
+PER: 0.83333 PSD: 0.83333 PSD_norm: 0.875
+
+ID: I01-C03-R05_057268-058191_HMMDNN
+REF: تحكي
+HYP: أوكي
+REF phone: tħki
+HYP phone: auki
+PER: 0.5 PSD: 0.90325 PSD_norm: 0.66667
+
+ID: S10-C03-R10_017073-017537_HMMDNN
+REF: يمين
+HYP: غالبا
+REF phone: imin
+HYP phone: ɣalba
+PER: 1.25 PSD: 1.0725 PSD_norm: 1.371
+
+ID: S12-C03-R12_075413-075990_HMMDNN
+REF: الدويبة
+HYP: وبعدين
+REF phone: alduibt
+HYP phone: ubʕdin
+PER: 0.85714 PSD: 0.74186 PSD_norm: 0.7095
+
+ID: I01-C03-R10_106795-107231_HMMDNN
+REF: تكون
+HYP: أنت
+REF phone: tkun
+HYP phone: ant
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.59133
+
+ID: S02-C03-R02_010793-010920_HMMDNN
+REF: باولو
+HYP: تا
+REF phone: baulu
+HYP phone: ta
+PER: 0.8 PSD: 0.7548 PSD_norm: 0.8225
+
+ID: S02-C03-R02_067970-068060_HMMDNN
+REF: individual
+HYP: individual
+REF phone: ɪndəvɪʤəwəl
+HYP phone: ɪndəvɪʤəwəl
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S07-C03-R07_074866-074966_HMMDNN
+REF: سو
+HYP: سيد
+REF phone: su
+HYP phone: sid
+PER: 1.0 PSD: 0.6935 PSD_norm: 1.0
+
+ID: S05-C03-R05_075925-076170_HMMDNN
+REF: برا
+HYP: أنا
+REF phone: bra
+HYP phone: ana
+PER: 0.66667 PSD: 0.49467 PSD_norm: 0.5645
+
+ID: I01-C03-R10_042830-043095_HMMDNN
+REF: بتحب
+HYP: طيب
+REF phone: btħb
+HYP phone: tib
+PER: 0.5 PSD: 0.6855 PSD_norm: 0.5
+
+ID: I01-C03-R02_043874-044181_HMMDNN
+REF: كانت
+HYP: السفرية
+REF phone: kant
+HYP phone: alsfrit
+PER: 1.5 PSD: 1.28225 PSD_norm: 1.03233
+
+ID: S10-C03-R10_032761-033086_HMMDNN
+REF: تعرف
+HYP: أوكي
+REF phone: tʕrf
+HYP phone: auki
+PER: 1.0 PSD: 1.484 PSD_norm: 0.9275
+
+ID: S14-C03-R14_043510-044603_HMMDNN
+REF: أصر
+HYP: بس
+REF phone: asr
+HYP phone: bs
+PER: 0.66667 PSD: 0.785 PSD_norm: 0.774
+
+ID: S14-C03-R14_036980-038310_HMMDNN
+REF: بعد
+HYP: طيب
+REF phone: bʕd
+HYP phone: tib
+PER: 1.0 PSD: 1.01067 PSD_norm: 0.80633
+
+ID: S02-C03-R02_001095-001422_HMMDNN
+REF: مدرسة
+HYP: مدرسة
+REF phone: mdrst
+HYP phone: mdrst
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S09-C03-R09_079972-080587_HMMDNN
+REF: عشان
+HYP: مش
+REF phone: ʕʃan
+HYP phone: mʃ
+PER: 0.75 PSD: 0.758 PSD_norm: 0.67733
+
+ID: S02-C03-R02_001422-001642_HMMDNN
+REF: فين
+HYP: laughter
+REF phone: fin
+HYP phone: læftɹ̩
+PER: 1.66667 PSD: 1.645 PSD_norm: 1.6935
+
+ID: I02-C03-R14_068563-069201_HMMDNN
+REF: بيقول
+HYP: في
+REF phone: biqul
+HYP phone: fi
+PER: 0.8 PSD: 0.6774 PSD_norm: 0.79567
+
+ID: S02-C03-R02_079433-079722_HMMDNN
+REF: عنديش
+HYP: نوعا
+REF phone: ʕndiʃ
+HYP phone: nuʕa
+PER: 0.8 PSD: 0.8322 PSD_norm: 0.66125
+
+ID: S07-C03-R07_118604-119231_HMMDNN
+REF: ولا
+HYP: لأ
+REF phone: ula
+HYP phone: la
+PER: 0.33333 PSD: 0.33333 PSD_norm: 0.0
+
+ID: S14-C03-R14_032338-032904_HMMDNN
+REF: ده
+HYP: بس
+REF phone: dh
+HYP phone: bs
+PER: 1.0 PSD: 0.5805 PSD_norm: 0.5805
+
+ID: S10-C03-R10_088194-089081_HMMDNN
+REF: حياته
+HYP: اللي
+REF phone: ħiath
+HYP phone: alli
+PER: 1.0 PSD: 0.9096 PSD_norm: 0.84933
+
+ID: S10-C03-R10_092949-093711_HMMDNN
+REF: عادي
+HYP: لا
+REF phone: ʕadi
+HYP phone: la
+PER: 0.75 PSD: 0.72575 PSD_norm: 0.758
+
+ID: S07-C03-R07_094823-095424_HMMDNN
+REF: would
+HYP: however
+REF phone: wʊd
+HYP phone: hawɛvɹ̩
+PER: 2.0 PSD: 1.63433 PSD_norm: 1.6935
+
+ID: S05-C03-R05_105017-105644_HMMDNN
+REF: صريح
+HYP: لكن
+REF phone: sriħ
+HYP phone: lkn
+PER: 1.0 PSD: 0.91125 PSD_norm: 0.88167
+
+ID: S10-C03-R10_030466-031712_HMMDNN
+REF: في
+HYP: أنا
+REF phone: fi
+HYP phone: ana
+PER: 1.5 PSD: 1.3385 PSD_norm: 1.161
+
+ID: I01-C03-R02_089670-091276_HMMDNN
+REF: مرة
+HYP: طيب
+REF phone: mrt
+HYP phone: tib
+PER: 1.0 PSD: 1.01067 PSD_norm: 0.67733
+
+ID: S12-C03-R12_089897-091615_HMMDNN
+REF: هو
+HYP: لا
+REF phone: hu
+HYP phone: la
+PER: 1.0 PSD: 0.903 PSD_norm: 0.903
+
+ID: S12-C03-R12_117796-118364_HMMDNN
+REF: هو
+HYP: بس
+REF phone: hu
+HYP phone: bs
+PER: 1.0 PSD: 1.258 PSD_norm: 1.516
+
+ID: S10-C03-R10_027647-028718_HMMDNN
+REF: لو
+HYP: يعني
+REF phone: lu
+HYP phone: iʕni
+PER: 2.0 PSD: 1.4515 PSD_norm: 1.516
+
+ID: S02-C03-R02_036974-037216_HMMDNN
+REF: responsibility
+HYP: دلوقتي
+REF phone: ɹispɑnsəbɪləti
+HYP phone: dluqti
+PER: 0.85714 PSD: 0.73736 PSD_norm: 0.73388
+
+ID: I01-C03-R10_093790-094832_HMMDNN
+REF: وبتحس
+HYP: أو
+REF phone: ubtħs
+HYP phone: au
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: S02-C03-R02_018440-018621_HMMDNN
+REF: gym
+HYP: جن
+REF phone: ʤɪm
+HYP phone: ʤn
+PER: 0.66667 PSD: 0.54833 PSD_norm: 0.3225
+
+ID: S12-C03-R12_092702-093297_HMMDNN
+REF: إن
+HYP: يعني
+REF phone: in
+HYP phone: iʕni
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: I02-C03-R14_050393-050593_HMMDNN
+REF: بتحب
+HYP: طيب
+REF phone: btħb
+HYP phone: tib
+PER: 0.5 PSD: 0.6855 PSD_norm: 0.5
+
+ID: S05-C03-R05_036891-037245_HMMDNN
+REF: مافيش
+HYP: individual
+REF phone: mafiʃ
+HYP phone: ɪndəvɪʤəwəl
+PER: 2.2 PSD: 1.5614 PSD_norm: 1.36567
+
+ID: S09-C03-R09_020796-020938_HMMDNN
+REF: فاكرهم
+HYP: دول
+REF phone: fakrhm
+HYP phone: dul
+PER: 1.0 PSD: 0.8655 PSD_norm: 0.8064
+
+ID: S07-C03-R07_048437-048775_HMMDNN
+REF: ستاندرد
+HYP: يعني
+REF phone: standrd
+HYP phone: iʕni
+PER: 0.85714 PSD: 0.89857 PSD_norm: 0.79567
+
+ID: S05-C03-R05_076967-077549_HMMDNN
+REF: لمدة
+HYP: كامل
+REF phone: lmdt
+HYP phone: kaml
+PER: 1.0 PSD: 0.96775 PSD_norm: 0.71775
+
+ID: I01-C03-R14_004805-004926_HMMDNN
+REF: عن
+HYP: كانت
+REF phone: ʕn
+HYP phone: kant
+PER: 1.5 PSD: 1.484 PSD_norm: 0.984
+
+ID: S12-C03-R12_104319-106544_HMMDNN
+REF: لا
+HYP: فحسيت
+REF phone: la
+HYP phone: fħsit
+PER: 2.5 PSD: 2.0805 PSD_norm: 3.645
+
+ID: I01-C03-R09_062937-064488_HMMDNN
+REF: أكتر
+HYP: طيب
+REF phone: aktr
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.59133
+
+ID: S07-C03-R07_119423-119566_HMMDNN
+REF: had
+HYP: دفنت
+REF phone: hæd
+HYP phone: dfnt
+PER: 1.33333 PSD: 1.086 PSD_norm: 1.3225
+
+ID: S02-C03-R02_013054-013845_HMMDNN
+REF: دي
+HYP: كل
+REF phone: di
+HYP phone: kl
+PER: 1.0 PSD: 1.258 PSD_norm: 1.516
+
+ID: I01-C03-R02_005866-006664_HMMDNN
+REF: عامة
+HYP: يعني
+REF phone: ʕamt
+HYP phone: iʕni
+PER: 1.0 PSD: 0.98375 PSD_norm: 0.46233
+
+ID: S12-C03-R12_030492-031799_HMMDNN
+REF: بتاعتي
+HYP: مثل
+REF phone: btaʕti
+HYP phone: mθl
+PER: 1.0 PSD: 0.6935 PSD_norm: 0.54025
+
+ID: S09-C03-R09_017542-018962_HMMDNN
+REF: رويت
+HYP: كان
+REF phone: ruit
+HYP phone: kan
+PER: 1.0 PSD: 0.71775 PSD_norm: 0.6775
+
+ID: S07-C03-R07_029161-029724_HMMDNN
+REF: أنا
+HYP: حسيت
+REF phone: ana
+HYP phone: ħsit
+PER: 1.33333 PSD: 1.258 PSD_norm: 2.387
+
+ID: S05-C03-R05_009349-009654_HMMDNN
+REF: اسم
+HYP: مش
+REF phone: asm
+HYP phone: mʃ
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: S02-C03-R02_051914-052028_HMMDNN
+REF: هاجر
+HYP: لأ
+REF phone: haʤr
+HYP phone: la
+PER: 0.75 PSD: 0.72575 PSD_norm: 0.79567
+
+ID: I01-C03-R02_056794-056870_HMMDNN
+REF: إيه
+HYP: أنا
+REF phone: iih
+HYP phone: ana
+PER: 1.0 PSD: 1.01067 PSD_norm: 0.903
+
+ID: I02-C03-R12_015595-016131_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: S09-C03-R09_031722-032264_HMMDNN
+REF: الوحدة
+HYP: استندت
+REF phone: aluħdt
+HYP phone: astndt
+PER: 0.5 PSD: 0.54833 PSD_norm: 0.5725
+
+ID: S10-C03-R10_072901-073299_HMMDNN
+REF: أنا
+HYP: المهم
+REF phone: ana
+HYP phone: almhm
+PER: 1.33333 PSD: 1.29033 PSD_norm: 3.516
+
+ID: I02-C03-R12_088849-089897_HMMDNN
+REF: انتقلت
+HYP: طيب
+REF phone: antqlt
+HYP phone: tib
+PER: 0.83333 PSD: 0.91933 PSD_norm: 0.7548
+
+ID: S12-C03-R12_112005-112992_HMMDNN
+REF: هو
+HYP: و
+REF phone: hu
+HYP phone: u
+PER: 0.5 PSD: 0.5 PSD_norm: 1.0
+
+ID: S05-C03-R05_034913-035880_HMMDNN
+REF: قربت
+HYP: أو
+REF phone: qrbt
+HYP phone: au
+PER: 1.0 PSD: 1.3225 PSD_norm: 1.0
+
+ID: S09-C03-R09_058466-058730_HMMDNN
+REF: كانت
+HYP: آخر
+REF phone: kant
+HYP phone: aٓxr
+PER: 1.0 PSD: 0.871 PSD_norm: 0.75267
+
+ID: S05-C03-R05_123773-123935_HMMDNN
+REF: جماعة
+HYP: العفو
+REF phone: ʤmaʕt
+HYP phone: alʕfu
+PER: 1.0 PSD: 0.9548 PSD_norm: 0.73375
+
+ID: S05-C03-R05_004618-004966_HMMDNN
+REF: الوقتي
+HYP: آه
+REF phone: aluqti
+HYP phone: aٓh
+PER: 0.83333 PSD: 0.91933 PSD_norm: 1.172
+
+ID: S09-C03-R09_098870-099120_HMMDNN
+REF: أي
+HYP: يعني
+REF phone: ai
+HYP phone: iʕni
+PER: 1.5 PSD: 1.258 PSD_norm: 2
+
+ID: I02-C03-R02_040142-040332_HMMDNN
+REF: قبل
+HYP: سافرت
+REF phone: qbl
+HYP phone: safrt
+PER: 1.66667 PSD: 1.24733 PSD_norm: 0.914
+
+ID: S07-C03-R07_096639-097274_HMMDNN
+REF: في
+HYP: يعني
+REF phone: fi
+HYP phone: iʕni
+PER: 1.5 PSD: 1.387 PSD_norm: 1.774
+
+ID: S07-C03-R07_033400-034289_HMMDNN
+REF: مختلفة
+HYP: والنبرة
+REF phone: mxtlft
+HYP phone: ualnbrt
+PER: 1.0 PSD: 0.973 PSD_norm: 0.758
+
+ID: S05-C03-R05_061960-062316_HMMDNN
+REF: كتير
+HYP: نسأل
+REF phone: ktir
+HYP phone: nsal
+PER: 1.0 PSD: 0.5645 PSD_norm: 0.58067
+
+ID: I01-C03-R02_016558-017461_HMMDNN
+REF: ماشي
+HYP: أوكي
+REF phone: maʃi
+HYP phone: auki
+PER: 0.75 PSD: 0.6935 PSD_norm: 0.887
+
+ID: S07-C03-R07_010114-010337_HMMDNN
+REF: أنا
+HYP: فبلاصت
+REF phone: ana
+HYP phone: fblast
+PER: 1.66667 PSD: 1.62367 PSD_norm: 4.387
+
+ID: S12-C03-R12_051346-051724_HMMDNN
+REF: أنت
+HYP: أو
+REF phone: ant
+HYP phone: au
+PER: 0.66667 PSD: 1.0 PSD_norm: 1.0
+
+ID: S07-C03-R07_034289-034430_HMMDNN
+REF: كان
+HYP: يعني
+REF phone: kan
+HYP phone: iʕni
+PER: 1.0 PSD: 1.172 PSD_norm: 0.484
+
+ID: I02-C03-R09_071938-072827_HMMDNN
+REF: أنت
+HYP: طيب
+REF phone: ant
+HYP phone: tib
+PER: 1.0 PSD: 1.05367 PSD_norm: 0.5805
+
+ID: S07-C03-R07_039770-040409_HMMDNN
+REF: يعني
+HYP: وهو
+REF phone: iʕni
+HYP phone: uhu
+PER: 1.0 PSD: 0.5725 PSD_norm: 0.758
+
+ID: I01-C03-R14_000954-001362_HMMDNN
+REF: كنت
+HYP: languages
+REF phone: knt
+HYP phone: læŋɡwəʤəz
+PER: 3.0 PSD: 2.58067 PSD_norm: 1.58067
+
+ID: S10-C03-R10_050578-051217_HMMDNN
+REF: مش
+HYP: والله
+REF phone: mʃ
+HYP phone: uallh
+PER: 2.5 PSD: 2.5645 PSD_norm: 1.5645
+
+ID: I01-C03-R02_099591-099665_HMMDNN
+REF: آه
+HYP: آه
+REF phone: aٓh
+HYP phone: aٓh
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S02-C03-R02_002675-002851_HMMDNN
+REF: كمبيوتر
+HYP: كمبيوتر
+REF phone: kmbiutr
+HYP phone: kmbiutr
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S07-C03-R07_028757-029025_HMMDNN
+REF: عليك
+HYP: ما
+REF phone: ʕlik
+HYP phone: ma
+PER: 1.0 PSD: 0.887 PSD_norm: 1.01067
+
+ID: S02-C03-R02_032016-032387_HMMDNN
+REF: nice
+HYP: و
+REF phone: najs
+HYP phone: u
+PER: 1.0 PSD: 0.97575 PSD_norm: 1.0
+
+ID: S09-C03-R09_023483-024000_HMMDNN
+REF: شفته
+HYP: تايتانيك
+REF phone: ʃfth
+HYP phone: taitanik
+PER: 1.75 PSD: 1.70975 PSD_norm: 0.70975
+
+ID: S07-C03-R07_029025-029161_HMMDNN
+REF: أخش
+HYP: كنت
+REF phone: axʃ
+HYP phone: knt
+PER: 1.0 PSD: 1.03233 PSD_norm: 1.0485
+
+ID: S02-C03-R02_045675-047872_HMMDNN
+REF: basically
+HYP: laughter
+REF phone: bejsɪkli
+HYP phone: læftɹ̩
+PER: 1.0 PSD: 0.85475 PSD_norm: 0.9162
+
+ID: S10-C03-R10_033247-033608_HMMDNN
+REF: يعني
+HYP: أوكي
+REF phone: iʕni
+HYP phone: auki
+PER: 0.75 PSD: 0.8065 PSD_norm: 0.984
+
+ID: S02-C03-R02_086327-086390_HMMDNN
+REF: أنت
+HYP: أنت
+REF phone: ant
+HYP phone: ant
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S05-C03-R05_016074-016434_HMMDNN
+REF: بأصحى
+HYP: أنا
+REF phone: basħa
+HYP phone: ana
+PER: 0.6 PSD: 0.529 PSD_norm: 0.88167
+
+ID: S12-C03-R12_123508-124027_HMMDNN
+REF: يحبهم
+HYP: أوكي
+REF phone: iħbhm
+HYP phone: auki
+PER: 1.0 PSD: 1.013 PSD_norm: 0.9275
+
+ID: S05-C03-R05_117106-118006_HMMDNN
+REF: استحميت
+HYP: أنت
+REF phone: astħmit
+HYP phone: ant
+PER: 0.71429 PSD: 0.62671 PSD_norm: 0.6774
+
+ID: S05-C03-R05_004282-004618_HMMDNN
+REF: شوية
+HYP: وفي
+REF phone: ʃuit
+HYP phone: ufi
+PER: 0.75 PSD: 0.75 PSD_norm: 0.887
+
+ID: S07-C03-R07_125578-125734_HMMDNN
+REF: حي
+HYP: فالمناسبة
+REF phone: ħi
+HYP phone: falmnasbt
+PER: 4.5 PSD: 4.0805 PSD_norm: 6.645
+
+ID: I02-C03-R07_034927-035086_HMMDNN
+REF: القرية
+HYP: طيب
+REF phone: alqrit
+HYP phone: tib
+PER: 0.83333 PSD: 0.672 PSD_norm: 0.758
+
+ID: S07-C03-R07_128493-128790_HMMDNN
+REF: seven
+HYP: بس
+REF phone: sɛvən
+HYP phone: bs
+PER: 1.0 PSD: 0.7806 PSD_norm: 0.63433
+
+ID: S07-C03-R07_108344-108576_HMMDNN
+REF: not
+HYP: أم
+REF phone: nɑt
+HYP phone: am
+PER: 1.0 PSD: 0.76333 PSD_norm: 0.8225
+
+ID: S14-C03-R14_036712-036980_HMMDNN
+REF: عارف
+HYP: أنا
+REF phone: ʕarf
+HYP phone: ana
+PER: 0.75 PSD: 0.65325 PSD_norm: 0.70967
+
+ID: S07-C03-R07_077254-077859_HMMDNN
+REF: فنز
+HYP: مين
+REF phone: fnz
+HYP phone: min
+PER: 1.0 PSD: 0.88167 PSD_norm: 0.54833
+
+ID: S09-C03-R09_067946-068417_HMMDNN
+REF: turning
+HYP: فكان
+REF phone: tɹ̩nɪŋ
+HYP phone: fkan
+PER: 0.83333 PSD: 0.8065 PSD_norm: 0.8
+
+ID: S07-C03-R07_034430-034838_HMMDNN
+REF: بهم
+HYP: بس
+REF phone: bhm
+HYP phone: bs
+PER: 0.66667 PSD: 0.50533 PSD_norm: 0.50533
+
+ID: S14-C03-R14_038788-039240_HMMDNN
+REF: أذاكر
+HYP: وطلب
+REF phone: aðakr
+HYP phone: utlb
+PER: 1.0 PSD: 0.8838 PSD_norm: 0.83867
+
+ID: S07-C03-R07_066403-066814_HMMDNN
+REF: أنا
+HYP: كون
+REF phone: ana
+HYP phone: kun
+PER: 1.0 PSD: 0.96767 PSD_norm: 1.0
+
+ID: S02-C03-R02_063526-063833_HMMDNN
+REF: الحقيقة
+HYP: هو
+REF phone: alħqiqt
+HYP phone: hu
+PER: 1.0 PSD: 0.82486 PSD_norm: 0.8774
+
+ID: I01-C03-R09_000532-000798_HMMDNN
+REF: أصلا
+HYP: كم
+REF phone: asla
+HYP phone: km
+PER: 1.0 PSD: 1.03225 PSD_norm: 1.0645
+
+ID: I01-C03-R02_037748-037840_HMMDNN
+REF: okay
+HYP: أوكي
+REF phone: owkej
+HYP phone: auki
+PER: 0.8 PSD: 0.4838 PSD_norm: 0.66667
+
+ID: S05-C03-R05_050181-051486_HMMDNN
+REF: نفسي
+HYP: وأنا
+REF phone: nfsi
+HYP phone: uana
+PER: 1.0 PSD: 1.129 PSD_norm: 0.66667
+
+ID: I01-C03-R10_052215-052678_HMMDNN
+REF: دلوقتي
+HYP: إحنا
+REF phone: dluqti
+HYP phone: iħna
+PER: 1.0 PSD: 0.68817 PSD_norm: 0.79025
+
+ID: I02-C03-R07_058170-058797_HMMDNN
+REF: لنا
+HYP: ممكن
+REF phone: lna
+HYP phone: mmkn
+PER: 1.33333 PSD: 1.387 PSD_norm: 1.5805
+
+ID: S05-C03-R05_119155-120074_HMMDNN
+REF: أولا
+HYP: واحدة
+REF phone: aula
+HYP phone: uaħdt
+PER: 1.0 PSD: 1.25 PSD_norm: 2.516
+
+ID: S12-C03-R12_021203-021790_HMMDNN
+REF: دلوقتي
+HYP: بس
+REF phone: dluqti
+HYP phone: bs
+PER: 1.0 PSD: 0.81717 PSD_norm: 0.72575
+
+ID: S05-C03-R05_078979-079581_HMMDNN
+REF: بعض
+HYP: تعيش
+REF phone: bʕd
+HYP phone: tʕiʃ
+PER: 1.0 PSD: 0.957 PSD_norm: 0.62367
+
+ID: I01-C03-R09_000200-000532_HMMDNN
+REF: ممكن
+HYP: أوكي
+REF phone: mmkn
+HYP phone: auki
+PER: 0.75 PSD: 1.20975 PSD_norm: 0.75
+
+ID: I01-C03-R07_120977-121239_HMMDNN
+REF: ولا
+HYP: صدقك
+REF phone: ula
+HYP phone: sdqk
+PER: 1.33333 PSD: 1.774 PSD_norm: 3.516
+
+ID: I02-C03-R10_083180-084029_HMMDNN
+REF: عندك
+HYP: طيب
+REF phone: ʕndk
+HYP phone: tib
+PER: 1.0 PSD: 1.008 PSD_norm: 0.758
+
+ID: I02-C03-R05_022291-023002_HMMDNN
+REF: أكتر
+HYP: طيب
+REF phone: aktr
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.59133
+
+ID: S07-C03-R07_007832-008141_HMMDNN
+REF: أنسب
+HYP: فحسيت
+REF phone: ansb
+HYP phone: fħsit
+PER: 1.0 PSD: 1.0725 PSD_norm: 0.93533
+
+ID: S14-C03-R14_041874-042172_HMMDNN
+REF: مكان
+HYP: بذات
+REF phone: mkan
+HYP phone: bðat
+PER: 0.75 PSD: 0.40325 PSD_norm: 0.53767
+
+ID: S12-C03-R12_128905-130751_HMMDNN
+REF: أنا
+HYP: لأ
+REF phone: ana
+HYP phone: la
+PER: 0.66667 PSD: 0.50533 PSD_norm: 0.516
+
+ID: S10-C03-R10_082448-082943_HMMDNN
+REF: ما
+HYP: بس
+REF phone: ma
+HYP phone: bs
+PER: 1.0 PSD: 1.129 PSD_norm: 1.258
+
+ID: I01-C03-R09_051477-052677_HMMDNN
+REF: ممكن
+HYP: طيب
+REF phone: mmkn
+HYP phone: tib
+PER: 1.0 PSD: 1.0725 PSD_norm: 0.8225
+
+ID: S05-C03-R05_040606-040891_HMMDNN
+REF: أكتر
+HYP: أكتر
+REF phone: aktr
+HYP phone: aktr
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I02-C03-R07_028599-028757_HMMDNN
+REF: ما
+HYP: أو
+REF phone: ma
+HYP phone: au
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: S07-C03-R07_030518-030764_HMMDNN
+REF: it
+HYP: وشفت
+REF phone: ɪt
+HYP phone: uʃft
+PER: 1.5 PSD: 1.3225 PSD_norm: 2.0
+
+ID: S07-C03-R07_047631-047837_HMMDNN
+REF: دي
+HYP: أم
+REF phone: di
+HYP phone: am
+PER: 1.0 PSD: 1.258 PSD_norm: 0.903
+
+ID: S10-C03-R10_003679-003860_HMMDNN
+REF: كتف
+HYP: فا
+REF phone: ktf
+HYP phone: fa
+PER: 1.0 PSD: 1.0 PSD_norm: 0.66667
+
+ID: S10-C03-R10_012164-012522_HMMDNN
+REF: فاكرك
+HYP: وبعدين
+REF phone: fakrk
+HYP phone: ubʕdin
+PER: 1.2 PSD: 1.1162 PSD_norm: 0.64525
+
+ID: I01-C03-R02_053873-054014_HMMDNN
+REF: لا
+HYP: في
+REF phone: la
+HYP phone: fi
+PER: 1.0 PSD: 0.8385 PSD_norm: 1.161
+
+ID: S10-C03-R10_079574-079984_HMMDNN
+REF: عنديش
+HYP: فعادي
+REF phone: ʕndiʃ
+HYP phone: fʕadi
+PER: 0.6 PSD: 0.7354 PSD_norm: 0.66925
+
+ID: I02-C03-R05_066430-067178_HMMDNN
+REF: تايمز
+HYP: فبتحببه
+REF phone: taimz
+HYP phone: fbtħbbh
+PER: 1.2 PSD: 1.1742 PSD_norm: 1.63433
+
+ID: I01-C03-R09_003416-003564_HMMDNN
+REF: ok
+HYP: أوكي
+REF phone: owkej
+HYP phone: auki
+PER: 0.8 PSD: 0.4838 PSD_norm: 0.66667
+
+ID: S05-C03-R05_007414-008051_HMMDNN
+REF: صراحه
+HYP: لقيت
+REF phone: sraħh
+HYP phone: lqit
+PER: 1.0 PSD: 0.729 PSD_norm: 0.6855
+
+ID: S05-C03-R05_008051-008597_HMMDNN
+REF: بتاعهم
+HYP: عمرو
+REF phone: btaʕhm
+HYP phone: ʕmru
+PER: 1.0 PSD: 0.90317 PSD_norm: 0.7612
+
+ID: I01-C03-R02_062074-062840_HMMDNN
+REF: أكيد
+HYP: اوكيه
+REF phone: akid
+HYP phone: aukih
+PER: 0.5 PSD: 0.41125 PSD_norm: 0.3225
+
+ID: I01-C03-R02_056870-057026_HMMDNN
+REF: break
+HYP: يعني
+REF phone: bɹejk
+HYP phone: iʕni
+PER: 1.0 PSD: 0.858 PSD_norm: 0.79025
+
+ID: S07-C03-R07_006005-007000_HMMDNN
+REF: كبير
+HYP: أه
+REF phone: kbir
+HYP phone: ah
+PER: 1.0 PSD: 0.8225 PSD_norm: 0.90333
+
+ID: S12-C03-R12_034524-035704_HMMDNN
+REF: معظم
+HYP: إلا
+REF phone: mʕðm
+HYP phone: ila
+PER: 1.0 PSD: 1.0565 PSD_norm: 0.879
+
+ID: I01-C03-R10_107633-107920_HMMDNN
+REF: فنقول
+HYP: اللي
+REF phone: fnqul
+HYP phone: alli
+PER: 1.0 PSD: 0.9484 PSD_norm: 0.629
+
+ID: I01-C03-R09_059514-060709_HMMDNN
+REF: أكتر
+HYP: طيب
+REF phone: aktr
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.59133
+
+ID: S02-C03-R02_005218-005504_HMMDNN
+REF: إيه
+HYP: يعني
+REF phone: iih
+HYP phone: iʕni
+PER: 1.0 PSD: 1.0 PSD_norm: 1.516
+
+ID: S07-C03-R07_003388-003550_HMMDNN
+REF: 2010
+HYP: نزلت
+REF phone: 2010
+HYP phone: nzlt
+PER: 1.0 PSD: 2.0 PSD_norm: 2.0
+
+ID: S02-C03-R02_039791-039973_HMMDNN
+REF: عايز
+HYP: لا
+REF phone: ʕaiz
+HYP phone: la
+PER: 0.75 PSD: 0.72575 PSD_norm: 0.758
+
+ID: S05-C03-R05_117002-117106_HMMDNN
+REF: أقنعك
+HYP: أقنعك
+REF phone: aqnʕk
+HYP phone: aqnʕk
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S10-C03-R10_013040-013356_HMMDNN
+REF: مش
+HYP: أنا
+REF phone: mʃ
+HYP phone: ana
+PER: 1.5 PSD: 1.79 PSD_norm: 0.8225
+
+ID: S12-C03-R12_019221-021203_HMMDNN
+REF: صحيت
+HYP: مثلا
+REF phone: sħit
+HYP phone: mθla
+PER: 1.0 PSD: 0.9515 PSD_norm: 0.817
+
+ID: S14-C03-R14_032904-033835_HMMDNN
+REF: دريم
+HYP: بس
+REF phone: drim
+HYP phone: bs
+PER: 1.0 PSD: 0.79025 PSD_norm: 0.72033
+
+ID: I01-C03-R02_029519-029820_HMMDNN
+REF: قيل
+HYP: أو
+REF phone: qil
+HYP phone: au
+PER: 1.0 PSD: 1.06433 PSD_norm: 1.0
+
+ID: S14-C03-R14_068070-068452_HMMDNN
+REF: thinking
+HYP: way
+REF phone: θɪŋkɪŋ
+HYP phone: wej
+PER: 1.0 PSD: 0.801 PSD_norm: 0.887
+
+ID: S10-C03-R10_053446-053563_HMMDNN
+REF: للأسف
+HYP: للأسف
+REF phone: llasf
+HYP phone: llasf
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R02_021504-022239_HMMDNN
+REF: لنا
+HYP: ممكن
+REF phone: lna
+HYP phone: mmkn
+PER: 1.33333 PSD: 1.387 PSD_norm: 1.5805
+
+ID: S12-C03-R12_026321-026997_HMMDNN
+REF: خلصنا
+HYP: لو
+REF phone: xlsna
+HYP phone: lu
+PER: 0.8 PSD: 0.7806 PSD_norm: 0.75
+
+ID: I01-C03-R07_038737-039033_HMMDNN
+REF: إيه
+HYP: بتتكلم
+REF phone: iih
+HYP phone: bttklm
+PER: 2.0 PSD: 2.29033 PSD_norm: 5.516
+
+ID: I01-C03-R07_120446-120977_HMMDNN
+REF: لما
+HYP: أوكي
+REF phone: lma
+HYP phone: auki
+PER: 1.33333 PSD: 1.49467 PSD_norm: 1.113
+
+ID: S02-C03-R02_091670-091993_HMMDNN
+REF: إن
+HYP: علشان
+REF phone: in
+HYP phone: ʕlʃan
+PER: 2.0 PSD: 1.758 PSD_norm: 3.0
+
+ID: S05-C03-R05_047731-048282_HMMDNN
+REF: عربي
+HYP: فأغلب
+REF phone: ʕrbi
+HYP phone: faɣlb
+PER: 1.25 PSD: 1.02425 PSD_norm: 0.699
+
+ID: S09-C03-R09_049415-050196_HMMDNN
+REF: تعدي
+HYP: سوشليه
+REF phone: tʕdi
+HYP phone: suʃlih
+PER: 1.25 PSD: 1.0 PSD_norm: 0.93533
+
+ID: S07-C03-R07_016618-017140_HMMDNN
+REF: what
+HYP: this
+REF phone: wʌt
+HYP phone: ðɪs
+PER: 1.0 PSD: 0.70967 PSD_norm: 0.871
+
+ID: S07-C03-R07_013651-014161_HMMDNN
+REF: سوا
+HYP: كان
+REF phone: sua
+HYP phone: kan
+PER: 1.0 PSD: 0.98933 PSD_norm: 1.645
+
+ID: S09-C03-R09_083601-083874_HMMDNN
+REF: يحب
+HYP: الواحد
+REF phone: iħb
+HYP phone: aluaħd
+PER: 1.66667 PSD: 1.344 PSD_norm: 0.8225
+
+ID: S05-C03-R05_079581-079845_HMMDNN
+REF: كذه
+HYP: الدنيا
+REF phone: kðh
+HYP phone: aldnia
+PER: 2.0 PSD: 1.83867 PSD_norm: 0.83867
+
+ID: S10-C03-R10_077007-078140_HMMDNN
+REF: كت
+HYP: فمش
+REF phone: kt
+HYP phone: fmʃ
+PER: 1.5 PSD: 1.468 PSD_norm: 1.468
+
+ID: S12-C03-R12_099375-101284_HMMDNN
+REF: يعني
+HYP: هو
+REF phone: iʕni
+HYP phone: hu
+PER: 1.0 PSD: 0.72575 PSD_norm: 0.758
+
+ID: S10-C03-R10_044141-044226_HMMDNN
+REF: جدا
+HYP: أحب
+REF phone: ʤda
+HYP phone: aħb
+PER: 1.0 PSD: 1.33333 PSD_norm: 1.032
+
+ID: S12-C03-R12_041327-041818_HMMDNN
+REF: حلوة
+HYP: هي
+REF phone: ħlut
+HYP phone: hi
+PER: 1.0 PSD: 0.6935 PSD_norm: 0.79567
+
+ID: S05-C03-R05_003815-004102_HMMDNN
+REF: هنا
+HYP: دخلت
+REF phone: hna
+HYP phone: dxlt
+PER: 1.33333 PSD: 1.32267 PSD_norm: 1.484
+
+ID: S10-C03-R10_089081-089325_HMMDNN
+REF: إنه
+HYP: أنا
+REF phone: inh
+HYP phone: ana
+PER: 0.66667 PSD: 0.79567 PSD_norm: 0.5
+
+ID: S07-C03-R07_088885-090000_HMMDNN
+REF: أول
+HYP: بس
+REF phone: aul
+HYP phone: bs
+PER: 1.0 PSD: 1.0 PSD_norm: 1.645
+
+ID: I02-C03-R02_009488-009892_HMMDNN
+REF: القرية
+HYP: طيب
+REF phone: alqrit
+HYP phone: tib
+PER: 0.83333 PSD: 0.672 PSD_norm: 0.758
+
+ID: S14-C03-R14_076114-076711_HMMDNN
+REF: هالتر
+HYP: لكن
+REF phone: haltr
+HYP phone: lkn
+PER: 0.8 PSD: 0.5678 PSD_norm: 0.45975
+
+ID: S05-C03-R05_082977-083610_HMMDNN
+REF: حلوة
+HYP: فكانت
+REF phone: ħlut
+HYP phone: fkant
+PER: 1.0 PSD: 0.97575 PSD_norm: 0.72033
+
+ID: S14-C03-R14_025645-026517_HMMDNN
+REF: of
+HYP: وسواء
+REF phone: ʌv
+HYP phone: usuaء
+PER: 2.5 PSD: 2.2095 PSD_norm: 1.903
+
+ID: S05-C03-R05_108281-108818_HMMDNN
+REF: تفسخ
+HYP: حاجة
+REF phone: tfsx
+HYP phone: ħaʤt
+PER: 1.0 PSD: 1.0 PSD_norm: 0.86275
+
+ID: S09-C03-R09_002371-002810_HMMDNN
+REF: الجيوسي
+HYP: بعدين
+REF phone: alʤiusi
+HYP phone: bʕdin
+PER: 0.85714 PSD: 0.84786 PSD_norm: 1.19333
+
+ID: S02-C03-R02_089065-089358_HMMDNN
+REF: إيه
+HYP: اللي
+REF phone: iih
+HYP phone: alli
+PER: 1.33333 PSD: 1.172 PSD_norm: 1.903
+
+ID: S02-C03-R02_061362-061969_HMMDNN
+REF: تحياتي
+HYP: يعني
+REF phone: tħiati
+HYP phone: iʕni
+PER: 0.66667 PSD: 0.64517 PSD_norm: 0.50533
+
+ID: I01-C03-R07_069018-069288_HMMDNN
+REF: تحكي
+HYP: ماشي
+REF phone: tħki
+HYP phone: maʃi
+PER: 0.75 PSD: 0.85475 PSD_norm: 0.93533
+
+ID: I01-C03-R09_103538-103688_HMMDNN
+REF: أنت
+HYP: دي
+REF phone: ant
+HYP phone: di
+PER: 1.0 PSD: 1.043 PSD_norm: 0.5645
+
+ID: S07-C03-R07_120072-120446_HMMDNN
+REF: حد
+HYP: أنا
+REF phone: ħd
+HYP phone: ana
+PER: 1.5 PSD: 1.4355 PSD_norm: 0.629
+
+ID: S09-C03-R09_068748-069477_HMMDNN
+REF: الأول
+HYP: أنا
+REF phone: alaul
+HYP phone: ana
+PER: 0.6 PSD: 0.5032 PSD_norm: 0.758
+
+ID: I02-C03-R10_089940-091318_HMMDNN
+REF: إن
+HYP: يعني
+REF phone: in
+HYP phone: iʕni
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: I02-C03-R09_057145-057603_HMMDNN
+REF: سافرت
+HYP: طيب
+REF phone: safrt
+HYP phone: tib
+PER: 1.0 PSD: 0.6322 PSD_norm: 0.66125
+
+ID: I02-C03-R07_093064-093352_HMMDNN
+REF: الاختيار
+HYP: طيب
+REF phone: alaxtiar
+HYP phone: tib
+PER: 0.75 PSD: 0.72175 PSD_norm: 0.6935
+
+ID: S12-C03-R12_010842-011568_HMMDNN
+REF: بتاعي
+HYP: البطش
+REF phone: btaʕi
+HYP phone: albtʃ
+PER: 1.0 PSD: 1.0452 PSD_norm: 0.742
+
+ID: I01-C03-R14_086369-086741_HMMDNN
+REF: تقدر
+HYP: أوكي
+REF phone: tqdr
+HYP phone: auki
+PER: 1.0 PSD: 1.5 PSD_norm: 0.78225
+
+ID: S07-C03-R07_001284-001505_HMMDNN
+REF: إتولدت
+HYP: أوكي
+REF phone: ituldt
+HYP phone: auki
+PER: 0.83333 PSD: 0.871 PSD_norm: 0.9275
+
+ID: I02-C03-R05_075523-075832_HMMDNN
+REF: برا
+HYP: طيب
+REF phone: bra
+HYP phone: tib
+PER: 1.0 PSD: 0.92467 PSD_norm: 0.774
+
+ID: S07-C03-R07_106716-106883_HMMDNN
+REF: فاستر
+HYP: قد
+REF phone: fastr
+HYP phone: qd
+PER: 1.0 PSD: 0.7678 PSD_norm: 0.70975
+
+ID: S02-C03-R02_026116-026202_HMMDNN
+REF: لا
+HYP: لأ
+REF phone: la
+HYP phone: la
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S05-C03-R05_086890-088357_HMMDNN
+REF: لغير
+HYP: وهو
+REF phone: lɣir
+HYP phone: uhu
+PER: 1.0 PSD: 0.95975 PSD_norm: 0.90333
+
+ID: S12-C03-R12_041818-043862_HMMDNN
+REF: وللي
+HYP: وطبعا
+REF phone: ulli
+HYP phone: utbʕa
+PER: 1.0 PSD: 0.766 PSD_norm: 1.274
+
+ID: S07-C03-R07_106388-106716_HMMDNN
+REF: I
+HYP: صحة
+REF phone: aj
+HYP phone: sħt
+PER: 1.5 PSD: 1.984 PSD_norm: 3.226
+
+ID: S10-C03-R10_091318-091525_HMMDNN
+REF: أكيد
+HYP: أكيد
+REF phone: akid
+HYP phone: akid
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S09-C03-R09_090718-091286_HMMDNN
+REF: تدريس
+HYP: لا
+REF phone: tdris
+HYP phone: la
+PER: 1.0 PSD: 0.7806 PSD_norm: 0.84675
+
+ID: S02-C03-R02_043097-043271_HMMDNN
+REF: to
+HYP: i
+REF phone: tə
+HYP phone: aj
+PER: 1.0 PSD: 1.226 PSD_norm: 1.355
+
+ID: S14-C03-R14_071851-072741_HMMDNN
+REF: بتحس
+HYP: طيب
+REF phone: btħs
+HYP phone: tib
+PER: 0.75 PSD: 0.9435 PSD_norm: 0.72575
+
+ID: S05-C03-R05_105954-106263_HMMDNN
+REF: أساعد
+HYP: با
+REF phone: asaʕd
+HYP phone: ba
+PER: 0.8 PSD: 0.8064 PSD_norm: 0.88167
+
+ID: S02-C03-R02_058425-058555_HMMDNN
+REF: بحب
+HYP: أنا
+REF phone: bħb
+HYP phone: ana
+PER: 1.0 PSD: 1.24733 PSD_norm: 0.96767
+
+ID: S05-C03-R05_012615-013372_HMMDNN
+REF: language
+HYP: كازا
+REF phone: læŋɡwəʤ
+HYP phone: kaza
+PER: 1.0 PSD: 0.84343 PSD_norm: 0.8064
+
+ID: S02-C03-R02_029820-030315_HMMDNN
+REF: يسجل
+HYP: هوني
+REF phone: isʤl
+HYP phone: huni
+PER: 1.0 PSD: 1.1935 PSD_norm: 0.67733
+
+ID: S10-C03-R10_041259-042681_HMMDNN
+REF: بيحاولوا
+HYP: وبنحاول
+REF phone: biħaulua
+HYP phone: ubnħaul
+PER: 0.5 PSD: 0.625 PSD_norm: 0.33333
+
+ID: S07-C03-R07_119566-120072_HMMDNN
+REF: دي
+HYP: بس
+REF phone: di
+HYP phone: bs
+PER: 1.0 PSD: 1.1935 PSD_norm: 1.387
+
+ID: S07-C03-R07_100061-100398_HMMDNN
+REF: تسلم
+HYP: هذا
+REF phone: tslm
+HYP phone: hða
+PER: 1.0 PSD: 0.8145 PSD_norm: 0.72575
+
+ID: S05-C03-R05_046715-047731_HMMDNN
+REF: عن
+HYP: بعد
+REF phone: ʕn
+HYP phone: bʕd
+PER: 1.0 PSD: 0.629 PSD_norm: 0.629
+
+ID: S12-C03-R12_086544-087237_HMMDNN
+REF: بقالها
+HYP: أو
+REF phone: bqalha
+HYP phone: au
+PER: 0.83333 PSD: 0.81717 PSD_norm: 1.0
+
+ID: S09-C03-R09_085560-085835_HMMDNN
+REF: يكتب
+HYP: المكتبة
+REF phone: iktb
+HYP phone: almktbt
+PER: 1.0 PSD: 0.879 PSD_norm: 1.0
+
+ID: I02-C03-R12_098871-099375_HMMDNN
+REF: تقول
+HYP: فا
+REF phone: tqul
+HYP phone: fa
+PER: 1.0 PSD: 0.91925 PSD_norm: 0.92467
+
+ID: I01-C03-R02_043271-043762_HMMDNN
+REF: تتعاملوا
+HYP: لسبب
+REF phone: ttʕamlua
+HYP phone: lsbb
+PER: 1.0 PSD: 0.74188 PSD_norm: 0.587
+
+ID: S12-C03-R12_039931-041327_HMMDNN
+REF: مرة
+HYP: بالإنجليش
+REF phone: mrt
+HYP phone: balinʤliʃ
+PER: 3.0 PSD: 2.344 PSD_norm: 1.344
+
+ID: S02-C03-R02_014021-014662_HMMDNN
+REF: بقى
+HYP: كل
+REF phone: bqa
+HYP phone: kl
+PER: 1.0 PSD: 0.957 PSD_norm: 1.0645
+
+ID: S02-C03-R02_035804-036275_HMMDNN
+REF: balance
+HYP: علشان
+REF phone: bæləns
+HYP phone: ʕlʃan
+PER: 0.83333 PSD: 0.70433 PSD_norm: 0.6935
+
+ID: S12-C03-R12_058007-059534_HMMDNN
+REF: أول
+HYP: ودي
+REF phone: aul
+HYP phone: udi
+PER: 1.0 PSD: 0.83867 PSD_norm: 0.516
+
+ID: I02-C03-R07_092271-093064_HMMDNN
+REF: عادة
+HYP: طب
+REF phone: ʕadt
+HYP phone: tb
+PER: 1.0 PSD: 0.72575 PSD_norm: 0.63433
+
+ID: I01-C03-R14_011280-011343_HMMDNN
+REF: 
+HYP: okay
+REF phone: 
+HYP phone: owkej
+PER: 5 PSD: 5 PSD_norm: 3
+
+ID: I01-C03-R02_079086-079235_HMMDNN
+REF: على
+HYP: أو
+REF phone: ʕla
+HYP phone: au
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: S09-C03-R09_104210-105235_HMMDNN
+REF: بتعملش
+HYP: متى
+REF phone: btʕmlʃ
+HYP phone: mta
+PER: 0.83333 PSD: 0.76883 PSD_norm: 0.70967
+
+ID: S07-C03-R07_023582-024509_HMMDNN
+REF: تاجي
+HYP: فأول
+REF phone: taʤi
+HYP phone: faul
+PER: 0.75 PSD: 0.79025 PSD_norm: 1.0965
+
+ID: S10-C03-R10_017537-017969_HMMDNN
+REF: مصحة
+HYP: يعني
+REF phone: msħt
+HYP phone: iʕni
+PER: 1.0 PSD: 0.96775 PSD_norm: 0.629
+
+ID: S10-C03-R10_085144-087241_HMMDNN
+REF: يحاول
+HYP: إن
+REF phone: iħaul
+HYP phone: in
+PER: 0.8 PSD: 0.7032 PSD_norm: 0.758
+
+ID: S07-C03-R07_090000-090188_HMMDNN
+REF: عدالتنا
+HYP: يعني
+REF phone: ʕdaltna
+HYP phone: iʕni
+PER: 0.85714 PSD: 0.68657 PSD_norm: 0.6
+
+ID: S14-C03-R14_073464-074808_HMMDNN
+REF: صعوبة
+HYP: طيب
+REF phone: sʕubt
+HYP phone: tib
+PER: 0.8 PSD: 0.529 PSD_norm: 0.5645
+
+ID: S14-C03-R14_030682-031403_HMMDNN
+REF: بيزك
+HYP: لو
+REF phone: bizk
+HYP phone: lu
+PER: 1.0 PSD: 0.887 PSD_norm: 0.83867
+
+ID: S07-C03-R07_074118-074373_HMMDNN
+REF: هو
+HYP: museum
+REF phone: hu
+HYP phone: mjuziəm
+PER: 3.0 PSD: 3.016 PSD_norm: 3.645
+
+ID: I01-C03-R14_025432-025645_HMMDNN
+REF: بتختار
+HYP: وليه
+REF phone: btxtar
+HYP phone: ulih
+PER: 1.0 PSD: 0.89233 PSD_norm: 0.8322
+
+ID: S10-C03-R10_009396-009938_HMMDNN
+REF: اللي
+HYP: بس
+REF phone: alli
+HYP phone: bs
+PER: 1.0 PSD: 0.9515 PSD_norm: 0.903
+
+ID: S02-C03-R02_012123-013054_HMMDNN
+REF: بي
+HYP: وكان
+REF phone: bi
+HYP phone: ukan
+PER: 2.0 PSD: 1.742 PSD_norm: 1.903
+
+ID: I01-C03-R09_043061-044179_HMMDNN
+REF: راه
+HYP: آو
+REF phone: rah
+HYP phone: aٓu
+PER: 1.0 PSD: 1.29033 PSD_norm: 1.5
+
+ID: S09-C03-R09_053159-053701_HMMDNN
+REF: النورمن
+HYP: كان
+REF phone: alnurmn
+HYP phone: kan
+PER: 0.85714 PSD: 0.85714 PSD_norm: 0.7936
+
+ID: S05-C03-R05_103417-103608_HMMDNN
+REF: عشان
+HYP: نبدأ
+REF phone: ʕʃan
+HYP phone: nbda
+PER: 1.0 PSD: 0.96775 PSD_norm: 0.88167
+
+ID: S05-C03-R05_070123-070890_HMMDNN
+REF: كنا
+HYP: مش
+REF phone: kna
+HYP phone: mʃ
+PER: 1.0 PSD: 1.19333 PSD_norm: 1.2905
+
+ID: I01-C03-R10_013819-014172_HMMDNN
+REF: ندمت
+HYP: سؤال
+REF phone: ndmt
+HYP phone: sual
+PER: 1.0 PSD: 1.09675 PSD_norm: 0.758
+
+ID: S05-C03-R05_010402-010710_HMMDNN
+REF: verification
+HYP: الباشا
+REF phone: vɛɹəfəkejʃən
+HYP phone: albaʃa
+PER: 0.91667 PSD: 0.62367 PSD_norm: 0.64514
+
+ID: I01-C03-R05_112757-112839_HMMDNN
+REF: تعيش
+HYP: الموبايل
+REF phone: tʕiʃ
+HYP phone: almubail
+PER: 1.75 PSD: 1.6935 PSD_norm: 1.258
+
+ID: S07-C03-R07_095424-096425_HMMDNN
+REF: بوليفيا
+HYP: assuming
+REF phone: bulifia
+HYP phone: əsumɪŋ
+PER: 1.0 PSD: 0.74186 PSD_norm: 1.09667
+
+ID: S07-C03-R07_002509-003021_HMMDNN
+REF: يجيء
+HYP: قبل
+REF phone: iʤiء
+HYP phone: qbl
+PER: 1.0 PSD: 1.2985 PSD_norm: 1.9195
+
+ID: S05-C03-R05_006473-006777_HMMDNN
+REF: اخترت
+HYP: طيب
+REF phone: axtrt
+HYP phone: tib
+PER: 0.8 PSD: 0.929 PSD_norm: 0.6935
+
+ID: S12-C03-R12_017755-018900_HMMDNN
+REF: بصحى
+HYP: يعني
+REF phone: bsħa
+HYP phone: iʕni
+PER: 1.0 PSD: 0.91925 PSD_norm: 0.80633
+
+ID: S07-C03-R07_080342-080493_HMMDNN
+REF: interesting
+HYP: a
+REF phone: ɪntɹəstɪŋ
+HYP phone: ə
+PER: 0.88889 PSD: 0.88889 PSD_norm: 1.0
+
+ID: S05-C03-R05_073088-073678_HMMDNN
+REF: اتخبطت
+HYP: مش
+REF phone: atxbtt
+HYP phone: mʃ
+PER: 1.0 PSD: 0.871 PSD_norm: 0.8452
+
+ID: S05-C03-R05_045211-045717_HMMDNN
+REF: إيه
+HYP: ممكن
+REF phone: iih
+HYP phone: mmkn
+PER: 1.33333 PSD: 1.47333 PSD_norm: 3.71
+
+ID: I01-C03-R05_085121-086651_HMMDNN
+REF: لو
+HYP: ماشي
+REF phone: lu
+HYP phone: maʃi
+PER: 2.0 PSD: 1.774 PSD_norm: 2.161
+
+ID: S07-C03-R07_071673-071968_HMMDNN
+REF: أربع
+HYP: وفي
+REF phone: arbʕ
+HYP phone: ufi
+PER: 1.0 PSD: 0.97575 PSD_norm: 0.79567
+
+ID: S02-C03-R02_023420-024303_HMMDNN
+REF: بتعمل
+HYP: شوف
+REF phone: btʕml
+HYP phone: ʃuf
+PER: 1.0 PSD: 1.0452 PSD_norm: 0.9226
+
+ID: S09-C03-R09_109737-109983_HMMDNN
+REF: استعمالها
+HYP: الغالب
+REF phone: astʕmalha
+HYP phone: alɣalb
+PER: 0.66667 PSD: 0.56989 PSD_norm: 0.68817
+
+ID: S02-C03-R02_097953-098202_HMMDNN
+REF: كل
+HYP: علشان
+REF phone: kl
+HYP phone: ʕlʃan
+PER: 2.0 PSD: 1.984 PSD_norm: 1.484
+
+ID: S07-C03-R07_123269-123655_HMMDNN
+REF: أعددها
+HYP: برادوفيتش
+REF phone: aʕddha
+HYP phone: bradufitʃ
+PER: 1.33333 PSD: 1.15583 PSD_norm: 0.85475
+
+ID: S09-C03-R09_096709-097239_HMMDNN
+REF: في
+HYP: الناس
+REF phone: fi
+HYP phone: alnas
+PER: 2.5 PSD: 2.3385 PSD_norm: 2.774
+
+ID: I01-C03-R05_108845-110279_HMMDNN
+REF: جربت
+HYP: أوكي
+REF phone: ʤrbt
+HYP phone: auki
+PER: 1.0 PSD: 1.51625 PSD_norm: 0.9275
+
+ID: S07-C03-R07_121331-122166_HMMDNN
+REF: الإيفاء
+HYP: عجز
+REF phone: aliifaء
+HYP phone: ʕʤz
+PER: 1.0 PSD: 1.11514 PSD_norm: 1.26867
+
+ID: S05-C03-R05_076170-076595_HMMDNN
+REF: كامب
+HYP: ده
+REF phone: kamb
+HYP phone: dh
+PER: 1.0 PSD: 0.90325 PSD_norm: 0.871
+
+ID: I01-C03-R10_046430-046670_HMMDNN
+REF: ممكن
+HYP: laughter
+REF phone: mmkn
+HYP phone: læftɹ̩
+PER: 1.5 PSD: 1.22575 PSD_norm: 0.97575
+
+ID: S09-C03-R09_079615-079972_HMMDNN
+REF: to
+HYP: i
+REF phone: tə
+HYP phone: aj
+PER: 1.0 PSD: 1.226 PSD_norm: 1.355
+
+ID: I02-C03-R09_036678-037754_HMMDNN
+REF: حياتك
+HYP: حاسس
+REF phone: ħiatk
+HYP phone: ħass
+PER: 0.6 PSD: 0.4452 PSD_norm: 0.40867
+
+ID: S10-C03-R10_064062-064384_HMMDNN
+REF: السعودية
+HYP: وطلعوا
+REF phone: alsʕudit
+HYP phone: utlʕua
+PER: 0.75 PSD: 0.58862 PSD_norm: 0.658
+
+ID: S02-C03-R02_087400-087565_HMMDNN
+REF: بيها
+HYP: أنا
+REF phone: biha
+HYP phone: ana
+PER: 0.75 PSD: 0.60475 PSD_norm: 0.9515
+
+ID: S07-C03-R07_065017-065257_HMMDNN
+REF: أنا
+HYP: أوعدك
+REF phone: ana
+HYP phone: auʕdk
+PER: 1.33333 PSD: 1.39767 PSD_norm: 2.258
+
+ID: S10-C03-R10_068584-069914_HMMDNN
+REF: الناس
+HYP: عشان
+REF phone: alnas
+HYP phone: ʕʃan
+PER: 0.8 PSD: 0.7806 PSD_norm: 0.96767
+
+ID: S02-C03-R02_031455-031649_HMMDNN
+REF: أيام
+HYP: قبل
+REF phone: aiam
+HYP phone: qbl
+PER: 1.0 PSD: 1.266 PSD_norm: 2.258
+
+ID: I02-C03-R07_097745-098862_HMMDNN
+REF: رول
+HYP: طيب
+REF phone: rul
+HYP phone: tib
+PER: 1.0 PSD: 0.602 PSD_norm: 0.7095
+
+ID: S10-C03-R10_102446-102698_HMMDNN
+REF: كده
+HYP: مش
+REF phone: kdh
+HYP phone: mʃ
+PER: 1.0 PSD: 0.957 PSD_norm: 0.957
+
+ID: I01-C03-R07_045736-046223_HMMDNN
+REF: which
+HYP: هتحبي
+REF phone: wɪʧ
+HYP phone: htħbi
+PER: 1.66667 PSD: 1.785 PSD_norm: 2.258
+
+ID: I01-C03-R02_049099-049941_HMMDNN
+REF: عايزة
+HYP: في
+REF phone: ʕaizt
+HYP phone: fi
+PER: 0.8 PSD: 0.7548 PSD_norm: 0.92467
+
+ID: S14-C03-R14_021396-022066_HMMDNN
+REF: لك
+HYP: بس
+REF phone: lk
+HYP phone: bs
+PER: 1.0 PSD: 1.0645 PSD_norm: 1.0645
+
+ID: S12-C03-R12_143552-145484_HMMDNN
+REF: مثلا
+HYP: يعني
+REF phone: mθla
+HYP phone: iʕni
+PER: 1.0 PSD: 0.758 PSD_norm: 0.72033
+
+ID: S12-C03-R12_068882-070329_HMMDNN
+REF: في
+HYP: فعندنا
+REF phone: fi
+HYP phone: fʕndna
+PER: 2.5 PSD: 2.258 PSD_norm: 4.0
+
+ID: I01-C03-R12_125310-126109_HMMDNN
+REF: بتحسي
+HYP: نعم
+REF phone: btħsi
+HYP phone: nʕm
+PER: 1.0 PSD: 0.7612 PSD_norm: 0.7015
+
+ID: I02-C03-R02_067243-067970_HMMDNN
+REF: في
+HYP: لو
+REF phone: fi
+HYP phone: lu
+PER: 1.0 PSD: 0.774 PSD_norm: 1.161
+
+ID: I02-C03-R09_057697-058426_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: S12-C03-R12_151367-152110_HMMDNN
+REF: بقى
+HYP: وحكم
+REF phone: bqa
+HYP phone: uħkm
+PER: 1.33333 PSD: 1.129 PSD_norm: 1.016
+
+ID: S07-C03-R07_111570-113182_HMMDNN
+REF: يعني
+HYP: مش
+REF phone: iʕni
+HYP phone: mʃ
+PER: 1.0 PSD: 1.09675 PSD_norm: 1.1935
+
+ID: S12-C03-R12_045773-046325_HMMDNN
+REF: فسوف
+HYP: هو
+REF phone: fsuf
+HYP phone: hu
+PER: 0.75 PSD: 0.629 PSD_norm: 0.83867
+
+ID: S05-C03-R05_061487-061960_HMMDNN
+REF: يعني
+HYP: وشغل
+REF phone: iʕni
+HYP phone: uʃɣl
+PER: 1.0 PSD: 0.90325 PSD_norm: 1.113
+
+ID: S14-C03-R14_067516-067809_HMMDNN
+REF: بريزنتيشن
+HYP: نلاقي
+REF phone: brizntiʃn
+HYP phone: nlaqi
+PER: 0.88889 PSD: 0.724 PSD_norm: 0.75571
+
+ID: I01-C03-R02_000609-001095_HMMDNN
+REF: دخلت
+HYP: أو
+REF phone: dxlt
+HYP phone: au
+PER: 1.0 PSD: 1.35475 PSD_norm: 1.0
+
+ID: S05-C03-R05_082321-082977_HMMDNN
+REF: كانت
+HYP: دول
+REF phone: kant
+HYP phone: dul
+PER: 1.0 PSD: 0.8145 PSD_norm: 0.63433
+
+ID: S07-C03-R07_050038-050316_HMMDNN
+REF: فعلا
+HYP: يعني
+REF phone: fʕla
+HYP phone: iʕni
+PER: 0.75 PSD: 0.629 PSD_norm: 0.50533
+
+ID: S07-C03-R07_075129-075243_HMMDNN
+REF: أربع
+HYP: عندنا
+REF phone: arbʕ
+HYP phone: ʕndna
+PER: 1.25 PSD: 1.04025 PSD_norm: 0.89233
+
+ID: S10-C03-R10_087241-088194_HMMDNN
+REF: ليها
+HYP: أي
+REF phone: liha
+HYP phone: ai
+PER: 0.75 PSD: 0.758 PSD_norm: 1.0
+
+ID: I02-C03-R07_026084-026413_HMMDNN
+REF: بتعمل
+HYP: طيب
+REF phone: btʕml
+HYP phone: tib
+PER: 0.8 PSD: 0.7742 PSD_norm: 0.6516
+
+ID: S14-C03-R14_016546-017770_HMMDNN
+REF: هوايته
+HYP: basically
+REF phone: huaith
+HYP phone: bejsɪkli
+PER: 1.33333 PSD: 1.05367 PSD_norm: 1.24733
+
+ID: I01-C03-R05_115875-116444_HMMDNN
+REF: سؤال
+HYP: طيب
+REF phone: sual
+HYP phone: tib
+PER: 1.0 PSD: 0.7015 PSD_norm: 0.7095
+
+ID: S10-C03-R10_095248-097192_HMMDNN
+REF: نبقى
+HYP: يعني
+REF phone: nbqa
+HYP phone: iʕni
+PER: 1.0 PSD: 1.0805 PSD_norm: 0.93533
+
+ID: S02-C03-R02_022239-023420_HMMDNN
+REF: ساكن
+HYP: كنت
+REF phone: sakn
+HYP phone: knt
+PER: 0.75 PSD: 0.75 PSD_norm: 0.66667
+
+ID: S14-C03-R14_075461-075646_HMMDNN
+REF: مش
+HYP: بس
+REF phone: mʃ
+HYP phone: bs
+PER: 1.0 PSD: 0.484 PSD_norm: 0.484
+
+ID: I02-C03-R12_065558-065918_HMMDNN
+REF: تقول
+HYP: طيب
+REF phone: tqul
+HYP phone: tib
+PER: 0.75 PSD: 0.637 PSD_norm: 0.656
+
+ID: S09-C03-R09_100161-100756_HMMDNN
+REF: بيعمل
+HYP: كل
+REF phone: biʕml
+HYP phone: kl
+PER: 0.8 PSD: 0.7936 PSD_norm: 0.742
+
+ID: S05-C03-R05_064867-066430_HMMDNN
+REF: هاي
+HYP: آه
+REF phone: hai
+HYP phone: aٓh
+PER: 1.0 PSD: 1.29033 PSD_norm: 1.0
+
+ID: S09-C03-R09_022112-023483_HMMDNN
+REF: كتير
+HYP: هو
+REF phone: ktir
+HYP phone: hu
+PER: 1.0 PSD: 0.72575 PSD_norm: 0.83867
+
+ID: S07-C03-R07_078347-078885_HMMDNN
+REF: think
+HYP: i
+REF phone: θɪŋk
+HYP phone: aj
+PER: 1.0 PSD: 0.72575 PSD_norm: 0.88167
+
+ID: S09-C03-R09_071479-071562_HMMDNN
+REF: تو
+HYP: وجاءت
+REF phone: tu
+HYP phone: uʤaءt
+PER: 2.5 PSD: 2.5 PSD_norm: 2.0
+
+ID: S02-C03-R02_009307-009488_HMMDNN
+REF: مكرونة
+HYP: ومكرونة
+REF phone: mkrunt
+HYP phone: umkrunt
+PER: 0.16667 PSD: 0.16667 PSD_norm: 0.0
+
+ID: S12-C03-R12_126109-127657_HMMDNN
+REF: انا
+HYP: يعني
+REF phone: ana
+HYP phone: iʕni
+PER: 1.0 PSD: 0.67733 PSD_norm: 1.0
+
+ID: I01-C03-R12_130751-132439_HMMDNN
+REF: إمارات
+HYP: طيب
+REF phone: imarat
+HYP phone: tib
+PER: 1.0 PSD: 0.758 PSD_norm: 0.67733
+
+ID: I01-C03-R05_123618-123773_HMMDNN
+REF: أوكي
+HYP: أوكي
+REF phone: auki
+HYP phone: auki
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I02-C03-R14_064028-064968_HMMDNN
+REF: عندك
+HYP: يبقى
+REF phone: ʕndk
+HYP phone: ibqa
+PER: 1.0 PSD: 1.09675 PSD_norm: 0.6935
+
+ID: S02-C03-R02_070371-070755_HMMDNN
+REF: سفيرة
+HYP: لأ
+REF phone: sfirt
+HYP phone: la
+PER: 1.0 PSD: 0.8322 PSD_norm: 0.84675
+
+ID: I01-C03-R10_054494-055302_HMMDNN
+REF: لو
+HYP: أحسن
+REF phone: lu
+HYP phone: aħsn
+PER: 2.0 PSD: 2.258 PSD_norm: 2.516
+
+ID: S14-C03-R14_072773-073464_HMMDNN
+REF: أنا
+HYP: هو
+REF phone: ana
+HYP phone: hu
+PER: 1.0 PSD: 0.93533 PSD_norm: 0.903
+
+ID: I01-C03-R09_102948-103538_HMMDNN
+REF: سؤال
+HYP: طيب
+REF phone: sual
+HYP phone: tib
+PER: 1.0 PSD: 0.7015 PSD_norm: 0.7095
+
+ID: I01-C03-R02_000163-000609_HMMDNN
+REF: تقولي
+HYP: ممكن
+REF phone: tquli
+HYP phone: mmkn
+PER: 1.0 PSD: 0.9354 PSD_norm: 0.89233
+
+ID: S12-C03-R12_013764-015472_HMMDNN
+REF: بعد
+HYP: ممكن
+REF phone: bʕd
+HYP phone: mmkn
+PER: 1.33333 PSD: 0.828 PSD_norm: 0.828
+
+ID: S02-C03-R02_098202-098422_HMMDNN
+REF: حاجة
+HYP: في
+REF phone: ħaʤt
+HYP phone: fi
+PER: 1.0 PSD: 0.79025 PSD_norm: 0.88167
+
+ID: S12-C03-R12_108738-110490_HMMDNN
+REF: هو
+HYP: أو
+REF phone: hu
+HYP phone: au
+PER: 0.5 PSD: 0.9355 PSD_norm: 1.0
+
+ID: S12-C03-R12_107173-107436_HMMDNN
+REF: أكيد
+HYP: أكيد
+REF phone: akid
+HYP phone: akid
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S07-C03-R07_117901-118604_HMMDNN
+REF: if
+HYP: ونبدأ
+REF phone: ɪf
+HYP phone: unbda
+PER: 2.5 PSD: 2.016 PSD_norm: 2.387
+
+ID: I02-C03-R09_015026-015865_HMMDNN
+REF: لنا
+HYP: ممكن
+REF phone: lna
+HYP phone: mmkn
+PER: 1.33333 PSD: 1.387 PSD_norm: 1.5805
+
+ID: I02-C03-R07_026413-027081_HMMDNN
+REF: حاجة
+HYP: يعني
+REF phone: ħaʤt
+HYP phone: iʕni
+PER: 1.0 PSD: 1.04825 PSD_norm: 0.50533
+
+ID: S05-C03-R05_014885-015641_HMMDNN
+REF: أصحى
+HYP: هلا
+REF phone: asħa
+HYP phone: hla
+PER: 0.75 PSD: 0.637 PSD_norm: 0.774
+
+ID: S02-C03-R02_068177-069270_HMMDNN
+REF: control
+HYP: i'm
+REF phone: kəntɹowl
+HYP phone: ajm
+PER: 1.0 PSD: 0.89112 PSD_norm: 0.90317
+
+ID: S14-C03-R14_010031-011280_HMMDNN
+REF: نعمل
+HYP: كنا
+REF phone: nʕml
+HYP phone: kna
+PER: 1.0 PSD: 1.08875 PSD_norm: 0.871
+
+ID: S10-C03-R10_084029-084335_HMMDNN
+REF: آه
+HYP: آه
+REF phone: aٓh
+HYP phone: aٓh
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R07_000000-000590_HMMDNN
+REF: مبدئيا
+HYP: طيب
+REF phone: mbdiia
+HYP phone: tib
+PER: 0.83333 PSD: 0.74733 PSD_norm: 0.67733
+
+ID: S12-C03-R12_046325-047767_HMMDNN
+REF: إن
+HYP: يعني
+REF phone: in
+HYP phone: iʕni
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: S05-C03-R05_104638-105017_HMMDNN
+REF: قد
+HYP: طبعا
+REF phone: qd
+HYP phone: tbʕa
+PER: 2.0 PSD: 1.6775 PSD_norm: 1.1775
+
+ID: S14-C03-R14_028262-028872_HMMDNN
+REF: signs
+HYP: للأسف
+REF phone: sajnz
+HYP phone: llasf
+PER: 1.0 PSD: 0.8386 PSD_norm: 0.79025
+
+ID: S14-C03-R14_035196-036197_HMMDNN
+REF: أنا
+HYP: basically
+REF phone: ana
+HYP phone: bejsɪkli
+PER: 2.66667 PSD: 2.09667 PSD_norm: 4.516
+
+ID: S07-C03-R07_075243-075350_HMMDNN
+REF: قوي
+HYP: والجو
+REF phone: qui
+HYP phone: ualʤu
+PER: 1.66667 PSD: 1.46233 PSD_norm: 1.839
+
+ID: S09-C03-R09_062687-062937_HMMDNN
+REF: عنديش
+HYP: وأنا
+REF phone: ʕndiʃ
+HYP phone: uana
+PER: 1.0 PSD: 1.0 PSD_norm: 0.75
+
+ID: S07-C03-R07_025064-025936_HMMDNN
+REF: السنة
+HYP: بس
+REF phone: alsnt
+HYP phone: bs
+PER: 0.8 PSD: 0.8322 PSD_norm: 0.79025
+
+ID: I01-C03-R12_050458-051213_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: I01-C03-R10_080044-080849_HMMDNN
+REF: بتحب
+HYP: طيب
+REF phone: btħb
+HYP phone: tib
+PER: 0.5 PSD: 0.6855 PSD_norm: 0.5
+
+ID: S05-C03-R05_023829-024890_HMMDNN
+REF: عن
+HYP: هو
+REF phone: ʕn
+HYP phone: hu
+PER: 1.0 PSD: 1.258 PSD_norm: 0.758
+
+ID: I01-C03-R10_067249-068180_HMMDNN
+REF: اوكيه
+HYP: من
+REF phone: aukih
+HYP phone: mn
+PER: 1.0 PSD: 1.0258 PSD_norm: 1.0645
+
+ID: S05-C03-R05_114172-114582_HMMDNN
+REF: مع
+HYP: بتمرن
+REF phone: mʕ
+HYP phone: btmrn
+PER: 2.0 PSD: 1.887 PSD_norm: 1.887
+
+ID: I01-C03-R02_037840-039068_HMMDNN
+REF: في
+HYP: فلو
+REF phone: fi
+HYP phone: flu
+PER: 1.0 PSD: 0.6935 PSD_norm: 1.0
+
+ID: S10-C03-R10_034052-034245_HMMDNN
+REF: عامل
+HYP: وبعدين
+REF phone: ʕaml
+HYP phone: ubʕdin
+PER: 1.25 PSD: 1.258 PSD_norm: 0.80633
+
+ID: S05-C03-R05_004966-005306_HMMDNN
+REF: يعني
+HYP: بحوالي
+REF phone: iʕni
+HYP phone: bħuali
+PER: 1.25 PSD: 1.0 PSD_norm: 0.8225
+
+ID: S05-C03-R05_029447-029688_HMMDNN
+REF: شغال
+HYP: أنا
+REF phone: ʃɣal
+HYP phone: ana
+PER: 0.75 PSD: 0.879 PSD_norm: 0.83867
+
+ID: S07-C03-R07_130924-132317_HMMDNN
+REF: exactly
+HYP: طبعا
+REF phone: ɪɡzæktli
+HYP phone: tbʕa
+PER: 1.0 PSD: 0.8225 PSD_norm: 0.8128
+
+ID: I01-C03-R07_114526-116759_HMMDNN
+REF: موقف
+HYP: طيب
+REF phone: muqf
+HYP phone: tib
+PER: 1.0 PSD: 0.7015 PSD_norm: 0.699
+
+ID: S09-C03-R09_070241-070613_HMMDNN
+REF: language
+HYP: لأن
+REF phone: læŋɡwəʤ
+HYP phone: lan
+PER: 0.85714 PSD: 0.69129 PSD_norm: 0.742
+
+ID: S12-C03-R12_115721-116074_HMMDNN
+REF: أحسن
+HYP: لقد
+REF phone: aħsn
+HYP phone: lqd
+PER: 1.0 PSD: 0.8145 PSD_norm: 0.75267
+
+ID: S05-C03-R05_106937-107121_HMMDNN
+REF: حاجة
+HYP: إيه
+REF phone: ħaʤt
+HYP phone: iih
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.79567
+
+ID: S14-C03-R14_057710-058896_HMMDNN
+REF: تفكير
+HYP: تغير
+REF phone: tfkir
+HYP phone: tɣir
+PER: 0.4 PSD: 0.2516 PSD_norm: 0.3145
+
+ID: S09-C03-R09_066803-067946_HMMDNN
+REF: حسيت
+HYP: لأني
+REF phone: ħsit
+HYP phone: lani
+PER: 1.0 PSD: 0.887 PSD_norm: 0.67733
+
+ID: S12-C03-R12_138989-140271_HMMDNN
+REF: مش
+HYP: هي
+REF phone: mʃ
+HYP phone: hi
+PER: 1.0 PSD: 1.484 PSD_norm: 0.984
+
+ID: I01-C03-R14_034044-035196_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: I01-C03-R10_073525-075526_HMMDNN
+REF: أكتر
+HYP: طيب
+REF phone: aktr
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.59133
+
+ID: S07-C03-R07_027081-027445_HMMDNN
+REF: not
+HYP: unfortunately
+REF phone: nɑt
+HYP phone: ənfɔɹʧənətli
+PER: 3.33333 PSD: 3.086 PSD_norm: 2.5
+
+ID: S07-C03-R07_024509-024737_HMMDNN
+REF: works
+HYP: it
+REF phone: wɹ̩ks
+HYP phone: ɪt
+PER: 1.0 PSD: 0.8064 PSD_norm: 0.8516
+
+ID: S02-C03-R02_081361-081500_HMMDNN
+REF: عادي
+HYP: هاهاهاها
+REF phone: ʕadi
+HYP phone: hahahaha
+PER: 1.75 PSD: 1.41925 PSD_norm: 1.5805
+
+ID: S10-C03-R10_071903-072453_HMMDNN
+REF: لو
+HYP: يعني
+REF phone: lu
+HYP phone: iʕni
+PER: 2.0 PSD: 1.4515 PSD_norm: 1.516
+
+ID: S07-C03-R07_018611-018849_HMMDNN
+REF: بقطعش
+HYP: نومي
+REF phone: bqtʕʃ
+HYP phone: numi
+PER: 1.0 PSD: 1.245 PSD_norm: 0.8838
+
+ID: S07-C03-R07_021100-022847_HMMDNN
+REF: بصحى
+HYP: بس
+REF phone: bsħa
+HYP phone: bs
+PER: 0.5 PSD: 0.5 PSD_norm: 0.33333
+
+ID: S07-C03-R07_041152-042437_HMMDNN
+REF: تتناول
+HYP: القصة
+REF phone: ttnaul
+HYP phone: alqst
+PER: 1.0 PSD: 0.94083 PSD_norm: 0.66125
+
+ID: S07-C03-R07_103868-104793_HMMDNN
+REF: عن
+HYP: لو
+REF phone: ʕn
+HYP phone: lu
+PER: 1.0 PSD: 1.258 PSD_norm: 0.758
+
+ID: S09-C03-R09_093473-094245_HMMDNN
+REF: أكتر
+HYP: بالعكس
+REF phone: aktr
+HYP phone: balʕks
+PER: 1.25 PSD: 1.0485 PSD_norm: 1.37633
+
+ID: S07-C03-R07_132800-133308_HMMDNN
+REF: إن
+HYP: عم
+REF phone: in
+HYP phone: ʕm
+PER: 1.0 PSD: 1.129 PSD_norm: 1.645
+
+ID: S14-C03-R14_062957-063376_HMMDNN
+REF: معاه
+HYP: ولا
+REF phone: mʕah
+HYP phone: ula
+PER: 0.75 PSD: 0.84675 PSD_norm: 0.96767
+
+ID: I02-C03-R12_097840-098871_HMMDNN
+REF: قالت
+HYP: في
+REF phone: qalt
+HYP phone: fi
+PER: 1.0 PSD: 0.871 PSD_norm: 0.92467
+
+ID: S07-C03-R07_020231-020565_HMMDNN
+REF: الساعة
+HYP: لو
+REF phone: alsaʕt
+HYP phone: lu
+PER: 0.83333 PSD: 0.81717 PSD_norm: 0.75
+
+ID: S10-C03-R10_033698-034052_HMMDNN
+REF: صاحب
+HYP: أوكي
+REF phone: saħb
+HYP phone: auki
+PER: 1.0 PSD: 1.0485 PSD_norm: 0.94633
+
+ID: S14-C03-R14_041432-041874_HMMDNN
+REF: غلط
+HYP: تسأل
+REF phone: ɣlt
+HYP phone: tsal
+PER: 1.33333 PSD: 1.086 PSD_norm: 0.75267
+
+ID: S05-C03-R05_101148-102215_HMMDNN
+REF: عشان
+HYP: أكيد
+REF phone: ʕʃan
+HYP phone: akid
+PER: 1.0 PSD: 0.758 PSD_norm: 0.67733
+
+ID: S10-C03-R10_025011-025606_HMMDNN
+REF: ده
+HYP: هو
+REF phone: dh
+HYP phone: hu
+PER: 1.0 PSD: 1.0 PSD_norm: 0.5
+
+ID: I01-C03-R02_095822-096726_HMMDNN
+REF: كان
+HYP: يعني
+REF phone: kan
+HYP phone: iʕni
+PER: 1.0 PSD: 1.172 PSD_norm: 0.484
+
+ID: I01-C03-R02_079722-080496_HMMDNN
+REF: إنه
+HYP: مثلما
+REF phone: inh
+HYP phone: mθlma
+PER: 1.66667 PSD: 1.63433 PSD_norm: 1.516
+
+ID: S05-C03-R05_023378-023584_HMMDNN
+REF: دفنش
+HYP: كتاب
+REF phone: dfnʃ
+HYP phone: ktab
+PER: 1.0 PSD: 1.129 PSD_norm: 0.879
+
+ID: S14-C03-R14_078536-078886_HMMDNN
+REF: وصانع
+HYP: هأقول
+REF phone: usanʕ
+HYP phone: haqul
+PER: 1.0 PSD: 0.9032 PSD_norm: 0.83867
+
+ID: S07-C03-R07_046951-047631_HMMDNN
+REF: بصراحة
+HYP: يعني
+REF phone: bsraħt
+HYP phone: iʕni
+PER: 1.0 PSD: 0.79567 PSD_norm: 0.7032
+
+ID: S09-C03-R09_096221-096709_HMMDNN
+REF: مرة
+HYP: وحصلت
+REF phone: mrt
+HYP phone: uħslt
+PER: 1.33333 PSD: 1.18267 PSD_norm: 0.84933
+
+ID: S12-C03-R12_119020-119905_HMMDNN
+REF: خصوصا
+HYP: respected
+REF phone: xsusa
+HYP phone: ɹɪspɛktɪd
+PER: 1.6 PSD: 1.2774 PSD_norm: 1.258
+
+ID: S02-C03-R02_086168-086327_HMMDNN
+REF: هايل
+HYP: أنت
+REF phone: hail
+HYP phone: ant
+PER: 0.75 PSD: 0.879 PSD_norm: 0.774
+
+ID: S07-C03-R07_070930-071673_HMMDNN
+REF: أطول
+HYP: بس
+REF phone: atul
+HYP phone: bs
+PER: 1.0 PSD: 0.85475 PSD_norm: 0.7095
+
+ID: S12-C03-R12_107436-108738_HMMDNN
+REF: إن
+HYP: أنا
+REF phone: in
+HYP phone: ana
+PER: 1.0 PSD: 0.758 PSD_norm: 0.0
+
+ID: S07-C03-R07_014746-015484_HMMDNN
+REF: دي
+HYP: يعني
+REF phone: di
+HYP phone: iʕni
+PER: 1.5 PSD: 1.129 PSD_norm: 1.258
+
+ID: I02-C03-R14_051422-052400_HMMDNN
+REF: على
+HYP: آه
+REF phone: ʕla
+HYP phone: aٓh
+PER: 1.0 PSD: 1.33333 PSD_norm: 1.258
+
+ID: I02-C03-R07_110387-111151_HMMDNN
+REF: في
+HYP: طيب
+REF phone: fi
+HYP phone: tib
+PER: 1.0 PSD: 0.887 PSD_norm: 1.387
+
+ID: S05-C03-R05_037768-038521_HMMDNN
+REF: الوقت
+HYP: أو
+REF phone: aluqt
+HYP phone: au
+PER: 0.6 PSD: 0.6 PSD_norm: 1.0
+
+ID: S10-C03-R10_034245-035673_HMMDNN
+REF: زي
+HYP: هايبرلوب
+REF phone: zi
+HYP phone: haibrlub
+PER: 3.5 PSD: 3.3225 PSD_norm: 4.387
+
+ID: S14-C03-R14_002790-003594_HMMDNN
+REF: معانا
+HYP: فرع
+REF phone: mʕana
+HYP phone: frʕ
+PER: 1.0 PSD: 0.8516 PSD_norm: 0.774
+
+ID: I01-C03-R14_000568-000641_HMMDNN
+REF: اتولدت
+HYP: التلاتة
+REF phone: atuldt
+HYP phone: altlatt
+PER: 0.66667 PSD: 0.5215 PSD_norm: 0.28225
+
+ID: I01-C03-R05_102404-103285_HMMDNN
+REF: أكتر
+HYP: طيب
+REF phone: aktr
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.59133
+
+ID: I01-C03-R14_000145-000483_HMMDNN
+REF: تبتدي
+HYP: طيب
+REF phone: tbtdi
+HYP phone: tib
+PER: 0.8 PSD: 0.8 PSD_norm: 0.5
+
+ID: S09-C03-R09_019754-020462_HMMDNN
+REF: أغلب
+HYP: second
+REF phone: aɣlb
+HYP phone: sɛkənd
+PER: 1.5 PSD: 0.887 PSD_norm: 0.80633
+
+ID: S07-C03-R07_059493-059782_HMMDNN
+REF: مع
+HYP: كنت
+REF phone: mʕ
+HYP phone: knt
+PER: 1.5 PSD: 1.2095 PSD_norm: 1.2095
+
+ID: I01-C03-R10_109506-109916_HMMDNN
+REF: أنت
+HYP: يعني
+REF phone: ant
+HYP phone: iʕni
+PER: 1.0 PSD: 0.93533 PSD_norm: 0.645
+
+ID: S10-C03-R10_022868-023793_HMMDNN
+REF: إن
+HYP: يعني
+REF phone: in
+HYP phone: iʕni
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: S09-C03-R09_049215-049415_HMMDNN
+REF: أبقى
+HYP: إن
+REF phone: abqa
+HYP phone: in
+PER: 1.0 PSD: 0.85475 PSD_norm: 0.9515
+
+ID: S09-C03-R09_020938-021111_HMMDNN
+REF: حاجات
+HYP: دول
+REF phone: ħaʤat
+HYP phone: dul
+PER: 1.0 PSD: 0.8644 PSD_norm: 0.80633
+
+ID: S14-C03-R14_020974-021396_HMMDNN
+REF: وإياه
+HYP: بصي
+REF phone: uiiah
+HYP phone: bsi
+PER: 0.8 PSD: 1.071 PSD_norm: 1.516
+
+ID: I01-C03-R02_069390-070148_HMMDNN
+REF: سؤال
+HYP: أوكي
+REF phone: sual
+HYP phone: auki
+PER: 0.75 PSD: 1.129 PSD_norm: 0.984
+
+ID: S05-C03-R05_008597-008985_HMMDNN
+REF: هما
+HYP: وحسيت
+REF phone: hma
+HYP phone: uħsit
+PER: 1.66667 PSD: 1.39767 PSD_norm: 1.2095
+
+ID: I02-C03-R02_082713-083193_HMMDNN
+REF: إن
+HYP: تواجه
+REF phone: in
+HYP phone: tuaʤh
+PER: 2.5 PSD: 2.145 PSD_norm: 2.387
+
+ID: S09-C03-R09_057603-057697_HMMDNN
+REF: لأ
+HYP: نعم
+REF phone: la
+HYP phone: nʕm
+PER: 1.5 PSD: 1.4355 PSD_norm: 2.516
+
+ID: I01-C03-R14_067074-067238_HMMDNN
+REF: بيعمل
+HYP: اللي
+REF phone: biʕml
+HYP phone: alli
+PER: 1.0 PSD: 0.8838 PSD_norm: 0.72575
+
+ID: I02-C03-R07_017302-017859_HMMDNN
+REF: تقول
+HYP: طيب
+REF phone: tqul
+HYP phone: tib
+PER: 0.75 PSD: 0.637 PSD_norm: 0.656
+
+ID: I02-C03-R12_029387-030492_HMMDNN
+REF: تقول
+HYP: طيب
+REF phone: tqul
+HYP phone: tib
+PER: 0.75 PSD: 0.637 PSD_norm: 0.656
+
+ID: S10-C03-R10_010853-011272_HMMDNN
+REF: مستر
+HYP: التي
+REF phone: mstr
+HYP phone: alti
+PER: 0.75 PSD: 0.96775 PSD_norm: 0.66125
+
+ID: I01-C03-R05_037345-037716_HMMDNN
+REF: بتحب
+HYP: طيب
+REF phone: btħb
+HYP phone: tib
+PER: 0.5 PSD: 0.6855 PSD_norm: 0.5
+
+ID: S10-C03-R10_003035-003679_HMMDNN
+REF: راحت
+HYP: كت
+REF phone: raħt
+HYP phone: kt
+PER: 0.75 PSD: 0.70975 PSD_norm: 0.613
+
+ID: S12-C03-R12_076335-076694_HMMDNN
+REF: لبعضيها
+HYP: بعدين
+REF phone: lbʕdiha
+HYP phone: bʕdin
+PER: 0.42857 PSD: 0.41471 PSD_norm: 0.3806
+
+ID: S05-C03-R05_058855-059597_HMMDNN
+REF: عقب
+HYP: وشغل
+REF phone: ʕqb
+HYP phone: uʃɣl
+PER: 1.33333 PSD: 1.258 PSD_norm: 0.92467
+
+ID: I01-C03-R07_000661-000978_HMMDNN
+REF: national
+HYP: وتعلمت
+REF phone: næʃənəl
+HYP phone: utʕlmt
+PER: 1.0 PSD: 0.98143 PSD_norm: 0.9435
+
+ID: I01-C03-R09_041485-043061_HMMDNN
+REF: لما
+HYP: بس
+REF phone: lma
+HYP phone: bs
+PER: 1.0 PSD: 1.086 PSD_norm: 1.129
+
+ID: S02-C03-R02_010920-011250_HMMDNN
+REF: جدا
+HYP: وفرق
+REF phone: ʤda
+HYP phone: ufrq
+PER: 1.33333 PSD: 1.49433 PSD_norm: 1.3385
+
+ID: I01-C03-R10_105460-105659_HMMDNN
+REF: تقدر
+HYP: طيب
+REF phone: tqdr
+HYP phone: tib
+PER: 0.75 PSD: 0.895 PSD_norm: 0.66125
+
+ID: S07-C03-R07_075042-075129_HMMDNN
+REF: عليها
+HYP: فإحنا
+REF phone: ʕliha
+HYP phone: fiħna
+PER: 0.8 PSD: 0.6322 PSD_norm: 0.88167
+
+ID: S10-C03-R10_113926-115162_HMMDNN
+REF: ممكن
+HYP: ما
+REF phone: mmkn
+HYP phone: ma
+PER: 0.75 PSD: 0.83875 PSD_norm: 0.75
+
+ID: S09-C03-R09_026908-026995_HMMDNN
+REF: اه
+HYP: آه
+REF phone: ah
+HYP phone: aٓh
+PER: 0.5 PSD: 0.5 PSD_norm: 1.0
+
+ID: S07-C03-R07_133308-134024_HMMDNN
+REF: want
+HYP: if
+REF phone: wɑnt
+HYP phone: ɪf
+PER: 1.0 PSD: 0.8225 PSD_norm: 0.92467
+
+ID: S09-C03-R09_055135-056400_HMMDNN
+REF: good
+HYP: a
+REF phone: ɡʊd
+HYP phone: ə
+PER: 1.0 PSD: 0.81733 PSD_norm: 1.0
+
+ID: S07-C03-R07_093352-093933_HMMDNN
+REF: كنت
+HYP: وأنا
+REF phone: knt
+HYP phone: uana
+PER: 1.0 PSD: 1.516 PSD_norm: 0.66667
+
+ID: S09-C03-R09_107477-108479_HMMDNN
+REF: لي
+HYP: إنما
+REF phone: li
+HYP phone: inma
+PER: 2.0 PSD: 1.516 PSD_norm: 1.516
+
+ID: S10-C03-R10_003963-004524_HMMDNN
+REF: مدرسة
+HYP: كيجي
+REF phone: mdrst
+HYP phone: kiʤi
+PER: 1.0 PSD: 1.3484 PSD_norm: 0.9742
+
+ID: S07-C03-R07_056518-056628_HMMDNN
+REF: الأكاديمية
+HYP: وأنا
+REF phone: alakadimit
+HYP phone: uana
+PER: 0.8 PSD: 0.7677 PSD_norm: 0.8516
+
+ID: S09-C03-R09_001455-001706_HMMDNN
+REF: إتولدت
+HYP: طيب
+REF phone: ituldt
+HYP phone: tib
+PER: 0.83333 PSD: 0.672 PSD_norm: 0.66125
+
+ID: S12-C03-R12_116074-117200_HMMDNN
+REF: وبطولة
+HYP: أو
+REF phone: ubtult
+HYP phone: au
+PER: 0.83333 PSD: 0.81717 PSD_norm: 1.0
+
+ID: S07-C03-R07_055843-056518_HMMDNN
+REF: مشكلة
+HYP: بس
+REF phone: mʃklt
+HYP phone: bs
+PER: 1.0 PSD: 0.7032 PSD_norm: 0.7032
+
+ID: S02-C03-R02_098422-099129_HMMDNN
+REF: others
+HYP: communication
+REF phone: ʌðɹ̩z
+HYP phone: kəmjunəkejʃən
+PER: 2.6 PSD: 2.3612 PSD_norm: 1.85475
+
+ID: I02-C03-R02_082060-082713_HMMDNN
+REF: شخصيات
+HYP: طيب
+REF phone: ʃxsiat
+HYP phone: tib
+PER: 0.83333 PSD: 0.672 PSD_norm: 0.758
+
+ID: I01-C03-R14_080858-082779_HMMDNN
+REF: كان
+HYP: أوكي
+REF phone: kan
+HYP phone: auki
+PER: 1.33333 PSD: 1.172 PSD_norm: 0.5
+
+ID: S12-C03-R12_114534-115721_HMMDNN
+REF: منهج
+HYP: وا
+REF phone: mnhʤ
+HYP phone: ua
+PER: 1.0 PSD: 1.33875 PSD_norm: 1.0
+
+ID: S05-C03-R05_086651-086757_HMMDNN
+REF: حاسافر
+HYP: سافر
+REF phone: ħasafr
+HYP phone: safr
+PER: 0.33333 PSD: 0.33333 PSD_norm: 0.25
+
+ID: I02-C03-R05_020413-020713_HMMDNN
+REF: هوايا
+HYP: إيه
+REF phone: huaia
+HYP phone: iih
+PER: 0.8 PSD: 0.8516 PSD_norm: 0.0
+
+ID: I01-C03-R10_024555-024777_HMMDNN
+REF: هاذول
+HYP: ا
+REF phone: haðul
+HYP phone: a
+PER: 0.8 PSD: 0.8 PSD_norm: 1.0
+
+ID: S07-C03-R07_072600-073010_HMMDNN
+REF: حاجة
+HYP: يا
+REF phone: ħaʤt
+HYP phone: ia
+PER: 0.75 PSD: 0.9355 PSD_norm: 1.0
+
+ID: S12-C03-R12_006162-007966_HMMDNN
+REF: دخلت
+HYP: أنا
+REF phone: dxlt
+HYP phone: ana
+PER: 1.0 PSD: 1.25 PSD_norm: 0.8145
+
+ID: I02-C03-R07_028250-028599_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: S14-C03-R14_076711-076926_HMMDNN
+REF: أنا
+HYP: تفتكر
+REF phone: ana
+HYP phone: tftkr
+PER: 1.66667 PSD: 1.871 PSD_norm: 4.129
+
+ID: S14-C03-R14_061014-061957_HMMDNN
+REF: دا
+HYP: فلوس
+REF phone: da
+HYP phone: flus
+PER: 2.0 PSD: 1.7095 PSD_norm: 2.387
+
+ID: S07-C03-R07_098986-099115_HMMDNN
+REF: مش
+HYP: في
+REF phone: mʃ
+HYP phone: fi
+PER: 1.0 PSD: 1.3225 PSD_norm: 0.8225
+
+ID: S12-C03-R12_140271-141648_HMMDNN
+REF: الموضوع
+HYP: فا
+REF phone: almuduʕ
+HYP phone: fa
+PER: 1.0 PSD: 0.93543 PSD_norm: 0.91125
+
+ID: S10-C03-R10_026162-027647_HMMDNN
+REF: ان
+HYP: هي
+REF phone: an
+HYP phone: hi
+PER: 1.0 PSD: 1.258 PSD_norm: 0.903
+
+ID: I01-C03-R02_044475-045016_HMMDNN
+REF: ممكن
+HYP: أوكي
+REF phone: mmkn
+HYP phone: auki
+PER: 0.75 PSD: 1.20975 PSD_norm: 0.75
+
+ID: I01-C03-R02_097256-097435_HMMDNN
+REF: آه
+HYP: آه
+REF phone: aٓh
+HYP phone: aٓh
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S07-C03-R07_029724-029843_HMMDNN
+REF: جدا
+HYP: وكان
+REF phone: ʤda
+HYP phone: ukan
+PER: 1.0 PSD: 1.27967 PSD_norm: 0.613
+
+ID: S14-C03-R14_019223-019529_HMMDNN
+REF: أغاني
+HYP: آه
+REF phone: aɣani
+HYP phone: aٓh
+PER: 0.8 PSD: 0.942 PSD_norm: 1.355
+
+ID: S07-C03-R07_066814-067670_HMMDNN
+REF: أنا
+HYP: يعني
+REF phone: ana
+HYP phone: iʕni
+PER: 1.0 PSD: 0.67733 PSD_norm: 1.0
+
+ID: S09-C03-R09_111526-113224_HMMDNN
+REF: ما
+HYP: إنما
+REF phone: ma
+HYP phone: inma
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: S12-C03-R12_078651-079437_HMMDNN
+REF: السنة
+HYP: وبعد
+REF phone: alsnt
+HYP phone: ubʕd
+PER: 1.0 PSD: 0.7934 PSD_norm: 0.766
+
+ID: S14-C03-R14_075646-075842_HMMDNN
+REF: عارف
+HYP: فدا
+REF phone: ʕarf
+HYP phone: fda
+PER: 1.0 PSD: 0.84675 PSD_norm: 0.63433
+
+ID: S10-C03-R10_016145-016812_HMMDNN
+REF: يعني
+HYP: وجمع
+REF phone: iʕni
+HYP phone: uʤmʕ
+PER: 1.0 PSD: 0.98375 PSD_norm: 1.4675
+
+ID: I01-C03-R02_017724-018066_HMMDNN
+REF: في
+HYP: في
+REF phone: fi
+HYP phone: fi
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S05-C03-R05_030183-030854_HMMDNN
+REF: تبعث
+HYP: آ
+REF phone: tbʕθ
+HYP phone: aٓ
+PER: 1.0 PSD: 1.33875 PSD_norm: 1.25
+
+ID: I02-C03-R14_015995-016546_HMMDNN
+REF: هوايات
+HYP: طيب
+REF phone: huaiat
+HYP phone: tib
+PER: 0.83333 PSD: 0.715 PSD_norm: 0.645
+
+ID: S05-C03-R05_027799-028163_HMMDNN
+REF: ساعة
+HYP: أوكي
+REF phone: saʕt
+HYP phone: auki
+PER: 1.0 PSD: 1.08075 PSD_norm: 0.90333
+
+ID: I01-C03-R14_024099-025102_HMMDNN
+REF: مستقبليا
+HYP: طيب
+REF phone: mstqblia
+HYP phone: tib
+PER: 0.75 PSD: 0.79438 PSD_norm: 0.66667
+
+ID: S05-C03-R05_054315-054620_HMMDNN
+REF: لقيتش
+HYP: بس
+REF phone: lqitʃ
+HYP phone: bs
+PER: 1.0 PSD: 0.8452 PSD_norm: 0.8065
+
+ID: I01-C03-R09_026995-027932_HMMDNN
+REF: تحب
+HYP: طيب
+REF phone: tħb
+HYP phone: tib
+PER: 0.33333 PSD: 0.58067 PSD_norm: 0.33333
+
+ID: I01-C03-R14_089906-090073_HMMDNN
+REF: ماشي
+HYP: شكرا
+REF phone: maʃi
+HYP phone: ʃkra
+PER: 1.0 PSD: 1.129 PSD_norm: 1.5
+
+ID: S14-C03-R14_088097-089394_HMMDNN
+REF: سؤال
+HYP: طيب
+REF phone: sual
+HYP phone: tib
+PER: 1.0 PSD: 0.7015 PSD_norm: 0.7095
+
+ID: S05-C03-R05_107121-108087_HMMDNN
+REF: مش
+HYP: بصراحة
+REF phone: mʃ
+HYP phone: bsraħt
+PER: 3.0 PSD: 2.484 PSD_norm: 1.984
+
+ID: S07-C03-R07_005558-006005_HMMDNN
+REF: شهور
+HYP: wasn't
+REF phone: ʃhur
+HYP phone: wɑznt
+PER: 1.25 PSD: 1.25 PSD_norm: 1.0
+
+ID: S02-C03-R02_094303-094704_HMMDNN
+REF: لا
+HYP: أنا
+REF phone: la
+HYP phone: ana
+PER: 1.0 PSD: 0.758 PSD_norm: 0.516
+
+ID: S07-C03-R07_014161-014746_HMMDNN
+REF: دي
+HYP: كان
+REF phone: di
+HYP phone: kan
+PER: 1.5 PSD: 1.1775 PSD_norm: 1.258
+
+ID: S10-C03-R10_067021-067249_HMMDNN
+REF: إن
+HYP: فا
+REF phone: in
+HYP phone: fa
+PER: 1.0 PSD: 1.258 PSD_norm: 1.161
+
+ID: S07-C03-R07_035155-035212_HMMDNN
+REF: جدا
+HYP: جدا
+REF phone: ʤda
+HYP phone: ʤda
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S09-C03-R09_066351-066803_HMMDNN
+REF: الكرستة
+HYP: turning
+REF phone: alkrstt
+HYP phone: tɹ̩nɪŋ
+PER: 1.0 PSD: 0.96314 PSD_norm: 0.79033
+
+ID: S09-C03-R09_082568-082994_HMMDNN
+REF: كتير
+HYP: أحب
+REF phone: ktir
+HYP phone: aħb
+PER: 1.0 PSD: 1.0725 PSD_norm: 0.80633
+
+ID: I01-C03-R14_040288-040379_HMMDNN
+REF: 
+HYP: okay
+REF phone: 
+HYP phone: owkej
+PER: 5 PSD: 5 PSD_norm: 3
+
+ID: S05-C03-R05_046229-046715_HMMDNN
+REF: يتكلموا
+HYP: على
+REF phone: itklmua
+HYP phone: ʕla
+PER: 0.71429 PSD: 0.682 PSD_norm: 0.6935
+
+ID: S05-C03-R05_096162-097407_HMMDNN
+REF: مع
+HYP: أحب
+REF phone: mʕ
+HYP phone: aħb
+PER: 1.5 PSD: 1.242 PSD_norm: 0.9675
+
+ID: S07-C03-R07_008141-008475_HMMDNN
+REF: with
+HYP: عشان
+REF phone: wɪð
+HYP phone: ʕʃan
+PER: 1.33333 PSD: 1.086 PSD_norm: 1.5
+
+ID: I01-C03-R02_080939-081361_HMMDNN
+REF: تتعاملي
+HYP: ولا
+REF phone: ttʕamli
+HYP phone: ula
+PER: 0.85714 PSD: 0.77414 PSD_norm: 0.8
+
+ID: S14-C03-R14_083600-084048_HMMDNN
+REF: مش
+HYP: لو
+REF phone: mʃ
+HYP phone: lu
+PER: 1.0 PSD: 1.5805 PSD_norm: 1.0805
+
+ID: S02-C03-R02_010555-010793_HMMDNN
+REF: found
+HYP: ياعصمه
+REF phone: fawnd
+HYP phone: iaʕsmh
+PER: 1.0 PSD: 1.0516 PSD_norm: 0.9515
+
+ID: S14-C03-R14_006784-007163_HMMDNN
+REF: من
+HYP: عشان
+REF phone: mn
+HYP phone: ʕʃan
+PER: 1.5 PSD: 1.516 PSD_norm: 1.016
+
+ID: S02-C03-R02_008280-008464_HMMDNN
+REF: الجم
+HYP: ما
+REF phone: alʤm
+HYP phone: ma
+PER: 1.0 PSD: 1.0 PSD_norm: 0.66667
+
+ID: I01-C03-R10_111216-112009_HMMDNN
+REF: أما
+HYP: لأ
+REF phone: ama
+HYP phone: la
+PER: 0.66667 PSD: 0.72033 PSD_norm: 1.161
+
+ID: S10-C03-R10_045300-045666_HMMDNN
+REF: بحبو
+HYP: هو
+REF phone: bħbu
+HYP phone: hu
+PER: 0.75 PSD: 0.59675 PSD_norm: 0.79567
+
+ID: S05-C03-R05_009654-009871_HMMDNN
+REF: لأ
+HYP: يا
+REF phone: la
+HYP phone: ia
+PER: 0.5 PSD: 0.871 PSD_norm: 1.0
+
+ID: I01-C03-R09_004851-005120_HMMDNN
+REF: تحكي
+HYP: وال
+REF phone: tħki
+HYP phone: ual
+PER: 1.0 PSD: 1.266 PSD_norm: 0.88167
+
+ID: S12-C03-R12_093297-095505_HMMDNN
+REF: عارفة
+HYP: هي
+REF phone: ʕarft
+HYP phone: hi
+PER: 1.0 PSD: 0.8064 PSD_norm: 0.879
+
+ID: S07-C03-R07_100398-100884_HMMDNN
+REF: definitely
+HYP: this
+REF phone: dɛfənətli
+HYP phone: ðɪs
+PER: 1.0 PSD: 0.73833 PSD_norm: 0.7032
+
+ID: S02-C03-R02_065660-066676_HMMDNN
+REF: ال
+HYP: بس
+REF phone: al
+HYP phone: bs
+PER: 1.0 PSD: 1.0 PSD_norm: 1.645
+
+ID: S07-C03-R07_016084-016618_HMMDNN
+REF: the
+HYP: i
+REF phone: ðə
+HYP phone: aj
+PER: 1.0 PSD: 1.226 PSD_norm: 1.097
+
+ID: S09-C03-R09_072931-073345_HMMDNN
+REF: خالص
+HYP: تقريبا
+REF phone: xals
+HYP phone: tqriba
+PER: 1.5 PSD: 1.41925 PSD_norm: 0.89233
+
+ID: S05-C03-R05_028521-029447_HMMDNN
+REF: الكلام
+HYP: أنا
+REF phone: alklam
+HYP phone: ana
+PER: 0.66667 PSD: 0.586 PSD_norm: 0.879
+
+ID: S02-C03-R02_034037-034330_HMMDNN
+REF: أقدر
+HYP: آه
+REF phone: aqdr
+HYP phone: aٓh
+PER: 0.75 PSD: 0.91125 PSD_norm: 1.215
+
+ID: S10-C03-R10_012803-013040_HMMDNN
+REF: بصراحة
+HYP: مش
+REF phone: bsraħt
+HYP phone: mʃ
+PER: 1.0 PSD: 0.828 PSD_norm: 0.7936
+
+ID: S02-C03-R02_032387-032830_HMMDNN
+REF: فانينغ
+HYP: وكان
+REF phone: faninɣ
+HYP phone: ukan
+PER: 0.83333 PSD: 0.75267 PSD_norm: 0.742
+
+ID: I01-C03-R02_074510-075216_HMMDNN
+REF: سأقرأ
+HYP: طيب
+REF phone: saqra
+HYP phone: tib
+PER: 1.0 PSD: 0.7096 PSD_norm: 0.67733
+
+ID: S14-C03-R14_048352-049298_HMMDNN
+REF: مثلا
+HYP: فإحنا
+REF phone: mθla
+HYP phone: fiħna
+PER: 1.0 PSD: 0.66925 PSD_norm: 0.559
+
+ID: S07-C03-R07_090188-090976_HMMDNN
+REF: علي
+HYP: الشغل
+REF phone: ʕli
+HYP phone: alʃɣl
+PER: 1.33333 PSD: 1.57 PSD_norm: 1.355
+
+ID: S12-C03-R12_048643-050458_HMMDNN
+REF: بيه
+HYP: شوف
+REF phone: bih
+HYP phone: ʃuf
+PER: 1.0 PSD: 0.79567 PSD_norm: 1.0
+
+ID: S02-C03-R02_050086-050178_HMMDNN
+REF: باريس
+HYP: باريس
+REF phone: baris
+HYP phone: baris
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S05-C03-R05_036442-036595_HMMDNN
+REF: بيشجعوا
+HYP: تيمور
+REF phone: biʃʤʕua
+HYP phone: timur
+PER: 0.71429 PSD: 0.811 PSD_norm: 1.008
+
+ID: I01-C03-R02_053794-053873_HMMDNN
+REF: في
+HYP: فيه
+REF phone: fi
+HYP phone: fih
+PER: 0.5 PSD: 0.5 PSD_norm: 1.0
+
+ID: S02-C03-R02_089358-089670_HMMDNN
+REF: تبقى
+HYP: أرجو
+REF phone: tbqa
+HYP phone: arʤu
+PER: 1.0 PSD: 1.0 PSD_norm: 0.699
+
+ID: S02-C03-R02_007566-007881_HMMDNN
+REF: يوم
+HYP: ده
+REF phone: ium
+HYP phone: dh
+PER: 1.0 PSD: 1.301 PSD_norm: 1.903
+
+ID: S12-C03-R12_132439-133444_HMMDNN
+REF: usage
+HYP: يعني
+REF phone: jusəʤ
+HYP phone: iʕni
+PER: 1.0 PSD: 0.8968 PSD_norm: 0.914
+
+ID: S05-C03-R05_084037-084969_HMMDNN
+REF: للأسف
+HYP: بس
+REF phone: llasf
+HYP phone: bs
+PER: 0.8 PSD: 0.8322 PSD_norm: 0.79025
+
+ID: I01-C03-R10_001470-001612_HMMDNN
+REF: يعني
+HYP: يعني
+REF phone: iʕni
+HYP phone: iʕni
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R09_004281-004742_HMMDNN
+REF: إي
+HYP: كنت
+REF phone: ii
+HYP phone: knt
+PER: 1.5 PSD: 2.403 PSD_norm: 3
+
+ID: S12-C03-R12_025006-026321_HMMDNN
+REF: إن
+HYP: بس
+REF phone: in
+HYP phone: bs
+PER: 1.0 PSD: 1.0 PSD_norm: 1.645
+
+ID: S14-C03-R14_042172-042741_HMMDNN
+REF: عايزك
+HYP: بس
+REF phone: ʕaizk
+HYP phone: bs
+PER: 1.0 PSD: 0.7806 PSD_norm: 0.63433
+
+ID: S02-C03-R02_059500-059827_HMMDNN
+REF: دهب
+HYP: كل
+REF phone: dhb
+HYP phone: kl
+PER: 1.0 PSD: 0.914 PSD_norm: 0.914
+
+ID: S07-C03-R07_078885-079203_HMMDNN
+REF: اللي
+HYP: بس
+REF phone: alli
+HYP phone: bs
+PER: 1.0 PSD: 0.9515 PSD_norm: 0.903
+
+ID: I01-C03-R09_113327-113393_HMMDNN
+REF: ماشي
+HYP: شكرا
+REF phone: maʃi
+HYP phone: ʃkra
+PER: 1.0 PSD: 1.129 PSD_norm: 1.5
+
+ID: S10-C03-R10_029722-030120_HMMDNN
+REF: في
+HYP: نحنا
+REF phone: fi
+HYP phone: nħna
+PER: 2.0 PSD: 1.5805 PSD_norm: 2.645
+
+ID: S14-C03-R14_060543-061014_HMMDNN
+REF: حدا
+HYP: لا
+REF phone: ħda
+HYP phone: la
+PER: 0.66667 PSD: 0.50533 PSD_norm: 0.758
+
+ID: S14-C03-R14_056313-056672_HMMDNN
+REF: الاستوديو
+HYP: فأنا
+REF phone: alastudiu
+HYP phone: fana
+PER: 0.88889 PSD: 0.77056 PSD_norm: 0.758
+
+ID: S07-C03-R07_035974-036439_HMMDNN
+REF: بحبها
+HYP: أكتر
+REF phone: bħbha
+HYP phone: aktr
+PER: 1.0 PSD: 0.9484 PSD_norm: 0.84675
+
+ID: I01-C03-R09_103688-104210_HMMDNN
+REF: إن
+HYP: ممكن
+REF phone: in
+HYP phone: mmkn
+PER: 1.5 PSD: 1.6775 PSD_norm: 3.0
+
+ID: I01-C03-R07_101818-102644_HMMDNN
+REF: أو
+HYP: إسكان
+REF phone: au
+HYP phone: iskan
+PER: 2.0 PSD: 2.2095 PSD_norm: 3
+
+ID: S05-C03-R05_088357-089572_HMMDNN
+REF: ناس
+HYP: تتعرف
+REF phone: nas
+HYP phone: ttʕrf
+PER: 1.66667 PSD: 1.46233 PSD_norm: 1.8225
+
+ID: S10-C03-R10_014236-014347_HMMDNN
+REF: لا
+HYP: لا
+REF phone: la
+HYP phone: la
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S07-C03-R07_056628-056927_HMMDNN
+REF: ريكوايرمينت
+HYP: بس
+REF phone: rikuairmint
+HYP phone: bs
+PER: 1.0 PSD: 0.86509 PSD_norm: 0.75267
+
+ID: S05-C03-R05_038521-038908_HMMDNN
+REF: العربي
+HYP: أو
+REF phone: alʕrbi
+HYP phone: au
+PER: 0.83333 PSD: 0.73117 PSD_norm: 1.0
+
+ID: S07-C03-R07_007000-007699_HMMDNN
+REF: the
+HYP: بس
+REF phone: ðə
+HYP phone: bs
+PER: 1.0 PSD: 1.1935 PSD_norm: 1.387
+
+ID: S07-C03-R07_111417-111570_HMMDNN
+REF: size
+HYP: than
+REF phone: sajz
+HYP phone: ðæn
+PER: 1.0 PSD: 0.508 PSD_norm: 0.63433
+
+ID: S07-C03-R07_127726-128493_HMMDNN
+REF: ما
+HYP: يعني
+REF phone: ma
+HYP phone: iʕni
+PER: 2.0 PSD: 1.5805 PSD_norm: 1.645
+
+ID: I01-C03-R12_000000-001392_HMMDNN
+REF: ممكن
+HYP: طيب
+REF phone: mmkn
+HYP phone: tib
+PER: 1.0 PSD: 1.0725 PSD_norm: 0.8225
+
+ID: S07-C03-R07_085238-086762_HMMDNN
+REF: obviously
+HYP: i'm
+REF phone: ɑbviəsli
+HYP phone: ajm
+PER: 1.0 PSD: 0.89112 PSD_norm: 0.96775
+
+ID: I01-C03-R07_064376-064839_HMMDNN
+REF: choice
+HYP: ولو
+REF phone: ʧojs
+HYP phone: ulu
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.88167
+
+ID: S09-C03-R09_102024-102439_HMMDNN
+REF: حاجة
+HYP: دي
+REF phone: ħaʤt
+HYP phone: di
+PER: 1.0 PSD: 0.8225 PSD_norm: 0.70967
+
+ID: I01-C03-R10_108510-109327_HMMDNN
+REF: آخر
+HYP: طيب
+REF phone: aٓxr
+HYP phone: tib
+PER: 1.0 PSD: 1.0725 PSD_norm: 0.871
+
+ID: S12-C03-R12_149405-151367_HMMDNN
+REF: بعد
+HYP: هو
+REF phone: bʕd
+HYP phone: hu
+PER: 1.0 PSD: 1.129 PSD_norm: 0.83867
+
+ID: S14-C03-R14_005400-006583_HMMDNN
+REF: كده
+HYP: أنا
+REF phone: kdh
+HYP phone: ana
+PER: 1.0 PSD: 1.35467 PSD_norm: 0.75267
+
+ID: S05-C03-R05_029688-030183_HMMDNN
+REF: مع
+HYP: كنا
+REF phone: mʕ
+HYP phone: kna
+PER: 1.5 PSD: 1.5645 PSD_norm: 1.0645
+
+ID: S02-C03-R02_054914-055810_HMMDNN
+REF: i
+HYP: بس
+REF phone: aj
+HYP phone: bs
+PER: 1.0 PSD: 1.355 PSD_norm: 2.355
+
+ID: S05-C03-R05_072605-072754_HMMDNN
+REF: كده
+HYP: أو
+REF phone: kdh
+HYP phone: au
+PER: 1.0 PSD: 1.516 PSD_norm: 1.0
+
+ID: S07-C03-R07_031305-031777_HMMDNN
+REF: قعدت
+HYP: يعني
+REF phone: qʕdt
+HYP phone: iʕni
+PER: 0.75 PSD: 1.04825 PSD_norm: 0.5645
+
+ID: I01-C03-R02_014662-015459_HMMDNN
+REF: إيه
+HYP: طيب
+REF phone: iih
+HYP phone: tib
+PER: 0.66667 PSD: 0.92467 PSD_norm: 1.516
+
+ID: I02-C03-R02_034883-035446_HMMDNN
+REF: waking
+HYP: طيب
+REF phone: wejkɪŋ
+HYP phone: tib
+PER: 1.0 PSD: 0.84417 PSD_norm: 0.95175
+
+ID: S02-C03-R02_015459-015658_HMMDNN
+REF: في
+HYP: فالكتاب
+REF phone: fi
+HYP phone: falktab
+PER: 3.0 PSD: 2.758 PSD_norm: 4.0
+
+ID: S07-C03-R07_126227-127102_HMMDNN
+REF: أهم
+HYP: واحدة
+REF phone: ahm
+HYP phone: uaħdt
+PER: 1.33333 PSD: 1.09667 PSD_norm: 1.145
+
+ID: S14-C03-R14_031881-032134_HMMDNN
+REF: تستكشف
+HYP: فورا
+REF phone: tstkʃf
+HYP phone: fura
+PER: 1.0 PSD: 1.086 PSD_norm: 0.83867
+
+ID: S05-C03-R05_089572-089978_HMMDNN
+REF: إقناعهم
+HYP: شو
+REF phone: iqnaʕhm
+HYP phone: ʃu
+PER: 1.0 PSD: 0.93543 PSD_norm: 0.929
+
+ID: I01-C03-R10_000417-000873_HMMDNN
+REF: ممكن
+HYP: طيب
+REF phone: mmkn
+HYP phone: tib
+PER: 1.0 PSD: 1.0725 PSD_norm: 0.8225
+
+ID: S05-C03-R05_069243-070123_HMMDNN
+REF: internship
+HYP: لما
+REF phone: ɪntɹ̩nʃɪp
+HYP phone: lma
+PER: 1.0 PSD: 0.78133 PSD_norm: 0.788
+
+ID: S02-C03-R02_018066-018158_HMMDNN
+REF: مفيش
+HYP: نعم
+REF phone: mfiʃ
+HYP phone: nʕm
+PER: 1.0 PSD: 0.9435 PSD_norm: 1.05367
+
+ID: S07-C03-R07_024809-025064_HMMDNN
+REF: فعلا
+HYP: نكول
+REF phone: fʕla
+HYP phone: nkul
+PER: 1.0 PSD: 1.03225 PSD_norm: 0.70967
+
+ID: I01-C03-R09_004742-004851_HMMDNN
+REF: في
+HYP: تعلموا
+REF phone: fi
+HYP phone: tʕlmua
+PER: 3.0 PSD: 2.516 PSD_norm: 3.645
+
+ID: S14-C03-R14_069283-069986_HMMDNN
+REF: respected
+HYP: like
+REF phone: ɹɪspɛktɪd
+HYP phone: lajk
+PER: 0.88889 PSD: 0.71322 PSD_norm: 0.74733
+
+ID: S10-C03-R10_001959-002161_HMMDNN
+REF: القاهرة
+HYP: إتولدت
+REF phone: alqahrt
+HYP phone: ituldt
+PER: 0.85714 PSD: 0.58514 PSD_norm: 0.5354
+
+ID: S14-C03-R14_074981-075461_HMMDNN
+REF: أنت
+HYP: قلت
+REF phone: ant
+HYP phone: qlt
+PER: 0.66667 PSD: 0.774 PSD_norm: 0.758
+
+ID: I01-C03-R07_134225-134354_HMMDNN
+REF: شكرا
+HYP: شكرا
+REF phone: ʃkra
+HYP phone: ʃkra
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S12-C03-R12_016131-016880_HMMDNN
+REF: درتي
+HYP: هدا
+REF phone: drti
+HYP phone: hda
+PER: 1.0 PSD: 0.5725 PSD_norm: 0.59133
+
+ID: S12-C03-R12_056141-057376_HMMDNN
+REF: رحت
+HYP: بس
+REF phone: rħt
+HYP phone: bs
+PER: 1.0 PSD: 0.67733 PSD_norm: 0.67733
+
+ID: S09-C03-R09_024000-025919_HMMDNN
+REF: الإخراج
+HYP: ساعتها
+REF phone: alixraʤ
+HYP phone: saʕtha
+PER: 0.85714 PSD: 0.75114 PSD_norm: 0.758
+
+ID: I01-C03-R10_023925-024514_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: I01-C03-R10_097437-098521_HMMDNN
+REF: أكتر
+HYP: طيب
+REF phone: aktr
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.59133
+
+ID: S02-C03-R02_020306-021504_HMMDNN
+REF: دول
+HYP: بس
+REF phone: dul
+HYP phone: bs
+PER: 1.0 PSD: 0.76333 PSD_norm: 0.645
+
+ID: S05-C03-R05_044847-045211_HMMDNN
+REF: إن
+HYP: وبعدين
+REF phone: in
+HYP phone: ubʕdin
+PER: 2.0 PSD: 2.0 PSD_norm: 3.0
+
+ID: I01-C03-R02_080496-080939_HMMDNN
+REF: ميفهمنيش
+HYP: هو
+REF phone: mifhmniʃ
+HYP phone: hu
+PER: 0.875 PSD: 0.79838 PSD_norm: 0.83333
+
+ID: I01-C03-R14_053382-054625_HMMDNN
+REF: وقت
+HYP: طيب
+REF phone: uqt
+HYP phone: tib
+PER: 1.0 PSD: 1.05367 PSD_norm: 0.742
+
+ID: S02-C03-R02_037216-037748_HMMDNN
+REF: نفس
+HYP: فا
+REF phone: nfs
+HYP phone: fa
+PER: 0.66667 PSD: 1.0 PSD_norm: 0.66667
+
+ID: S05-C03-R05_092270-093803_HMMDNN
+REF: تلات
+HYP: وداخل
+REF phone: tlat
+HYP phone: udaxl
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.66667
+
+ID: S10-C03-R10_082943-083118_HMMDNN
+REF: عنديش
+HYP: يعني
+REF phone: ʕndiʃ
+HYP phone: iʕni
+PER: 0.6 PSD: 0.6 PSD_norm: 0.5
+
+ID: I01-C03-R05_090443-091031_HMMDNN
+REF: وإيه
+HYP: أوكي
+REF phone: uiih
+HYP phone: auki
+PER: 0.75 PSD: 0.8225 PSD_norm: 0.71
+
+ID: S07-C03-R07_007699-007832_HMMDNN
+REF: an
+HYP: sort
+REF phone: æn
+HYP phone: sɔɹt
+PER: 2.0 PSD: 1.516 PSD_norm: 2.387
+
+ID: S05-C03-R05_036595-036891_HMMDNN
+REF: أكتر
+HYP: لم
+REF phone: aktr
+HYP phone: lm
+PER: 1.0 PSD: 0.85475 PSD_norm: 0.80633
+
+ID: S07-C03-R07_090976-091198_HMMDNN
+REF: يهابنا
+HYP: لو
+REF phone: ihabna
+HYP phone: lu
+PER: 1.0 PSD: 0.90317 PSD_norm: 0.83867
+
+ID: S05-C03-R05_051486-052538_HMMDNN
+REF: دستور
+HYP: داخل
+REF phone: dstur
+HYP phone: daxl
+PER: 0.8 PSD: 0.8452 PSD_norm: 0.5565
+
+ID: I01-C03-R10_109916-110235_HMMDNN
+REF: صيف
+HYP: أنت
+REF phone: sif
+HYP phone: ant
+PER: 1.0 PSD: 1.09667 PSD_norm: 0.7095
+
+ID: S02-C03-R02_019483-020306_HMMDNN
+REF: أنا
+HYP: آه
+REF phone: ana
+HYP phone: aٓh
+PER: 0.66667 PSD: 0.96767 PSD_norm: 1.903
+
+ID: S14-C03-R14_014933-015995_HMMDNN
+REF: اوريك
+HYP: بس
+REF phone: aurik
+HYP phone: bs
+PER: 1.0 PSD: 0.9484 PSD_norm: 0.871
+
+ID: I01-C03-R14_066356-066652_HMMDNN
+REF: دي
+HYP: اختار
+REF phone: di
+HYP phone: axtar
+PER: 2.5 PSD: 1.8225 PSD_norm: 2.129
+
+ID: S07-C03-R07_017970-018611_HMMDNN
+REF: أنا
+HYP: يجيئوا
+REF phone: ana
+HYP phone: iʤiiua
+PER: 1.66667 PSD: 1.602 PSD_norm: 1.29
+
+ID: S09-C03-R09_054326-055135_HMMDNN
+REF: من
+HYP: أنا
+REF phone: mn
+HYP phone: ana
+PER: 1.0 PSD: 1.1775 PSD_norm: 0.5
+
+ID: S09-C03-R09_109527-109737_HMMDNN
+REF: تحولت
+HYP: ولا
+REF phone: tħult
+HYP phone: ula
+PER: 0.6 PSD: 0.8 PSD_norm: 0.75
+
+ID: S07-C03-R07_001505-001766_HMMDNN
+REF: تمنتاشر
+HYP: عشان
+REF phone: tmntaʃr
+HYP phone: ʕʃan
+PER: 0.85714 PSD: 0.69586 PSD_norm: 0.6505
+
+ID: S09-C03-R09_036437-036678_HMMDNN
+REF: في
+HYP: software
+REF phone: fi
+HYP phone: sɔftwɛɹ
+PER: 3.0 PSD: 2.6935 PSD_norm: 4.0
+
+ID: S12-C03-R12_142308-143552_HMMDNN
+REF: سأقنعكم
+HYP: طيب
+REF phone: saqnʕkm
+HYP phone: tib
+PER: 1.0 PSD: 0.71886 PSD_norm: 0.75267
+
+ID: S02-C03-R02_088175-088641_HMMDNN
+REF: الحقيقة
+HYP: إتعلمت
+REF phone: alħqiqt
+HYP phone: itʕlmt
+PER: 0.85714 PSD: 0.69586 PSD_norm: 0.671
+
+ID: S10-C03-R10_051217-052139_HMMDNN
+REF: أروح
+HYP: يعني
+REF phone: aruħ
+HYP phone: iʕni
+PER: 1.0 PSD: 0.758 PSD_norm: 0.903
+
+ID: I01-C03-R14_008074-008558_HMMDNN
+REF: إن
+HYP: وإمتى
+REF phone: in
+HYP phone: uimta
+PER: 2.0 PSD: 1.6935 PSD_norm: 1.387
+
+ID: S07-C03-R07_104793-105923_HMMDNN
+REF: أنت
+HYP: نعم
+REF phone: ant
+HYP phone: nʕm
+PER: 1.0 PSD: 0.92467 PSD_norm: 0.887
+
+ID: S07-C03-R07_081690-082396_HMMDNN
+REF: tag
+HYP: طبعا
+REF phone: tæɡ
+HYP phone: tbʕa
+PER: 1.0 PSD: 1.043 PSD_norm: 0.9195
+
+ID: I01-C03-R12_152110-152410_HMMDNN
+REF: ماشي
+HYP: شكرا
+REF phone: maʃi
+HYP phone: ʃkra
+PER: 1.0 PSD: 1.129 PSD_norm: 1.5
+
+ID: S12-C03-R12_067473-068882_HMMDNN
+REF: ممكن
+HYP: وحصل
+REF phone: mmkn
+HYP phone: uħsl
+PER: 1.0 PSD: 1.03225 PSD_norm: 0.91125
+
+ID: S14-C03-R14_067809-068029_HMMDNN
+REF: هو
+HYP: الفريق
+REF phone: hu
+HYP phone: alfriq
+PER: 3.0 PSD: 2.4515 PSD_norm: 3.516
+
+ID: S05-C03-R05_044204-044740_HMMDNN
+REF: لا
+HYP: على
+REF phone: la
+HYP phone: ʕla
+PER: 0.5 PSD: 0.5 PSD_norm: 1.0
+
+ID: S07-C03-R07_002033-002509_HMMDNN
+REF: أنت
+HYP: المدرسة
+REF phone: ant
+HYP phone: almdrst
+PER: 1.66667 PSD: 1.37633 PSD_norm: 2.0645
+
+ID: S14-C03-R14_030332-030682_HMMDNN
+REF: قرايبي
+HYP: دكتور
+REF phone: qraibi
+HYP phone: dktur
+PER: 1.0 PSD: 0.758 PSD_norm: 0.72033
+
+ID: I02-C03-R10_014538-015291_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: S07-C03-R07_050316-050445_HMMDNN
+REF: choice
+HYP: التبريد
+REF phone: ʧojs
+HYP phone: altbrid
+PER: 1.75 PSD: 1.73375 PSD_norm: 1.50533
+
+ID: S14-C03-R14_063417-063914_HMMDNN
+REF: بس
+HYP: فآ
+REF phone: bs
+HYP phone: fʔa
+PER: 1.5 PSD: 1.016 PSD_norm: 0.516
+
+ID: S14-C03-R14_031403-031881_HMMDNN
+REF: لقيتوش
+HYP: بس
+REF phone: lqituʃ
+HYP phone: bs
+PER: 1.0 PSD: 0.871 PSD_norm: 0.8065
+
+ID: S07-C03-R07_008731-009510_HMMDNN
+REF: aspect
+HYP: يعني
+REF phone: æspɛkt
+HYP phone: iʕni
+PER: 1.0 PSD: 0.76333 PSD_norm: 0.79025
+
+ID: S14-C03-R14_059903-060382_HMMDNN
+REF: لك
+HYP: بس
+REF phone: lk
+HYP phone: bs
+PER: 1.0 PSD: 1.0645 PSD_norm: 1.0645
+
+ID: S07-C03-R07_046443-046951_HMMDNN
+REF: geographic
+HYP: دابا
+REF phone: ʤiəɡɹæfɪk
+HYP phone: daba
+PER: 1.0 PSD: 0.68456 PSD_norm: 0.7548
+
+ID: S02-C03-R02_026938-026989_HMMDNN
+REF: لأ
+HYP: لا
+REF phone: la
+HYP phone: la
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R02_083885-084049_HMMDNN
+REF: فاهم
+HYP: laughter
+REF phone: fahm
+HYP phone: læftɹ̩
+PER: 1.25 PSD: 1.2095 PSD_norm: 1.18267
+
+ID: I02-C03-R02_008464-008622_HMMDNN
+REF: أوكي
+HYP: أوكي
+REF phone: auki
+HYP phone: auki
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S14-C03-R14_001362-002309_HMMDNN
+REF: القاهرة
+HYP: وساطات
+REF phone: alqahrt
+HYP phone: usatat
+PER: 0.71429 PSD: 0.68657 PSD_norm: 0.5548
+
+ID: S10-C03-R10_070953-071373_HMMDNN
+REF: الحياة
+HYP: أستراليا
+REF phone: alħiat
+HYP phone: astralia
+PER: 1.0 PSD: 0.88167 PSD_norm: 0.84933
+
+ID: I02-C03-R09_010090-010404_HMMDNN
+REF: تقول
+HYP: طيب
+REF phone: tqul
+HYP phone: tib
+PER: 0.75 PSD: 0.637 PSD_norm: 0.656
+
+ID: S02-C03-R02_032830-033409_HMMDNN
+REF: تلطيفه
+HYP: برضو
+REF phone: tltifh
+HYP phone: brdu
+PER: 1.0 PSD: 0.61283 PSD_norm: 0.658
+
+ID: S12-C03-R12_035704-037598_HMMDNN
+REF: مش
+HYP: كتبين
+REF phone: mʃ
+HYP phone: ktbin
+PER: 2.5 PSD: 2.3065 PSD_norm: 1.8065
+
+ID: S07-C03-R07_079890-080342_HMMDNN
+REF: top
+HYP: on
+REF phone: tɑp
+HYP phone: ɑn
+PER: 0.66667 PSD: 0.67733 PSD_norm: 0.6935
+
+ID: S09-C03-R09_100756-102024_HMMDNN
+REF: كنا
+HYP: فالواحد
+REF phone: kna
+HYP phone: faluaħd
+PER: 2.0 PSD: 1.828 PSD_norm: 1.5485
+
+ID: S12-C03-R12_011568-011920_HMMDNN
+REF: في
+HYP: هو
+REF phone: fi
+HYP phone: hu
+PER: 1.0 PSD: 0.4515 PSD_norm: 0.516
+
+ID: S05-C03-R05_060673-061487_HMMDNN
+REF: كده
+HYP: أعمل
+REF phone: kdh
+HYP phone: aʕml
+PER: 1.33333 PSD: 1.258 PSD_norm: 0.92467
+
+ID: S12-C03-R12_133444-135263_HMMDNN
+REF: إت
+HYP: يعني
+REF phone: it
+HYP phone: iʕni
+PER: 1.5 PSD: 1.1935 PSD_norm: 1.387
+
+ID: I01-C03-R02_026511-026585_HMMDNN
+REF: ماشي
+HYP: ماشي
+REF phone: maʃi
+HYP phone: maʃi
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S12-C03-R12_045289-045668_HMMDNN
+REF: عايزه
+HYP: مين
+REF phone: ʕaizh
+HYP phone: min
+PER: 0.8 PSD: 0.7096 PSD_norm: 0.84933
+
+ID: I01-C03-R02_070279-070371_HMMDNN
+REF: حد
+HYP: حد
+REF phone: ħd
+HYP phone: ħd
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R02_005756-005866_HMMDNN
+REF: يا
+HYP: يا
+REF phone: ia
+HYP phone: ia
+PER: 0.0 PSD: 0.0 PSD_norm: 0
+
+ID: I01-C03-R02_066676-066792_HMMDNN
+REF: ok
+HYP: إيه
+REF phone: owkej
+HYP phone: iih
+PER: 1.0 PSD: 0.7484 PSD_norm: 0.90333
+
+ID: S12-C03-R12_004152-004883_HMMDNN
+REF: ف
+HYP: وأنا
+REF phone: f
+HYP phone: uana
+PER: 4.0 PSD: 4.161 PSD_norm: 1.161
+
+ID: S10-C03-R10_063154-064062_HMMDNN
+REF: يعني
+HYP: كان
+REF phone: iʕni
+HYP phone: kan
+PER: 0.75 PSD: 0.879 PSD_norm: 0.484
+
+ID: I01-C03-R12_009956-010663_HMMDNN
+REF: إيه
+HYP: طيب
+REF phone: iih
+HYP phone: tib
+PER: 0.66667 PSD: 0.92467 PSD_norm: 1.516
+
+ID: I01-C03-R12_004883-006162_HMMDNN
+REF: وم
+HYP: أوكي
+REF phone: um
+HYP phone: auki
+PER: 1.5 PSD: 1.613 PSD_norm: 1.226
+
+ID: S07-C03-R07_097274-097551_HMMDNN
+REF: أنا
+HYP: مش
+REF phone: ana
+HYP phone: mʃ
+PER: 1.0 PSD: 1.19333 PSD_norm: 1.645
+
+ID: S07-C03-R07_020706-021100_HMMDNN
+REF: تسع
+HYP: لو
+REF phone: tsʕ
+HYP phone: lu
+PER: 1.0 PSD: 1.086 PSD_norm: 0.88167
+
+ID: S02-C03-R02_040531-040925_HMMDNN
+REF: وتركيا
+HYP: سافرت
+REF phone: utrkia
+HYP phone: safrt
+PER: 1.0 PSD: 0.89783 PSD_norm: 0.656
+
+ID: S10-C03-R10_055449-056207_HMMDNN
+REF: واحد
+HYP: والله
+REF phone: uaħd
+HYP phone: uallh
+PER: 0.75 PSD: 0.637 PSD_norm: 1.274
+
+ID: S14-C03-R14_045936-047732_HMMDNN
+REF: بيزك
+HYP: هقول
+REF phone: bizk
+HYP phone: hqul
+PER: 1.0 PSD: 0.91925 PSD_norm: 0.92467
+
+ID: S02-C03-R02_058015-058425_HMMDNN
+REF: جميلة
+HYP: لأ
+REF phone: ʤmilt
+HYP phone: la
+PER: 0.8 PSD: 0.9354 PSD_norm: 0.75
+
+ID: S09-C03-R09_006185-006621_HMMDNN
+REF: إن
+HYP: إصدار
+REF phone: in
+HYP phone: isdar
+PER: 2.0 PSD: 1.5645 PSD_norm: 2.129
+
+ID: I02-C03-R10_057190-057421_HMMDNN
+REF: سافرت
+HYP: طيب
+REF phone: safrt
+HYP phone: tib
+PER: 1.0 PSD: 0.6322 PSD_norm: 0.66125
+
+ID: S05-C03-R05_003529-003815_HMMDNN
+REF: مجموع
+HYP: أين
+REF phone: mʤmuʕ
+HYP phone: ain
+PER: 1.0 PSD: 0.929 PSD_norm: 0.91125
+
+ID: S12-C03-R12_016880-017755_HMMDNN
+REF: لنا
+HYP: كلما
+REF phone: lna
+HYP phone: klma
+PER: 0.66667 PSD: 0.54833 PSD_norm: 0.8225
+
+ID: S07-C03-R07_039402-039770_HMMDNN
+REF: عامة
+HYP: أوائل
+REF phone: ʕamt
+HYP phone: auail
+PER: 1.0 PSD: 1.121 PSD_norm: 0.88167
+
+ID: S14-C03-R14_044728-044993_HMMDNN
+REF: بره
+HYP: شفتها
+REF phone: brh
+HYP phone: ʃftha
+PER: 1.33333 PSD: 0.88167 PSD_norm: 0.54833
+
+ID: I01-C03-R09_026808-026908_HMMDNN
+REF: أنت
+HYP: أنت
+REF phone: ant
+HYP phone: ant
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S14-C03-R14_086741-088030_HMMDNN
+REF: لو
+HYP: لو
+REF phone: lu
+HYP phone: lu
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R07_069520-070413_HMMDNN
+REF: حاجة
+HYP: وإيه
+REF phone: ħaʤt
+HYP phone: uiih
+PER: 1.0 PSD: 1.1935 PSD_norm: 0.79567
+
+ID: I01-C03-R09_028706-029592_HMMDNN
+REF: كلمات
+HYP: أو
+REF phone: klmat
+HYP phone: au
+PER: 0.8 PSD: 1.0 PSD_norm: 1.0
+
+ID: S14-C03-R14_013169-013760_HMMDNN
+REF: دلوقتي
+HYP: طيب
+REF phone: dluqti
+HYP phone: tib
+PER: 0.83333 PSD: 0.715 PSD_norm: 0.72575
+
+ID: S10-C03-R10_011272-012164_HMMDNN
+REF: وصلت
+HYP: بس
+REF phone: uslt
+HYP phone: bs
+PER: 0.75 PSD: 0.8225 PSD_norm: 0.76333
+
+ID: S12-C03-R12_074858-075162_HMMDNN
+REF: نعمل
+HYP: وبعدين
+REF phone: nʕml
+HYP phone: ubʕdin
+PER: 1.25 PSD: 1.0805 PSD_norm: 0.5805
+
+ID: S14-C03-R14_020081-020286_HMMDNN
+REF: pop
+HYP: أي
+REF phone: pɑp
+HYP phone: ai
+PER: 1.0 PSD: 0.914 PSD_norm: 1.0
+
+ID: S07-C03-R07_015484-016084_HMMDNN
+REF: سبانت
+HYP: لأني
+REF phone: sbant
+HYP phone: lani
+PER: 0.6 PSD: 0.729 PSD_norm: 0.66125
+
+ID: S02-C03-R02_047872-049099_HMMDNN
+REF: we're
+HYP: so
+REF phone: wɹ̩
+HYP phone: sow
+PER: 1.0 PSD: 1.29033 PSD_norm: 1.0
+
+ID: I01-C03-R05_000548-001866_HMMDNN
+REF: ممكن
+HYP: طيب
+REF phone: mmkn
+HYP phone: tib
+PER: 1.0 PSD: 1.0725 PSD_norm: 0.8225
+
+ID: S05-C03-R05_083610-084037_HMMDNN
+REF: برا
+HYP: أحيانا
+REF phone: bra
+HYP phone: aħiana
+PER: 1.66667 PSD: 1.344 PSD_norm: 0.516
+
+ID: S12-C03-R12_148603-149405_HMMDNN
+REF: م
+HYP: ف
+REF phone: m
+HYP phone: f
+PER: 1.0 PSD: 0.645 PSD_norm: 0.645
+
+ID: I02-C03-R05_062863-063817_HMMDNN
+REF: حياة
+HYP: عاجبك
+REF phone: ħiat
+HYP phone: ʕaʤbk
+PER: 1.25 PSD: 0.9275 PSD_norm: 1.4195
+
+ID: S09-C03-R09_069477-070142_HMMDNN
+REF: عشان
+HYP: impression
+REF phone: ʕʃan
+HYP phone: ɪmpɹɛʃən
+PER: 1.5 PSD: 1.3065 PSD_norm: 0.92467
+
+ID: S05-C03-R05_089978-090312_HMMDNN
+REF: رهيبة
+HYP: فا
+REF phone: rhibt
+HYP phone: fa
+PER: 1.0 PSD: 0.8064 PSD_norm: 0.84675
+
+ID: S07-C03-R07_011019-011339_HMMDNN
+REF: مكنتش
+HYP: فيمكن
+REF phone: mkntʃ
+HYP phone: fimkn
+PER: 0.8 PSD: 0.8 PSD_norm: 0.6
+
+ID: I02-C03-R02_083348-083444_HMMDNN
+REF: ايه
+HYP: إيه
+REF phone: aih
+HYP phone: iih
+PER: 0.33333 PSD: 0.172 PSD_norm: 0.0
+
+ID: S05-C03-R05_032902-033238_HMMDNN
+REF: تجمع
+HYP: أنت
+REF phone: tʤmʕ
+HYP phone: ant
+PER: 1.0 PSD: 1.04025 PSD_norm: 0.79025
+
+ID: S09-C03-R09_065004-065574_HMMDNN
+REF: كان
+HYP: أول
+REF phone: kan
+HYP phone: aul
+PER: 1.0 PSD: 0.83867 PSD_norm: 0.758
+
+ID: S09-C03-R09_108479-108708_HMMDNN
+REF: كله
+HYP: والكلام
+REF phone: klh
+HYP phone: ualklam
+PER: 1.66667 PSD: 1.67733 PSD_norm: 0.67733
+
+ID: S02-C03-R02_099665-099703_HMMDNN
+REF: ok
+HYP: أوكي
+REF phone: owkej
+HYP phone: auki
+PER: 0.8 PSD: 0.4838 PSD_norm: 0.66667
+
+ID: S07-C03-R07_027962-028102_HMMDNN
+REF: netflix
+HYP: netflix
+REF phone: nɛtflɪks
+HYP phone: nɛtflɪks
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R12_137721-138137_HMMDNN
+REF: تعيش
+HYP: طيب
+REF phone: tʕiʃ
+HYP phone: tib
+PER: 0.5 PSD: 0.621 PSD_norm: 0.59133
+
+ID: I01-C03-R07_011839-012356_HMMDNN
+REF: وين
+HYP: أوكي
+REF phone: uin
+HYP phone: auki
+PER: 1.0 PSD: 1.0 PSD_norm: 1.097
+
+ID: S12-C03-R12_081645-082936_HMMDNN
+REF: كانت
+HYP: طبعا
+REF phone: kant
+HYP phone: tbʕa
+PER: 1.0 PSD: 1.09675 PSD_norm: 0.79567
+
+ID: S12-C03-R12_031799-032489_HMMDNN
+REF: مخنوقة
+HYP: لما
+REF phone: mxnuqt
+HYP phone: lma
+PER: 1.0 PSD: 0.9515 PSD_norm: 0.9096
+
+ID: I02-C03-R10_020707-021100_HMMDNN
+REF: هوايات
+HYP: طيب
+REF phone: huaiat
+HYP phone: tib
+PER: 0.83333 PSD: 0.715 PSD_norm: 0.645
+
+ID: I01-C03-R14_027450-028123_HMMDNN
+REF: أنت
+HYP: أوكي
+REF phone: ant
+HYP phone: auki
+PER: 1.0 PSD: 1.23667 PSD_norm: 0.855
+
+ID: I01-C03-R02_049941-050086_HMMDNN
+REF: واحد
+HYP: في
+REF phone: uaħd
+HYP phone: fi
+PER: 1.0 PSD: 1.03225 PSD_norm: 0.8225
+
+ID: I01-C03-R02_044181-044267_HMMDNN
+REF: مثلا
+HYP: مثلا
+REF phone: mθla
+HYP phone: mθla
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S14-C03-R14_032134-032338_HMMDNN
+REF: عايز
+HYP: أنا
+REF phone: ʕaiz
+HYP phone: ana
+PER: 0.75 PSD: 0.879 PSD_norm: 0.758
+
+ID: S10-C03-R10_049240-049401_HMMDNN
+REF: فيلم
+HYP: في
+REF phone: film
+HYP phone: fi
+PER: 0.5 PSD: 0.5 PSD_norm: 0.66667
+
+ID: S02-C03-R02_001642-001793_HMMDNN
+REF: في
+HYP: في
+REF phone: fi
+HYP phone: fi
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S10-C03-R10_028718-029722_HMMDNN
+REF: عندنا
+HYP: لكن
+REF phone: ʕndna
+HYP phone: lkn
+PER: 0.8 PSD: 0.671 PSD_norm: 0.58875
+
+ID: S12-C03-R12_101284-103353_HMMDNN
+REF: هي
+HYP: فا
+REF phone: hi
+HYP phone: fa
+PER: 1.0 PSD: 0.516 PSD_norm: 0.516
+
+ID: S02-C03-R02_031842-031974_HMMDNN
+REF: بي
+HYP: ف
+REF phone: bi
+HYP phone: f
+PER: 1.0 PSD: 0.6935 PSD_norm: 0.387
+
+ID: S10-C03-R10_059213-059506_HMMDNN
+REF: تقريبا
+HYP: قعدنا
+REF phone: tqriba
+HYP phone: qʕdna
+PER: 0.66667 PSD: 0.61833 PSD_norm: 0.6775
+
+ID: S09-C03-R09_007124-007455_HMMDNN
+REF: بتاعي
+HYP: بالباتشلر
+REF phone: btaʕi
+HYP phone: balbatʃlr
+PER: 1.4 PSD: 1.4322 PSD_norm: 1.59133
+
+ID: I02-C03-R02_008983-009307_HMMDNN
+REF: أكتر
+HYP: أوكي
+REF phone: aktr
+HYP phone: auki
+PER: 0.75 PSD: 0.96775 PSD_norm: 0.66667
+
+ID: I01-C03-R02_026989-027234_HMMDNN
+REF: أوكي
+HYP: أوكي
+REF phone: auki
+HYP phone: auki
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S09-C03-R09_085835-086429_HMMDNN
+REF: حاجة
+HYP: أنت
+REF phone: ħaʤt
+HYP phone: ant
+PER: 0.5 PSD: 0.5725 PSD_norm: 0.67733
+
+ID: S14-C03-R14_056672-056965_HMMDNN
+REF: in
+HYP: فأنا
+REF phone: ɪn
+HYP phone: fana
+PER: 1.5 PSD: 1.129 PSD_norm: 1.0
+
+ID: S05-C03-R05_072754-073088_HMMDNN
+REF: بنقول
+HYP: أكتر
+REF phone: bnqul
+HYP phone: aktr
+PER: 1.0 PSD: 0.9098 PSD_norm: 0.6855
+
+ID: S14-C03-R14_049884-050320_HMMDNN
+REF: فين
+HYP: يعني
+REF phone: fin
+HYP phone: iʕni
+PER: 1.0 PSD: 1.0 PSD_norm: 0.387
+
+ID: S10-C03-R10_060984-063154_HMMDNN
+REF: حاجة
+HYP: فكان
+REF phone: ħaʤt
+HYP phone: fkan
+PER: 1.0 PSD: 0.758 PSD_norm: 0.66667
+
+ID: S07-C03-R07_074373-074866_HMMDNN
+REF: كدا
+HYP: ففي
+REF phone: kda
+HYP phone: ffi
+PER: 1.0 PSD: 0.79567 PSD_norm: 0.9355
+
+ID: S10-C03-R10_007381-008260_HMMDNN
+REF: الأول
+HYP: وبعدين
+REF phone: alaul
+HYP phone: ubʕdin
+PER: 1.2 PSD: 1.0644 PSD_norm: 1.516
+
+ID: S12-C03-R12_038233-039931_HMMDNN
+REF: طريقتو
+HYP: أنا
+REF phone: triqtu
+HYP phone: ana
+PER: 1.0 PSD: 0.801 PSD_norm: 0.78225
+
+ID: S07-C03-R07_062352-062736_HMMDNN
+REF: دي
+HYP: يعني
+REF phone: di
+HYP phone: iʕni
+PER: 1.5 PSD: 1.129 PSD_norm: 1.258
+
+ID: I02-C03-R02_027804-028444_HMMDNN
+REF: ما
+HYP: طيب
+REF phone: ma
+HYP phone: tib
+PER: 1.5 PSD: 1.274 PSD_norm: 1.258
+
+ID: S07-C03-R07_020018-020231_HMMDNN
+REF: تسعة
+HYP: فلو
+REF phone: tsʕt
+HYP phone: flu
+PER: 1.0 PSD: 1.008 PSD_norm: 0.85475
+
+ID: S07-C03-R07_010337-011019_HMMDNN
+REF: في
+HYP: i
+REF phone: fi
+HYP phone: aj
+PER: 1.0 PSD: 1.258 PSD_norm: 1.355
+
+ID: S05-C03-R05_110693-111242_HMMDNN
+REF: ما
+HYP: تلاتة
+REF phone: ma
+HYP phone: tlatt
+PER: 2.0 PSD: 2.016 PSD_norm: 4.032
+
+ID: S09-C03-R09_050196-050980_HMMDNN
+REF: أصلا
+HYP: ومع
+REF phone: asla
+HYP phone: umʕ
+PER: 1.0 PSD: 1.024 PSD_norm: 1.0965
+
+ID: S02-C03-R02_081690-081928_HMMDNN
+REF: اني
+HYP: مش
+REF phone: ani
+HYP phone: mʃ
+PER: 1.0 PSD: 1.215 PSD_norm: 1.645
+
+ID: S09-C03-R09_033091-033982_HMMDNN
+REF: لغات
+HYP: بالنسبة
+REF phone: lɣat
+HYP phone: balnsbt
+PER: 1.25 PSD: 1.33075 PSD_norm: 1.32267
+
+ID: I01-C03-R07_134024-134225_HMMDNN
+REF: ميرسي
+HYP: ميرسي
+REF phone: mirsi
+HYP phone: mirsi
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S07-C03-R07_030764-031305_HMMDNN
+REF: بتتال
+HYP: يعني
+REF phone: bttal
+HYP phone: iʕni
+PER: 1.0 PSD: 0.8064 PSD_norm: 0.79025
+
+ID: S10-C03-R10_004955-005356_HMMDNN
+REF: يا
+HYP: ما
+REF phone: ia
+HYP phone: ma
+PER: 0.5 PSD: 0.6775 PSD_norm: 1
+
+ID: S02-C03-R02_058700-059500_HMMDNN
+REF: لي
+HYP: ماما
+REF phone: li
+HYP phone: mama
+PER: 2.0 PSD: 1.8385 PSD_norm: 2.161
+
+ID: S12-C03-R12_117349-117796_HMMDNN
+REF: لغيت
+HYP: فا
+REF phone: lɣit
+HYP phone: fa
+PER: 1.0 PSD: 0.871 PSD_norm: 0.92467
+
+ID: S07-C03-R07_076869-077254_HMMDNN
+REF: making
+HYP: يعني
+REF phone: mejkɪŋ
+HYP phone: iʕni
+PER: 1.0 PSD: 0.7635 PSD_norm: 0.9195
+
+ID: S12-C03-R12_077999-078651_HMMDNN
+REF: مرة
+HYP: وكانت
+REF phone: mrt
+HYP phone: ukant
+PER: 1.33333 PSD: 1.11833 PSD_norm: 0.45167
+
+ID: I02-C03-R07_086862-087297_HMMDNN
+REF: تقول
+HYP: طيب
+REF phone: tqul
+HYP phone: tib
+PER: 0.75 PSD: 0.637 PSD_norm: 0.656
+
+ID: S02-C03-R02_040332-040415_HMMDNN
+REF: اه
+HYP: آه
+REF phone: ah
+HYP phone: aٓh
+PER: 0.5 PSD: 0.5 PSD_norm: 1.0
+
+ID: I02-C03-R14_050661-050986_HMMDNN
+REF: بحبك
+HYP: والله
+REF phone: bħbk
+HYP phone: uallh
+PER: 1.25 PSD: 1.3145 PSD_norm: 0.97575
+
+ID: I01-C03-R10_005496-006157_HMMDNN
+REF: أنت
+HYP: أوكي
+REF phone: ant
+HYP phone: auki
+PER: 1.0 PSD: 1.23667 PSD_norm: 0.855
+
+ID: S12-C03-R12_077034-077999_HMMDNN
+REF: حاجه
+HYP: وا
+REF phone: ħaʤh
+HYP phone: ua
+PER: 0.75 PSD: 0.9355 PSD_norm: 1.0
+
+ID: S09-C03-R09_020462-020710_HMMDNN
+REF: ساكن
+HYP: ده
+REF phone: sakn
+HYP phone: dh
+PER: 1.0 PSD: 0.77425 PSD_norm: 0.699
+
+ID: S14-C03-R14_022066-022254_HMMDNN
+REF: مو
+HYP: ده
+REF phone: mu
+HYP phone: dh
+PER: 1.0 PSD: 1.387 PSD_norm: 1.903
+
+ID: S12-C03-R12_008502-009956_HMMDNN
+REF: عندي
+HYP: أو
+REF phone: ʕndi
+HYP phone: au
+PER: 1.0 PSD: 0.96775 PSD_norm: 1.0
+
+ID: S05-C03-R05_106325-106908_HMMDNN
+REF: تديني
+HYP: يا
+REF phone: tdini
+HYP phone: ia
+PER: 0.8 PSD: 0.7032 PSD_norm: 1.0
+
+ID: I02-C03-R02_052028-052194_HMMDNN
+REF: ok
+HYP: أوكي
+REF phone: owkej
+HYP phone: auki
+PER: 0.8 PSD: 0.4838 PSD_norm: 0.66667
+
+ID: S10-C03-R10_019647-020601_HMMDNN
+REF: الوقت
+HYP: حاليا
+REF phone: aluqt
+HYP phone: ħalia
+PER: 0.8 PSD: 0.8386 PSD_norm: 0.828
+
+ID: S09-C03-R09_061133-062269_HMMDNN
+REF: حلوة
+HYP: environment
+REF phone: ħlut
+HYP phone: ɪnvajɹənmənt
+PER: 2.75 PSD: 2.33875 PSD_norm: 1.96767
+
+ID: I02-C03-R10_057575-058394_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: S14-C03-R14_022254-023440_HMMDNN
+REF: القاعدة
+HYP: كان
+REF phone: alqaʕdt
+HYP phone: kan
+PER: 0.85714 PSD: 0.62671 PSD_norm: 0.6774
+
+ID: S10-C03-R10_105940-106207_HMMDNN
+REF: يعني
+HYP: لمدة
+REF phone: iʕni
+HYP phone: lmdt
+PER: 1.0 PSD: 1.09675 PSD_norm: 1.516
+
+ID: S05-C03-R05_023127-023378_HMMDNN
+REF: كتير
+HYP: في
+REF phone: ktir
+HYP phone: fi
+PER: 0.75 PSD: 0.6935 PSD_norm: 0.92467
+
+ID: S05-C03-R05_014503-014885_HMMDNN
+REF: عنديش
+HYP: يعني
+REF phone: ʕndiʃ
+HYP phone: iʕni
+PER: 0.6 PSD: 0.6 PSD_norm: 0.5
+
+ID: S10-C03-R10_058909-059213_HMMDNN
+REF: الفريق
+HYP: كنت
+REF phone: alfriq
+HYP phone: knt
+PER: 1.0 PSD: 0.80117 PSD_norm: 0.70175
+
+ID: S07-C03-R07_099974-100061_HMMDNN
+REF: نيبال
+HYP: للعمل
+REF phone: nibal
+HYP phone: llʕml
+PER: 0.8 PSD: 0.8774 PSD_norm: 0.92467
+
+ID: S05-C03-R05_016434-016741_HMMDNN
+REF: جامعة
+HYP: لو
+REF phone: ʤamʕt
+HYP phone: lu
+PER: 1.0 PSD: 1.0644 PSD_norm: 0.91125
+
+ID: S09-C03-R09_088605-088836_HMMDNN
+REF: خلاص
+HYP: لا
+REF phone: xlas
+HYP phone: la
+PER: 0.5 PSD: 0.5 PSD_norm: 0.66667
+
+ID: S09-C03-R09_006621-007124_HMMDNN
+REF: سويسري
+HYP: من
+REF phone: suisri
+HYP phone: mn
+PER: 1.0 PSD: 0.90317 PSD_norm: 0.80633
+
+ID: S07-C03-R07_076736-076869_HMMDNN
+REF: بس
+HYP: ميرتس
+REF phone: bs
+HYP phone: mirts
+PER: 2.0 PSD: 1.629 PSD_norm: 1.129
+
+ID: S07-C03-R07_128790-130924_HMMDNN
+REF: shows
+HYP: يعني
+REF phone: ʃowz
+HYP phone: iʕni
+PER: 1.0 PSD: 1.129 PSD_norm: 0.914
+
+ID: S12-C03-R12_080805-081645_HMMDNN
+REF: مع
+HYP: رحت
+REF phone: mʕ
+HYP phone: rħt
+PER: 1.5 PSD: 0.9515 PSD_norm: 0.9515
+
+ID: S09-C03-R09_099841-100028_HMMDNN
+REF: إنترنيت
+HYP: فالموبايل
+REF phone: intrnit
+HYP phone: falmubail
+PER: 1.14286 PSD: 1.05057 PSD_norm: 0.8256
+
+ID: S07-C03-R07_051186-052381_HMMDNN
+REF: شخصية
+HYP: عن
+REF phone: ʃxsit
+HYP phone: ʕn
+PER: 1.0 PSD: 0.8322 PSD_norm: 0.79025
+
+ID: I02-C03-R14_050986-051366_HMMDNN
+REF: تقرأ
+HYP: طب
+REF phone: tqra
+HYP phone: tb
+PER: 0.75 PSD: 0.6935 PSD_norm: 0.59133
+
+ID: S10-C03-R10_037564-038455_HMMDNN
+REF: بسرعة
+HYP: ف
+REF phone: bsrʕt
+HYP phone: f
+PER: 1.0 PSD: 0.8774 PSD_norm: 0.8774
+
+ID: S12-C03-R12_037598-038233_HMMDNN
+REF: برضو
+HYP: من
+REF phone: brdu
+HYP phone: mn
+PER: 1.0 PSD: 0.59675 PSD_norm: 0.46233
+
+ID: I01-C03-R10_112032-112802_HMMDNN
+REF: أنا
+HYP: أنا
+REF phone: ana
+HYP phone: ana
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R02_026585-026938_HMMDNN
+REF: إنتي
+HYP: أوكي
+REF phone: inti
+HYP phone: auki
+PER: 0.75 PSD: 0.77425 PSD_norm: 0.855
+
+ID: S07-C03-R07_062736-063512_HMMDNN
+REF: بتاعي
+HYP: عكس
+REF phone: btaʕi
+HYP phone: ʕks
+PER: 1.0 PSD: 0.8516 PSD_norm: 0.75267
+
+ID: I01-C03-R07_004894-005040_HMMDNN
+REF: اخترته
+HYP: و
+REF phone: axtrth
+HYP phone: u
+PER: 1.0 PSD: 0.98383 PSD_norm: 1.0
+
+ID: S07-C03-R07_091198-091984_HMMDNN
+REF: something
+HYP: is
+REF phone: sʌmθɪŋ
+HYP phone: ɪz
+PER: 0.83333 PSD: 0.79567 PSD_norm: 0.78225
+
+ID: S05-C03-R05_033559-034081_HMMDNN
+REF: activities
+HYP: ده
+REF phone: æktɪvətiz
+HYP phone: dh
+PER: 1.0 PSD: 0.84944 PSD_norm: 0.729
+
+ID: S02-C03-R02_025245-025378_HMMDNN
+REF: والإتنين
+HYP: ولا
+REF phone: ualitnin
+HYP phone: ula
+PER: 0.75 PSD: 0.6895 PSD_norm: 0.75
+
+ID: S10-C03-R10_006800-007381_HMMDNN
+REF: أقول
+HYP: بس
+REF phone: aqul
+HYP phone: bs
+PER: 1.0 PSD: 0.90325 PSD_norm: 0.8065
+
+ID: S10-C03-R10_070587-070953_HMMDNN
+REF: فيه
+HYP: غير
+REF phone: fih
+HYP phone: ɣir
+PER: 0.66667 PSD: 0.58067 PSD_norm: 0.871
+
+ID: S12-C03-R12_012761-013764_HMMDNN
+REF: بعد
+HYP: هو
+REF phone: bʕd
+HYP phone: hu
+PER: 1.0 PSD: 1.129 PSD_norm: 0.83867
+
+ID: S07-C03-R07_071968-072600_HMMDNN
+REF: أكتر
+HYP: i
+REF phone: aktr
+HYP phone: aj
+PER: 0.75 PSD: 0.6935 PSD_norm: 0.92467
+
+ID: S10-C03-R10_057421-057575_HMMDNN
+REF: بس
+HYP: سافرت
+REF phone: bs
+HYP phone: safrt
+PER: 2.5 PSD: 1.8225 PSD_norm: 1.3225
+
+ID: I01-C03-R02_063147-063526_HMMDNN
+REF: زي
+HYP: حصل
+REF phone: zi
+HYP phone: ħsl
+PER: 1.5 PSD: 1.4355 PSD_norm: 2.129
+
+ID: I01-C03-R14_089394-089906_HMMDNN
+REF: مش
+HYP: لا
+REF phone: mʃ
+HYP phone: la
+PER: 1.0 PSD: 1.548 PSD_norm: 1.0805
+
+ID: S09-C03-R09_062269-062687_HMMDNN
+REF: عموما
+HYP: الجو
+REF phone: ʕmuma
+HYP phone: alʤu
+PER: 1.0 PSD: 1.116 PSD_norm: 1.19333
+
+ID: S05-C03-R05_054921-056143_HMMDNN
+REF: أنا
+HYP: حاليا
+REF phone: ana
+HYP phone: ħalia
+PER: 1.0 PSD: 0.83867 PSD_norm: 1.516
+
+ID: S09-C03-R09_082994-083601_HMMDNN
+REF: معايا
+HYP: ما
+REF phone: mʕaia
+HYP phone: ma
+PER: 0.6 PSD: 0.6 PSD_norm: 0.5
+
+ID: S07-C03-R07_052381-053526_HMMDNN
+REF: my
+HYP: ذات
+REF phone: maj
+HYP phone: ðat
+PER: 0.66667 PSD: 0.79567 PSD_norm: 1.1935
+
+ID: I02-C03-R02_051389-051914_HMMDNN
+REF: قلت
+HYP: طب
+REF phone: qlt
+HYP phone: tb
+PER: 1.0 PSD: 0.80633 PSD_norm: 0.80633
+
+ID: S12-C03-R12_076694-077034_HMMDNN
+REF: أول
+HYP: دي
+REF phone: aul
+HYP phone: di
+PER: 1.0 PSD: 1.129 PSD_norm: 0.516
+
+ID: S12-C03-R12_122025-123508_HMMDNN
+REF: respected
+HYP: فا
+REF phone: ɹɪspɛktɪd
+HYP phone: fa
+PER: 1.0 PSD: 0.82078 PSD_norm: 0.87633
+
+ID: S07-C03-R07_059782-061405_HMMDNN
+REF: أن
+HYP: كنا
+REF phone: an
+HYP phone: kna
+PER: 1.0 PSD: 1.4675 PSD_norm: 1.0
+
+ID: S12-C03-R12_053464-054020_HMMDNN
+REF: كنت
+HYP: بس
+REF phone: knt
+HYP phone: bs
+PER: 1.0 PSD: 0.72033 PSD_norm: 0.72033
+
+ID: S09-C03-R09_094245-095583_HMMDNN
+REF: ناس
+HYP: رغم
+REF phone: nas
+HYP phone: rɣm
+PER: 1.0 PSD: 1.032 PSD_norm: 1.0485
+
+ID: I02-C03-R09_087749-088218_HMMDNN
+REF: كده
+HYP: خلاص
+REF phone: kdh
+HYP phone: xlas
+PER: 1.33333 PSD: 0.72033 PSD_norm: 0.387
+
+ID: I01-C03-R10_006157-006602_HMMDNN
+REF: اخترت
+HYP: إمتى
+REF phone: axtrt
+HYP phone: imta
+PER: 0.8 PSD: 0.858 PSD_norm: 0.6935
+
+ID: I02-C03-R09_035674-036437_HMMDNN
+REF: أنت
+HYP: طيب
+REF phone: ant
+HYP phone: tib
+PER: 1.0 PSD: 1.05367 PSD_norm: 0.5805
+
+ID: S14-C03-R14_014480-014933_HMMDNN
+REF: في
+HYP: مش
+REF phone: fi
+HYP phone: mʃ
+PER: 1.0 PSD: 1.3225 PSD_norm: 1.645
+
+ID: S09-C03-R09_078390-078986_HMMDNN
+REF: أغلب
+HYP: ودي
+REF phone: aɣlb
+HYP phone: udi
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.83867
+
+ID: S05-C03-R05_110616-110693_HMMDNN
+REF: دكتور
+HYP: أكتر
+REF phone: dktur
+HYP phone: aktr
+PER: 0.4 PSD: 0.6 PSD_norm: 0.25
+
+ID: S05-C03-R05_056322-057000_HMMDNN
+REF: شلون
+HYP: فمن
+REF phone: ʃlun
+HYP phone: fmn
+PER: 0.75 PSD: 0.84675 PSD_norm: 0.79567
+
+ID: S07-C03-R07_038348-038624_HMMDNN
+REF: حزينة
+HYP: كنجي
+REF phone: ħzint
+HYP phone: knʤi
+PER: 1.0 PSD: 0.871 PSD_norm: 0.75
+
+ID: I01-C03-R10_099902-102359_HMMDNN
+REF: قبل
+HYP: طيب
+REF phone: qbl
+HYP phone: tib
+PER: 1.0 PSD: 0.90333 PSD_norm: 0.57
+
+ID: S07-C03-R07_119335-119423_HMMDNN
+REF: يعني
+HYP: بالضبط
+REF phone: iʕni
+HYP phone: baldbt
+PER: 1.5 PSD: 1.258 PSD_norm: 2.016
+
+ID: I01-C03-R09_003956-004281_HMMDNN
+REF: المينيو
+HYP: وأنت
+REF phone: alminiu
+HYP phone: uant
+PER: 0.85714 PSD: 0.84329 PSD_norm: 0.63433
+
+ID: I01-C03-R02_024692-025245_HMMDNN
+REF: بتحبي
+HYP: ماشي
+REF phone: btħbi
+HYP phone: maʃi
+PER: 0.8 PSD: 0.8452 PSD_norm: 0.8065
+
+ID: S07-C03-R07_061405-061877_HMMDNN
+REF: of
+HYP: a
+REF phone: ʌv
+HYP phone: ə
+PER: 1.0 PSD: 0.6615 PSD_norm: 1.0
+
+ID: S14-C03-R14_071349-071806_HMMDNN
+REF: rather
+HYP: أنا
+REF phone: ɹæðɹ̩
+HYP phone: ana
+PER: 1.0 PSD: 0.8516 PSD_norm: 0.84675
+
+ID: S02-C03-R02_057026-057112_HMMDNN
+REF: روحت
+HYP: راحت
+REF phone: ruħt
+HYP phone: raħt
+PER: 0.25 PSD: 0.22575 PSD_norm: 0.0
+
+ID: S05-C03-R05_121300-122656_HMMDNN
+REF: دي
+HYP: فا
+REF phone: di
+HYP phone: fa
+PER: 1.0 PSD: 0.7095 PSD_norm: 0.903
+
+ID: S02-C03-R02_041575-042746_HMMDNN
+REF: to
+HYP: i
+REF phone: tə
+HYP phone: aj
+PER: 1.0 PSD: 1.226 PSD_norm: 1.355
+
+ID: S12-C03-R12_084322-086186_HMMDNN
+REF: لطيفه
+HYP: بس
+REF phone: ltifh
+HYP phone: bs
+PER: 1.0 PSD: 0.7806 PSD_norm: 0.72575
+
+ID: S05-C03-R05_035880-036442_HMMDNN
+REF: ده
+HYP: an
+REF phone: dh
+HYP phone: æn
+PER: 1.0 PSD: 1.129 PSD_norm: 0.629
+
+ID: S09-C03-R09_090398-090718_HMMDNN
+REF: at
+HYP: لكن
+REF phone: æt
+HYP phone: lkn
+PER: 1.5 PSD: 1.5645 PSD_norm: 2.387
+
+ID: S09-C03-R09_001706-002371_HMMDNN
+REF: لغوية
+HYP: كان
+REF phone: lɣuit
+HYP phone: kan
+PER: 1.0 PSD: 0.6322 PSD_norm: 0.54833
+
+ID: I01-C03-R02_087565-088175_HMMDNN
+REF: إزاي
+HYP: أوكي
+REF phone: izai
+HYP phone: auki
+PER: 0.75 PSD: 0.85475 PSD_norm: 1.097
+
+ID: S07-C03-R07_061877-062352_HMMDNN
+REF: one
+HYP: that
+REF phone: wʌn
+HYP phone: ðæt
+PER: 1.0 PSD: 0.79567 PSD_norm: 0.9355
+
+ID: S05-C03-R05_105827-105954_HMMDNN
+REF: عن
+HYP: أحب
+REF phone: ʕn
+HYP phone: aħb
+PER: 1.5 PSD: 1.016 PSD_norm: 0.516
+
+ID: I02-C03-R02_066792-067243_HMMDNN
+REF: individual
+HYP: بتحب
+REF phone: ɪndəvɪʤəwəl
+HYP phone: btħb
+PER: 1.0 PSD: 0.88855 PSD_norm: 0.81717
+
+ID: S07-C03-R07_065892-066403_HMMDNN
+REF: just
+HYP: this
+REF phone: ʤʌst
+HYP phone: ðɪs
+PER: 0.75 PSD: 0.5725 PSD_norm: 0.54833
+
+ID: S05-C03-R05_016741-017250_HMMDNN
+REF: اليوم
+HYP: وأكمل
+REF phone: alium
+HYP phone: uakml
+PER: 1.0 PSD: 0.9934 PSD_norm: 1.1775
+
+ID: I02-C03-R07_035819-035974_HMMDNN
+REF: كتاب
+HYP: وإيه
+REF phone: ktab
+HYP phone: uiih
+PER: 1.0 PSD: 1.2095 PSD_norm: 0.83867
+
+ID: S05-C03-R05_063998-064867_HMMDNN
+REF: يحيره
+HYP: working
+REF phone: iħirh
+HYP phone: wɹ̩kɪŋ
+PER: 1.2 PSD: 1.1678 PSD_norm: 1.527
+
+ID: S05-C03-R05_100507-101148_HMMDNN
+REF: واحد
+HYP: يعني
+REF phone: uaħd
+HYP phone: iʕni
+PER: 1.0 PSD: 0.6935 PSD_norm: 0.1935
+
+ID: S05-C03-R05_041088-041652_HMMDNN
+REF: بسمع
+HYP: سعاد
+REF phone: bsmʕ
+HYP phone: sʕad
+PER: 1.0 PSD: 0.91925 PSD_norm: 0.66925
+
+ID: S07-C03-R07_127102-127726_HMMDNN
+REF: no
+HYP: you
+REF phone: now
+HYP phone: ju
+PER: 1.0 PSD: 0.785 PSD_norm: 0.758
+
+ID: S10-C03-R10_110361-110651_HMMDNN
+REF: إيه
+HYP: بقول
+REF phone: iih
+HYP phone: bqul
+PER: 1.33333 PSD: 1.215 PSD_norm: 2.71
+
+ID: I01-C03-R02_018307-018440_HMMDNN
+REF: فيفريت
+HYP: كيفاش
+REF phone: fifrit
+HYP phone: kifaʃ
+PER: 0.66667 PSD: 0.57533 PSD_norm: 0.734
+
+ID: I01-C03-R05_009928-010402_HMMDNN
+REF: سؤال
+HYP: أوكي
+REF phone: sual
+HYP phone: auki
+PER: 0.75 PSD: 1.129 PSD_norm: 0.984
+
+ID: S12-C03-R12_059534-060866_HMMDNN
+REF: تنجب
+HYP: تاني
+REF phone: tnʤb
+HYP phone: tani
+PER: 0.75 PSD: 0.83875 PSD_norm: 0.5
+
+ID: S02-C03-R02_057787-058015_HMMDNN
+REF: وسادس
+HYP: دي
+REF phone: usads
+HYP phone: di
+PER: 0.8 PSD: 0.7806 PSD_norm: 0.66667
+
+ID: S12-C03-R12_075990-076335_HMMDNN
+REF: اللي
+HYP: بعدين
+REF phone: alli
+HYP phone: bʕdin
+PER: 1.0 PSD: 0.9435 PSD_norm: 1.516
+
+ID: S07-C03-R07_088011-088885_HMMDNN
+REF: كان
+HYP: i
+REF phone: kan
+HYP phone: aj
+PER: 0.66667 PSD: 0.742 PSD_norm: 0.887
+
+ID: I01-C03-R02_057435-057787_HMMDNN
+REF: هناك
+HYP: بتحبي
+REF phone: hnak
+HYP phone: btħbi
+PER: 1.25 PSD: 1.16925 PSD_norm: 1.0
+
+ID: S05-C03-R05_011684-012615_HMMDNN
+REF: الموجودة
+HYP: بنشوف
+REF phone: almuʤudt
+HYP phone: bnʃuf
+PER: 0.875 PSD: 0.73788 PSD_norm: 0.7806
+
+ID: I02-C03-R02_033409-034037_HMMDNN
+REF: basically
+HYP: laughter
+REF phone: bejsɪkli
+HYP phone: læftɹ̩
+PER: 1.0 PSD: 0.85475 PSD_norm: 0.9162
+
+ID: S14-C03-R14_076926-077496_HMMDNN
+REF: بس
+HYP: بالعكس
+REF phone: bs
+HYP phone: balʕks
+PER: 2.0 PSD: 2.0 PSD_norm: 1.5
+
+ID: S05-C03-R05_003005-003529_HMMDNN
+REF: وتعرفت
+HYP: خلصت
+REF phone: utʕrft
+HYP phone: xlst
+PER: 0.83333 PSD: 0.66667 PSD_norm: 0.6
+
+ID: S02-C03-R02_077644-078391_HMMDNN
+REF: myself
+HYP: i
+REF phone: majsɛlf
+HYP phone: aj
+PER: 0.71429 PSD: 0.71429 PSD_norm: 0.8
+
+ID: S07-C03-R07_023198-023582_HMMDNN
+REF: تبقى
+HYP: عشان
+REF phone: tbqa
+HYP phone: ʕʃan
+PER: 1.0 PSD: 0.85475 PSD_norm: 1.11833
+
+ID: S14-C03-R14_023440-023948_HMMDNN
+REF: كان
+HYP: وهذا
+REF phone: kan
+HYP phone: uhða
+PER: 1.33333 PSD: 1.23667 PSD_norm: 0.613
+
+ID: S05-C03-R05_031027-032136_HMMDNN
+REF: إحنا
+HYP: وعرفنا
+REF phone: iħna
+HYP phone: uʕrfna
+PER: 1.0 PSD: 0.629 PSD_norm: 1.0645
+
+ID: S12-C03-R12_088352-088849_HMMDNN
+REF: ما
+HYP: بس
+REF phone: ma
+HYP phone: bs
+PER: 1.0 PSD: 1.129 PSD_norm: 1.258
+
+ID: S05-C03-R05_078047-078979_HMMDNN
+REF: تمر
+HYP: بتروح
+REF phone: tmr
+HYP phone: btruħ
+PER: 1.33333 PSD: 1.22567 PSD_norm: 0.89233
+
+ID: S02-C03-R02_052812-053578_HMMDNN
+REF: كانتش
+HYP: لو
+REF phone: kantʃ
+HYP phone: lu
+PER: 1.0 PSD: 1.0516 PSD_norm: 0.879
+
+ID: I01-C03-R14_004926-005051_HMMDNN
+REF: مشروع
+HYP: مشروع
+REF phone: mʃruʕ
+HYP phone: mʃruʕ
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S09-C03-R09_040189-041373_HMMDNN
+REF: اللي
+HYP: كل
+REF phone: alli
+HYP phone: kl
+PER: 0.75 PSD: 0.83875 PSD_norm: 0.6775
+
+ID: S07-C03-R07_005160-005558_HMMDNN
+REF: أول
+HYP: كي
+REF phone: aul
+HYP phone: ki
+PER: 1.0 PSD: 1.10733 PSD_norm: 1.355
+
+ID: S09-C03-R09_080587-080911_HMMDNN
+REF: مش
+HYP: بالعكس
+REF phone: mʃ
+HYP phone: balʕks
+PER: 3.0 PSD: 2.484 PSD_norm: 1.984
+
+ID: S14-C03-R14_011343-012307_HMMDNN
+REF: عايزة
+HYP: إنكو
+REF phone: ʕaizt
+HYP phone: inku
+PER: 1.0 PSD: 0.8452 PSD_norm: 0.742
+
+ID: S10-C03-R10_048983-049240_HMMDNN
+REF: مو
+HYP: بس
+REF phone: mu
+HYP phone: bs
+PER: 1.0 PSD: 1.129 PSD_norm: 1.258
+
+ID: I01-C03-R05_042789-043647_HMMDNN
+REF: ساعات
+HYP: أوكي
+REF phone: saʕat
+HYP phone: auki
+PER: 0.8 PSD: 0.8968 PSD_norm: 0.90333
+
+ID: S02-C03-R02_064626-065006_HMMDNN
+REF: مثلا
+HYP: بس
+REF phone: mθla
+HYP phone: bs
+PER: 1.0 PSD: 0.629 PSD_norm: 0.50533
+
+ID: I02-C03-R07_111151-111278_HMMDNN
+REF: طبع
+HYP: طابع
+REF phone: tbʕ
+HYP phone: tabʕ
+PER: 0.33333 PSD: 0.33333 PSD_norm: 0.0
+
+ID: I02-C03-R02_059827-060315_HMMDNN
+REF: عدت
+HYP: طب
+REF phone: ʕdt
+HYP phone: tb
+PER: 1.0 PSD: 0.63433 PSD_norm: 0.63433
+
+ID: S07-C03-R07_124312-125009_HMMDNN
+REF: الناس
+HYP: عشان
+REF phone: alnas
+HYP phone: ʕʃan
+PER: 0.8 PSD: 0.7806 PSD_norm: 0.96767
+
+ID: I02-C03-R02_030315-031455_HMMDNN
+REF: أوكي
+HYP: أوكي
+REF phone: auki
+HYP phone: auki
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S10-C03-R10_115220-115554_HMMDNN
+REF: إن
+HYP: مش
+REF phone: in
+HYP phone: mʃ
+PER: 1.0 PSD: 1.3225 PSD_norm: 1.645
+
+ID: S05-C03-R05_021423-021725_HMMDNN
+REF: بقره
+HYP: لو
+REF phone: bqrh
+HYP phone: lu
+PER: 1.0 PSD: 1.0645 PSD_norm: 0.84675
+
+ID: S05-C03-R05_017927-018545_HMMDNN
+REF: هيكل
+HYP: يا
+REF phone: hikl
+HYP phone: ia
+PER: 0.75 PSD: 0.9355 PSD_norm: 1.0
+
+ID: I02-C03-R02_060315-060635_HMMDNN
+REF: لكن
+HYP: إنه
+REF phone: lkn
+HYP phone: inh
+PER: 1.0 PSD: 1.07533 PSD_norm: 0.742
+
+ID: S10-C03-R10_002161-003035_HMMDNN
+REF: الأول
+HYP: كت
+REF phone: alaul
+HYP phone: kt
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: I01-C03-R02_062840-063147_HMMDNN
+REF: خليتك
+HYP: تغيرت
+REF phone: xlitk
+HYP phone: tɣirt
+PER: 0.8 PSD: 0.5808 PSD_norm: 0.629
+
+ID: I01-C03-R14_070818-071009_HMMDNN
+REF: يقلك
+HYP: وفي
+REF phone: iqlk
+HYP phone: ufi
+PER: 1.0 PSD: 1.02425 PSD_norm: 0.98933
+
+ID: I01-C03-R05_079926-081160_HMMDNN
+REF: يضطر
+HYP: طيب
+REF phone: idtr
+HYP phone: tib
+PER: 1.0 PSD: 0.91125 PSD_norm: 0.59133
+
+ID: S14-C03-R14_078886-079240_HMMDNN
+REF: اصغر
+HYP: الفضيلة
+REF phone: asɣr
+HYP phone: alfdilt
+PER: 1.5 PSD: 1.1855 PSD_norm: 1.24733
+
+ID: S07-C03-R07_111337-111417_HMMDNN
+REF: decisiveness
+HYP: عند
+REF phone: dɪsajsɪvnəs
+HYP phone: ʕnd
+PER: 0.90909 PSD: 0.82109 PSD_norm: 0.71886
+
+ID: S02-C03-R02_063833-064626_HMMDNN
+REF: الواحد
+HYP: بس
+REF phone: aluaħd
+HYP phone: bs
+PER: 1.0 PSD: 0.88167 PSD_norm: 0.76333
+
+ID: S14-C03-R14_018069-018683_HMMDNN
+REF: بصي
+HYP: هاو
+REF phone: bsi
+HYP phone: hau
+PER: 1.0 PSD: 0.96767 PSD_norm: 0.758
+
+ID: I02-C03-R10_092014-092826_HMMDNN
+REF: شخص
+HYP: تحس
+REF phone: ʃxs
+HYP phone: tħs
+PER: 0.66667 PSD: 0.55933 PSD_norm: 0.55933
+
+ID: S02-C03-R02_091993-092155_HMMDNN
+REF: آه
+HYP: آه
+REF phone: aٓh
+HYP phone: aٓh
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S12-C03-R12_145484-146123_HMMDNN
+REF: لازم
+HYP: يعني
+REF phone: lazm
+HYP phone: iʕni
+PER: 1.0 PSD: 0.9515 PSD_norm: 0.76333
+
+ID: S09-C03-R09_037856-038141_HMMDNN
+REF: لي
+HYP: لا
+REF phone: li
+HYP phone: la
+PER: 0.5 PSD: 0.258 PSD_norm: 0.0
+
+ID: I02-C03-R09_086920-087749_HMMDNN
+REF: في
+HYP: طيب
+REF phone: fi
+HYP phone: tib
+PER: 1.0 PSD: 0.887 PSD_norm: 1.387
+
+ID: I01-C03-R07_075855-076574_HMMDNN
+REF: عملت
+HYP: وانتهى
+REF phone: ʕmlt
+HYP phone: uantha
+PER: 1.25 PSD: 1.3225 PSD_norm: 0.7015
+
+ID: S05-C03-R05_111242-111592_HMMDNN
+REF: أول
+HYP: فأول
+REF phone: aul
+HYP phone: faul
+PER: 0.33333 PSD: 0.33333 PSD_norm: 1.0
+
+ID: S02-C03-R02_079291-079433_HMMDNN
+REF: لا
+HYP: لا
+REF phone: la
+HYP phone: la
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S10-C03-R10_071739-071903_HMMDNN
+REF: ممايجعله
+HYP: اللي
+REF phone: mmaiʤʕlh
+HYP phone: alli
+PER: 0.75 PSD: 0.84675 PSD_norm: 0.81717
+
+ID: S05-C03-R05_048282-049387_HMMDNN
+REF: وانسى
+HYP: و
+REF phone: uansa
+HYP phone: u
+PER: 0.8 PSD: 0.8 PSD_norm: 1.0
+
+ID: I02-C03-R09_013588-014102_HMMDNN
+REF: هواية
+HYP: هل
+REF phone: huait
+HYP phone: hl
+PER: 0.8 PSD: 0.729 PSD_norm: 0.3225
+
+ID: I01-C03-R07_063913-064376_HMMDNN
+REF: أكثر
+HYP: أنت
+REF phone: akθr
+HYP phone: ant
+PER: 0.75 PSD: 0.47575 PSD_norm: 0.63433
+
+ID: S14-C03-R14_058896-059903_HMMDNN
+REF: وطيب
+HYP: مش
+REF phone: utib
+HYP phone: mʃ
+PER: 1.0 PSD: 1.0645 PSD_norm: 1.129
+
+ID: I01-C03-R02_094704-095822_HMMDNN
+REF: عملت
+HYP: ماشي
+REF phone: ʕmlt
+HYP phone: maʃi
+PER: 1.0 PSD: 1.1775 PSD_norm: 0.742
+
+ID: S05-C03-R05_077549-078047_HMMDNN
+REF: ده
+HYP: فكيف
+REF phone: dh
+HYP phone: fkif
+PER: 2.0 PSD: 1.6775 PSD_norm: 1.1775
+
+ID: S10-C03-R10_021791-022231_HMMDNN
+REF: قوي
+HYP: أوكي
+REF phone: qui
+HYP phone: auki
+PER: 0.66667 PSD: 0.93533 PSD_norm: 0.129
+
+ID: I01-C03-R10_049680-050513_HMMDNN
+REF: بعد
+HYP: طيب
+REF phone: bʕd
+HYP phone: tib
+PER: 1.0 PSD: 1.01067 PSD_norm: 0.80633
+
+ID: S07-C03-R07_094218-094823_HMMDNN
+REF: جدا
+HYP: وا
+REF phone: ʤda
+HYP phone: ua
+PER: 0.66667 PSD: 1.0 PSD_norm: 1.0
+
+ID: S12-C03-R12_021790-023358_HMMDNN
+REF: مثلا
+HYP: يعني
+REF phone: mθla
+HYP phone: iʕni
+PER: 1.0 PSD: 0.758 PSD_norm: 0.72033
+
+ID: S05-C03-R05_021725-022176_HMMDNN
+REF: بحب
+HYP: وم
+REF phone: bħb
+HYP phone: um
+PER: 1.0 PSD: 0.914 PSD_norm: 0.75267
+
+ID: I01-C03-R10_043307-043743_HMMDNN
+REF: كتاب
+HYP: وكيف
+REF phone: ktab
+HYP phone: ukif
+PER: 1.0 PSD: 0.72575 PSD_norm: 0.46233
+
+ID: S14-C03-R14_080543-080644_HMMDNN
+REF: لو
+HYP: لو
+REF phone: lu
+HYP phone: lu
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S12-C03-R12_138137-138989_HMMDNN
+REF: خالص
+HYP: لا
+REF phone: xals
+HYP phone: la
+PER: 0.75 PSD: 0.8065 PSD_norm: 0.66667
+
+ID: S07-C03-R07_108576-108970_HMMDNN
+REF: الشغل
+HYP: بس
+REF phone: alʃɣl
+HYP phone: bs
+PER: 1.0 PSD: 0.9226 PSD_norm: 0.90325
+
+ID: S10-C03-R10_098611-099727_HMMDNN
+REF: أنا
+HYP: في
+REF phone: ana
+HYP phone: fi
+PER: 1.0 PSD: 0.89233 PSD_norm: 1.161
+
+ID: S07-C03-R07_059107-059493_HMMDNN
+REF: عملت
+HYP: internships
+REF phone: ʕmlt
+HYP phone: ɪntɹ̩nʃɪps
+PER: 2.5 PSD: 2.0805 PSD_norm: 1.5805
+
+ID: S14-C03-R14_066652-067074_HMMDNN
+REF: كتير
+HYP: لا
+REF phone: ktir
+HYP phone: la
+PER: 1.0 PSD: 0.79025 PSD_norm: 0.79567
+
+ID: I02-C03-R02_084049-084370_HMMDNN
+REF: تفهميني
+HYP: طيب
+REF phone: tfhmini
+HYP phone: tib
+PER: 0.71429 PSD: 0.70043 PSD_norm: 0.6516
+
+ID: S07-C03-R07_107983-108344_HMMDNN
+REF: أمنت
+HYP: أنا
+REF phone: amnt
+HYP phone: ana
+PER: 0.5 PSD: 0.75 PSD_norm: 0.66667
+
+ID: S12-C03-R12_086186-086544_HMMDNN
+REF: مانتيش
+HYP: وعينت
+REF phone: mantiʃ
+HYP phone: uʕint
+PER: 0.83333 PSD: 0.758 PSD_norm: 0.508
+
+ID: S07-C03-R07_036439-037405_HMMDNN
+REF: متاعو
+HYP: خالد
+REF phone: mtaʕu
+HYP phone: xald
+PER: 0.8 PSD: 0.8968 PSD_norm: 0.88167
+
+ID: S05-C03-R05_010710-011684_HMMDNN
+REF: أنا
+HYP: المفروض
+REF phone: ana
+HYP phone: almfrud
+PER: 2.0 PSD: 1.67733 PSD_norm: 4.129
+
+ID: I01-C03-R14_071806-071851_HMMDNN
+REF: okay
+HYP: laughter
+REF phone: owkej
+HYP phone: læftɹ̩
+PER: 1.2 PSD: 1.284 PSD_norm: 1.59167
+
+ID: I02-C03-R07_107033-107834_HMMDNN
+REF: نفسك
+HYP: طيب
+REF phone: nfsk
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.6935
+
+ID: S10-C03-R10_031712-032321_HMMDNN
+REF: السكة
+HYP: فدخلت
+REF phone: alskt
+HYP phone: fdxlt
+PER: 0.8 PSD: 0.7354 PSD_norm: 0.66925
+
+ID: S10-C03-R10_071373-071739_HMMDNN
+REF: تشتغل
+HYP: يعني
+REF phone: tʃtɣl
+HYP phone: iʕni
+PER: 1.0 PSD: 1.1418 PSD_norm: 0.8322
+
+ID: I02-C03-R14_052400-053030_HMMDNN
+REF: مثلا
+HYP: لكن
+REF phone: mθla
+HYP phone: lkn
+PER: 1.0 PSD: 0.879 PSD_norm: 0.83867
+
+ID: S12-C03-R12_071467-073961_HMMDNN
+REF: كانت
+HYP: تالت
+REF phone: kant
+HYP phone: talt
+PER: 0.5 PSD: 0.3065 PSD_norm: 0.40867
+
+ID: S12-C03-R12_026997-027893_HMMDNN
+REF: بقى
+HYP: بس
+REF phone: bqa
+HYP phone: bs
+PER: 0.66667 PSD: 0.656 PSD_norm: 0.484
+
+ID: S05-C03-R05_099199-100507_HMMDNN
+REF: عارف
+HYP: هو
+REF phone: ʕarf
+HYP phone: hu
+PER: 1.0 PSD: 0.85475 PSD_norm: 0.83867
+
+ID: I02-C03-R09_021185-022024_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: S12-C03-R12_091615-092702_HMMDNN
+REF: مبسوطين
+HYP: وأهالي
+REF phone: mbsutin
+HYP phone: uahali
+PER: 0.85714 PSD: 0.84329 PSD_norm: 0.8064
+
+ID: I02-C03-R02_008622-008786_HMMDNN
+REF: معينة
+HYP: عندك
+REF phone: mʕint
+HYP phone: ʕndk
+PER: 0.8 PSD: 0.6258 PSD_norm: 0.53225
+
+ID: S12-C03-R12_060866-063205_HMMDNN
+REF: يعني
+HYP: هي
+REF phone: iʕni
+HYP phone: hi
+PER: 0.75 PSD: 0.629 PSD_norm: 0.758
+
+ID: S12-C03-R12_103353-104319_HMMDNN
+REF: عارفة
+HYP: أنا
+REF phone: ʕarft
+HYP phone: ana
+PER: 0.8 PSD: 0.7226 PSD_norm: 0.78225
+
+ID: S05-C03-R05_113006-113117_HMMDNN
+REF: من
+HYP: أقدر
+REF phone: mn
+HYP phone: aqdr
+PER: 2.0 PSD: 1.516 PSD_norm: 1.016
+
+ID: S05-C03-R05_015641-016074_HMMDNN
+REF: اللي
+HYP: كاروتين
+REF phone: alli
+HYP phone: karutin
+PER: 1.25 PSD: 1.008 PSD_norm: 1.4515
+
+ID: S12-C03-R12_007966-008502_HMMDNN
+REF: فيك
+HYP: لقيت
+REF phone: fik
+HYP phone: lqit
+PER: 1.0 PSD: 0.89267 PSD_norm: 1.145
+
+ID: S14-C03-R14_007163-008074_HMMDNN
+REF: هني
+HYP: وا
+REF phone: hni
+HYP phone: ua
+PER: 1.0 PSD: 1.129 PSD_norm: 1.0
+
+ID: S09-C03-R09_100028-100161_HMMDNN
+REF: في
+HYP: موبايل
+REF phone: fi
+HYP phone: mubail
+PER: 2.5 PSD: 2.1935 PSD_norm: 2.387
+
+ID: S10-C03-R10_035673-037564_HMMDNN
+REF: بس
+HYP: زي
+REF phone: bs
+HYP phone: zi
+PER: 1.0 PSD: 1.0645 PSD_norm: 0.5645
+
+ID: S12-C03-R12_120859-122025_HMMDNN
+REF: براهم
+HYP: إنما
+REF phone: brahm
+HYP phone: inma
+PER: 1.0 PSD: 0.8838 PSD_norm: 0.53225
+
+ID: I01-C03-R05_026409-027799_HMMDNN
+REF: ممكن
+HYP: أوكي
+REF phone: mmkn
+HYP phone: auki
+PER: 0.75 PSD: 1.20975 PSD_norm: 0.75
+
+ID: S09-C03-R09_088351-088605_HMMDNN
+REF: يعني
+HYP: ممكن
+REF phone: iʕni
+HYP phone: mmkn
+PER: 1.0 PSD: 1.08075 PSD_norm: 1.484
+
+ID: S09-C03-R09_033982-035542_HMMDNN
+REF: اللي
+HYP: بس
+REF phone: alli
+HYP phone: bs
+PER: 1.0 PSD: 0.9515 PSD_norm: 0.903
+
+ID: S05-C03-R05_033238-033559_HMMDNN
+REF: كلنا
+HYP: دا
+REF phone: klna
+HYP phone: da
+PER: 0.75 PSD: 0.5645 PSD_norm: 0.75267
+
+ID: S02-C03-R02_011432-012123_HMMDNN
+REF: عن
+HYP: كان
+REF phone: ʕn
+HYP phone: kan
+PER: 1.0 PSD: 0.984 PSD_norm: 0.484
+
+ID: S09-C03-R09_060764-061062_HMMDNN
+REF: كتير
+HYP: ممكن
+REF phone: ktir
+HYP phone: mmkn
+PER: 1.0 PSD: 1.01625 PSD_norm: 1.02167
+
+ID: I01-C03-R07_039033-039402_HMMDNN
+REF: أكتر
+HYP: ولو
+REF phone: aktr
+HYP phone: ulu
+PER: 1.0 PSD: 1.0725 PSD_norm: 0.79567
+
+ID: I01-C03-R10_115695-115759_HMMDNN
+REF: شكرا
+HYP: شكرا
+REF phone: ʃkra
+HYP phone: ʃkra
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S12-C03-R12_063205-064875_HMMDNN
+REF: كنت
+HYP: فا
+REF phone: knt
+HYP phone: fa
+PER: 1.0 PSD: 1.258 PSD_norm: 0.92467
+
+ID: I02-C03-R12_033312-034415_HMMDNN
+REF: تقلنا
+HYP: طيب
+REF phone: tqlna
+HYP phone: tib
+PER: 0.8 PSD: 0.9032 PSD_norm: 0.72575
+
+ID: S02-C03-R02_073138-073842_HMMDNN
+REF: لما
+HYP: في
+REF phone: lma
+HYP phone: fi
+PER: 1.0 PSD: 0.72033 PSD_norm: 0.8225
+
+ID: S12-C03-R12_135263-137721_HMMDNN
+REF: أنا
+HYP: آه
+REF phone: ana
+HYP phone: aٓh
+PER: 0.66667 PSD: 0.96767 PSD_norm: 1.903
+
+ID: I02-C03-R02_007981-008280_HMMDNN
+REF: حاجة
+HYP: طيب
+REF phone: ħaʤt
+HYP phone: tib
+PER: 1.0 PSD: 0.73375 PSD_norm: 0.80633
+
+ID: S05-C03-R05_032136-032501_HMMDNN
+REF: في
+HYP: كنت
+REF phone: fi
+HYP phone: knt
+PER: 1.5 PSD: 1.887 PSD_norm: 2.774
+
+ID: S10-C03-R10_024777-025011_HMMDNN
+REF: البصر
+HYP: أول
+REF phone: albsr
+HYP phone: aul
+PER: 0.8 PSD: 0.7742 PSD_norm: 0.75
+
+ID: S09-C03-R09_030222-031191_HMMDNN
+REF: تكون
+HYP: مش
+REF phone: tkun
+HYP phone: mʃ
+PER: 1.0 PSD: 0.9515 PSD_norm: 0.93533
+
+ID: S07-C03-R07_027445-027867_HMMDNN
+REF: i
+HYP: فذا
+REF phone: aj
+HYP phone: fða
+PER: 1.5 PSD: 1.5 PSD_norm: 2.097
+
+ID: I01-C03-R05_098821-099199_HMMDNN
+REF: أو
+HYP: بتعرف
+REF phone: au
+HYP phone: btʕrf
+PER: 2.5 PSD: 2.984 PSD_norm: 5
+
+ID: S14-C03-R14_038310-038788_HMMDNN
+REF: أنا
+HYP: لا
+REF phone: ana
+HYP phone: la
+PER: 0.66667 PSD: 0.50533 PSD_norm: 0.516
+
+ID: I02-C03-R12_118364-119020_HMMDNN
+REF: بيقول
+HYP: في
+REF phone: biqul
+HYP phone: fi
+PER: 0.8 PSD: 0.6774 PSD_norm: 0.79567
+
+ID: S12-C03-R12_002079-004152_HMMDNN
+REF: كنت
+HYP: في
+REF phone: knt
+HYP phone: fi
+PER: 1.0 PSD: 1.258 PSD_norm: 0.92467
+
+ID: S07-C03-R07_077859-078022_HMMDNN
+REF: pretty
+HYP: that
+REF phone: pɹɪti
+HYP phone: ðæt
+PER: 0.8 PSD: 0.5548 PSD_norm: 0.46233
+
+ID: S05-C03-R05_122656-123025_HMMDNN
+REF: خصما
+HYP: إزاي
+REF phone: xsma
+HYP phone: izai
+PER: 1.0 PSD: 0.91925 PSD_norm: 0.70967
+
+ID: I01-C03-R09_077176-077651_HMMDNN
+REF: أنت
+HYP: تحس
+REF phone: ant
+HYP phone: tħs
+PER: 1.0 PSD: 0.88167 PSD_norm: 0.8225
+
+ID: S09-C03-R09_073345-074138_HMMDNN
+REF: عندي
+HYP: يعني
+REF phone: ʕndi
+HYP phone: iʕni
+PER: 0.5 PSD: 0.5 PSD_norm: 0.33333
+
+ID: S10-C03-R10_013356-013649_HMMDNN
+REF: ذنبي
+HYP: بس
+REF phone: ðnbi
+HYP phone: bs
+PER: 0.75 PSD: 0.85475 PSD_norm: 0.80633
+
+ID: S02-C03-R02_045269-045675_HMMDNN
+REF: بتاعتي
+HYP: هي
+REF phone: btaʕti
+HYP phone: hi
+PER: 0.83333 PSD: 0.75267 PSD_norm: 0.879
+
+ID: S14-C03-R14_061957-062957_HMMDNN
+REF: لو
+HYP: في
+REF phone: lu
+HYP phone: fi
+PER: 1.0 PSD: 0.774 PSD_norm: 1.161
+
+ID: S05-C03-R05_045717-046012_HMMDNN
+REF: إيه
+HYP: إيه
+REF phone: iih
+HYP phone: iih
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I01-C03-R02_093514-094303_HMMDNN
+REF: believed
+HYP: يعني
+REF phone: bɪlivd
+HYP phone: iʕni
+PER: 0.83333 PSD: 0.79567 PSD_norm: 0.72575
+
+ID: I02-C03-R02_042746-042948_HMMDNN
+REF: صحبانك
+HYP: طيب
+REF phone: sħbank
+HYP phone: tib
+PER: 0.83333 PSD: 0.7795 PSD_norm: 0.6516
+
+ID: S12-C03-R12_064875-065413_HMMDNN
+REF: كت
+HYP: وطبعا
+REF phone: kt
+HYP phone: utbʕa
+PER: 2.0 PSD: 2.242 PSD_norm: 1.242
+
+ID: S14-C03-R14_039818-040288_HMMDNN
+REF: أعمل
+HYP: فطبعا
+REF phone: aʕml
+HYP phone: ftbʕa
+PER: 1.25 PSD: 1.10475 PSD_norm: 0.97833
+
+ID: I01-C03-R09_000798-001081_HMMDNN
+REF: national
+HYP: وتعلمت
+REF phone: næʃənəl
+HYP phone: utʕlmt
+PER: 1.0 PSD: 0.98143 PSD_norm: 0.9435
+
+ID: S05-C03-R05_060462-060673_HMMDNN
+REF: إيفا
+HYP: كانت
+REF phone: iifa
+HYP phone: kant
+PER: 1.0 PSD: 1.242 PSD_norm: 2.774
+
+ID: I02-C03-R02_034330-034474_HMMDNN
+REF: سبب
+HYP: طب
+REF phone: sbb
+HYP phone: tb
+PER: 0.66667 PSD: 0.41933 PSD_norm: 0.41933
+
+ID: I01-C03-R05_005359-006473_HMMDNN
+REF: تامة
+HYP: ماشي
+REF phone: tamt
+HYP phone: maʃi
+PER: 0.75 PSD: 1.0 PSD_norm: 0.656
+
+ID: S09-C03-R09_014190-014907_HMMDNN
+REF: في
+HYP: وأغلب
+REF phone: fi
+HYP phone: uaɣlb
+PER: 2.5 PSD: 2.5645 PSD_norm: 2.387
+
+ID: S09-C03-R09_026266-026468_HMMDNN
+REF: أكتر
+HYP: مش
+REF phone: aktr
+HYP phone: mʃ
+PER: 1.0 PSD: 1.03225 PSD_norm: 1.06467
+
+ID: S07-C03-R07_003021-003388_HMMDNN
+REF: يجيز
+HYP: خلاص
+REF phone: iʤiz
+HYP phone: xlas
+PER: 1.0 PSD: 0.90325 PSD_norm: 1.0485
+
+ID: S10-C03-R10_046114-046430_HMMDNN
+REF: أحداث
+HYP: أقول
+REF phone: aħdaθ
+HYP phone: aqul
+PER: 0.8 PSD: 0.6774 PSD_norm: 0.785
+
+ID: I02-C03-R07_053769-054154_HMMDNN
+REF: جاوب
+HYP: ال
+REF phone: ʤaub
+HYP phone: al
+PER: 0.75 PSD: 0.79025 PSD_norm: 1.0805
+
+ID: I01-C03-R09_001081-001196_HMMDNN
+REF: english
+HYP: english
+REF phone: ɪŋɡlɪʃ
+HYP phone: ɪŋɡlɪʃ
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S14-C03-R14_006583-006784_HMMDNN
+REF: اخترت
+HYP: وإيه
+REF phone: axtrt
+HYP phone: uiih
+PER: 1.0 PSD: 1.1418 PSD_norm: 0.879
+
+ID: S07-C03-R07_037405-038224_HMMDNN
+REF: كانت
+HYP: كنت
+REF phone: kant
+HYP phone: knt
+PER: 0.25 PSD: 0.25 PSD_norm: 0.0
+
+ID: I01-C03-R14_008558-009051_HMMDNN
+REF: بتاعك
+HYP: وي
+REF phone: btaʕk
+HYP phone: ui
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: S07-C03-R07_027867-027962_HMMDNN
+REF: that's
+HYP: بس
+REF phone: θæts
+HYP phone: bs
+PER: 0.75 PSD: 0.6935 PSD_norm: 0.59133
+
+ID: S12-C03-R12_032489-033312_HMMDNN
+REF: يا
+HYP: الخبز
+REF phone: ia
+HYP phone: alxbz
+PER: 2.5 PSD: 2.4355 PSD_norm: 4
+
+ID: I01-C03-R02_057263-057435_HMMDNN
+REF: ok
+HYP: أوكي
+REF phone: owkej
+HYP phone: auki
+PER: 0.8 PSD: 0.4838 PSD_norm: 0.66667
+
+ID: S07-C03-R07_125009-125578_HMMDNN
+REF: عايشين
+HYP: يعني
+REF phone: ʕaiʃin
+HYP phone: iʕni
+PER: 0.83333 PSD: 0.871 PSD_norm: 0.33333
+
+ID: S07-C03-R07_011339-011696_HMMDNN
+REF: سياسته
+HYP: بس
+REF phone: siasth
+HYP phone: bs
+PER: 0.83333 PSD: 0.83867 PSD_norm: 0.758
+
+ID: S05-C03-R05_004102-004282_HMMDNN
+REF: أدخل
+HYP: كت
+REF phone: adxl
+HYP phone: kt
+PER: 1.0 PSD: 0.6935 PSD_norm: 0.59133
+
+ID: I02-C03-R05_018636-019050_HMMDNN
+REF: معينة
+HYP: في
+REF phone: mʕint
+HYP phone: fi
+PER: 0.8 PSD: 0.729 PSD_norm: 0.91125
+
+ID: S05-C03-R05_040404-040485_HMMDNN
+REF: أي
+HYP: أي
+REF phone: ai
+HYP phone: ai
+PER: 0.0 PSD: 0.0 PSD_norm: 0
+
+ID: S10-C03-R10_046670-048983_HMMDNN
+REF: بقاله
+HYP: إن
+REF phone: bqalh
+HYP phone: in
+PER: 1.0 PSD: 0.8064 PSD_norm: 0.879
+
+ID: S10-C03-R10_107231-107633_HMMDNN
+REF: يا
+HYP: آه
+REF phone: ia
+HYP phone: aٓh
+PER: 1.5 PSD: 1.5 PSD_norm: 2
+
+ID: S07-C03-R07_096425-096639_HMMDNN
+REF: نشتغل
+HYP: مش
+REF phone: nʃtɣl
+HYP phone: mʃ
+PER: 0.8 PSD: 0.729 PSD_norm: 0.729
+
+ID: I01-C03-R07_079203-079615_HMMDNN
+REF: مكان
+HYP: أوكي
+REF phone: mkan
+HYP phone: auki
+PER: 1.0 PSD: 0.96775 PSD_norm: 0.66667
+
+ID: I02-C03-R09_010404-010535_HMMDNN
+REF: بتاعك
+HYP: الديلي
+REF phone: btaʕk
+HYP phone: aldili
+PER: 1.2 PSD: 1.103 PSD_norm: 0.79825
+
+ID: I02-C03-R07_035212-035625_HMMDNN
+REF: تقول
+HYP: طيب
+REF phone: tqul
+HYP phone: tib
+PER: 0.75 PSD: 0.637 PSD_norm: 0.656
+
+ID: S07-C03-R07_109764-110276_HMMDNN
+REF: فيليرز
+HYP: ما
+REF phone: filirz
+HYP phone: ma
+PER: 1.0 PSD: 0.86017 PSD_norm: 0.91125
+
+ID: S09-C03-R09_050980-051410_HMMDNN
+REF: mind
+HYP: i
+REF phone: majnd
+HYP phone: aj
+PER: 0.6 PSD: 0.6 PSD_norm: 0.75
+
+ID: I02-C03-R02_052194-052812_HMMDNN
+REF: بلد
+HYP: طيب
+REF phone: bld
+HYP phone: tib
+PER: 1.0 PSD: 1.05367 PSD_norm: 0.76333
+
+ID: S09-C03-R09_107271-107477_HMMDNN
+REF: آخد
+HYP: أنا
+REF phone: aٓxd
+HYP phone: ana
+PER: 0.75 PSD: 0.8145 PSD_norm: 0.75267
+
+ID: S09-C03-R09_070613-071165_HMMDNN
+REF: منه
+HYP: بس
+REF phone: mnh
+HYP phone: bs
+PER: 1.0 PSD: 0.59133 PSD_norm: 0.59133
+
+ID: S14-C03-R14_056965-057623_HMMDNN
+REF: دي
+HYP: طب
+REF phone: di
+HYP phone: tb
+PER: 1.0 PSD: 0.742 PSD_norm: 1.129
+
+ID: S02-C03-R02_044267-044475_HMMDNN
+REF: إتش
+HYP: طبعا
+REF phone: itʃ
+HYP phone: tbʕa
+PER: 1.33333 PSD: 1.40867 PSD_norm: 1.113
+
+ID: I01-C03-R07_004243-004512_HMMDNN
+REF: وفي
+HYP: ماشي
+REF phone: ufi
+HYP phone: maʃi
+PER: 1.0 PSD: 1.043 PSD_norm: 1.645
+
+ID: I01-C03-R14_029596-029770_HMMDNN
+REF: من
+HYP: كنت
+REF phone: mn
+HYP phone: knt
+PER: 1.0 PSD: 1.016 PSD_norm: 1.016
+
+ID: S05-C03-R05_041014-041088_HMMDNN
+REF: ممكن
+HYP: ممكن
+REF phone: mmkn
+HYP phone: mmkn
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S05-C03-R05_052538-053107_HMMDNN
+REF: الفكرة
+HYP: بس
+REF phone: alfkrt
+HYP phone: bs
+PER: 1.0 PSD: 0.77417 PSD_norm: 0.729
+
+ID: I01-C03-R10_112802-112981_HMMDNN
+REF: مختلفة
+HYP: الدنيا
+REF phone: mxtlft
+HYP phone: aldnia
+PER: 1.0 PSD: 1.1075 PSD_norm: 0.715
+
+ID: S09-C03-R09_031191-031722_HMMDNN
+REF: تكون
+HYP: مش
+REF phone: tkun
+HYP phone: mʃ
+PER: 1.0 PSD: 0.9515 PSD_norm: 0.93533
+
+ID: S05-C03-R05_023584-023829_HMMDNN
+REF: مش
+HYP: جيمس
+REF phone: mʃ
+HYP phone: ʤims
+PER: 1.5 PSD: 1.355 PSD_norm: 0.855
+
+ID: S09-C03-R09_093318-093473_HMMDNN
+REF: عملت
+HYP: عمري
+REF phone: ʕmlt
+HYP phone: ʕmri
+PER: 0.5 PSD: 0.5645 PSD_norm: 0.3145
+
+ID: S14-C03-R14_030211-030332_HMMDNN
+REF: أحب
+HYP: أنا
+REF phone: aħb
+HYP phone: ana
+PER: 0.66667 PSD: 0.79567 PSD_norm: 0.9515
+
+ID: S07-C03-R07_073010-074118_HMMDNN
+REF: كان
+HYP: فكر
+REF phone: kan
+HYP phone: fkr
+PER: 1.0 PSD: 0.70967 PSD_norm: 0.5645
+
+ID: S10-C03-R10_078140-079574_HMMDNN
+REF: كنتش
+HYP: لأ
+REF phone: kntʃ
+HYP phone: la
+PER: 1.0 PSD: 1.11275 PSD_norm: 0.879
+
+ID: S05-C03-R05_110279-110616_HMMDNN
+REF: بتاعتي
+HYP: نحييف
+REF phone: btaʕti
+HYP phone: nħiif
+PER: 1.0 PSD: 0.844 PSD_norm: 0.5725
+
+ID: S02-C03-R02_006664-007566_HMMDNN
+REF: بصحى
+HYP: لأ
+REF phone: bsħa
+HYP phone: la
+PER: 0.75 PSD: 0.66125 PSD_norm: 0.88167
+
+ID: I01-C03-R02_092155-092374_HMMDNN
+REF: كلنا
+HYP: كلنا
+REF phone: klna
+HYP phone: klna
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S07-C03-R07_048775-049087_HMMDNN
+REF: إلى
+HYP: معظم
+REF phone: ila
+HYP phone: mʕðm
+PER: 1.33333 PSD: 1.40867 PSD_norm: 3.516
+
+ID: S12-C03-R12_082936-084322_HMMDNN
+REF: أصلا
+HYP: والبلد
+REF phone: asla
+HYP phone: ualbld
+PER: 1.0 PSD: 1.16125 PSD_norm: 1.3225
+
+ID: S07-C03-R07_113182-113641_HMMDNN
+REF: ما
+HYP: اللي
+REF phone: ma
+HYP phone: alli
+PER: 2.0 PSD: 1.8385 PSD_norm: 2.161
+
+ID: S05-C03-R05_028163-028285_HMMDNN
+REF: enectes
+HYP: طلب
+REF phone: ɛnɛktis
+HYP phone: tlb
+PER: 0.85714 PSD: 0.86629 PSD_norm: 0.766
+
+ID: I01-C03-R14_033835-034044_HMMDNN
+REF: حلو
+HYP: إيه
+REF phone: ħlu
+HYP phone: iih
+PER: 1.0 PSD: 1.37633 PSD_norm: 0.6935
+
+ID: I01-C03-R10_001358-001470_HMMDNN
+REF: فرانش
+HYP: ليش
+REF phone: franʃ
+HYP phone: liʃ
+PER: 0.8 PSD: 0.5806 PSD_norm: 0.59675
+
+ID: I01-C03-R07_069288-069520_HMMDNN
+REF: تبرز
+HYP: ولو
+REF phone: tbrz
+HYP phone: ulu
+PER: 1.0 PSD: 1.21775 PSD_norm: 0.84675
+
+ID: S12-C03-R12_127657-128905_HMMDNN
+REF: إن
+HYP: يعني
+REF phone: in
+HYP phone: iʕni
+PER: 1.0 PSD: 1.0 PSD_norm: 1.0
+
+ID: S10-C03-R10_113662-113838_HMMDNN
+REF: مبسوط
+HYP: لو
+REF phone: mbsut
+HYP phone: lu
+PER: 0.8 PSD: 0.729 PSD_norm: 0.91125
+
+ID: S14-C03-R14_013760-014480_HMMDNN
+REF: سبحانه
+HYP: وأنا
+REF phone: sbħanh
+HYP phone: uana
+PER: 0.66667 PSD: 0.8925 PSD_norm: 0.8
+
+ID: I02-C03-R14_045089-045894_HMMDNN
+REF: جات
+HYP: طيب
+REF phone: ʤat
+HYP phone: tib
+PER: 1.0 PSD: 0.817 PSD_norm: 0.9675
+
+ID: S07-C03-R07_117700-117901_HMMDNN
+REF: مشغول
+HYP: بس
+REF phone: mʃɣul
+HYP phone: bs
+PER: 1.0 PSD: 0.7806 PSD_norm: 0.72575
+
+ID: I01-C03-R02_018621-019483_HMMDNN
+REF: طب
+HYP: أوكي
+REF phone: tb
+HYP phone: auki
+PER: 2.0 PSD: 2.0325 PSD_norm: 0.855
+
+ID: I02-C03-R12_124027-124812_HMMDNN
+REF: نفسك
+HYP: طيب
+REF phone: nfsk
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.6935
+
+ID: S07-C03-R07_054959-055202_HMMDNN
+REF: believe
+HYP: i
+REF phone: bɪliv
+HYP phone: aj
+PER: 1.0 PSD: 0.8452 PSD_norm: 0.98933
+
+ID: S09-C03-R09_083874-084422_HMMDNN
+REF: عشان
+HYP: وشافوا
+REF phone: ʕʃan
+HYP phone: uʃafua
+PER: 1.0 PSD: 1.1935 PSD_norm: 0.72033
+
+ID: I01-C03-R14_084048-085055_HMMDNN
+REF: مثلا
+HYP: طيب
+REF phone: mθla
+HYP phone: tib
+PER: 1.0 PSD: 0.9435 PSD_norm: 0.80633
+
+ID: S12-C03-R12_054020-056141_HMMDNN
+REF: يعني
+HYP: فأنا
+REF phone: iʕni
+HYP phone: fana
+PER: 0.75 PSD: 0.758 PSD_norm: 0.387
+
+ID: I02-C03-R05_034170-034913_HMMDNN
+REF: activities
+HYP: طيب
+REF phone: æktɪvətiz
+HYP phone: tib
+PER: 0.77778 PSD: 0.724 PSD_norm: 0.6516
+
+ID: S12-C03-R12_112992-114534_HMMDNN
+REF: راجل
+HYP: و
+REF phone: raʤl
+HYP phone: u
+PER: 1.0 PSD: 0.97575 PSD_norm: 1.0
+
+ID: S05-C03-R05_073678-074290_HMMDNN
+REF: كده
+HYP: واحدة
+REF phone: kdh
+HYP phone: uaħdt
+PER: 1.33333 PSD: 1.11833 PSD_norm: 0.45167
+
+ID: S07-C03-R07_042437-042976_HMMDNN
+REF: الحرب
+HYP: وبعدين
+REF phone: alħrb
+HYP phone: ubʕdin
+PER: 1.2 PSD: 0.845 PSD_norm: 0.5805
+
+ID: S10-C03-R10_068180-068584_HMMDNN
+REF: حاجة
+HYP: في
+REF phone: ħaʤt
+HYP phone: fi
+PER: 1.0 PSD: 0.79025 PSD_norm: 0.88167
+
+ID: S14-C03-R14_040460-041432_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: S05-C03-R05_020854-021423_HMMDNN
+REF: إني
+HYP: أواه
+REF phone: ini
+HYP phone: auah
+PER: 1.33333 PSD: 1.301 PSD_norm: 0.903
+
+ID: S09-C03-R09_032264-033091_HMMDNN
+REF: اللي
+HYP: الناس
+REF phone: alli
+HYP phone: alnas
+PER: 0.75 PSD: 0.508 PSD_norm: 0.758
+
+ID: S07-C03-R07_122166-123269_HMMDNN
+REF: هو
+HYP: يعني
+REF phone: hu
+HYP phone: iʕni
+PER: 2.0 PSD: 1.4515 PSD_norm: 1.516
+
+ID: S05-C03-R05_030854-031027_HMMDNN
+REF: car
+HYP: cardboards
+REF phone: kɑɹ
+HYP phone: kɑɹdbɔɹdz
+PER: 2.0 PSD: 2.0 PSD_norm: 2.5
+
+ID: S12-C03-R12_119905-120859_HMMDNN
+REF: بإيه
+HYP: أنا
+REF phone: biih
+HYP phone: ana
+PER: 1.0 PSD: 1.008 PSD_norm: 0.9515
+
+ID: I01-C03-R02_003027-003348_HMMDNN
+REF: وكان
+HYP: أوكي
+REF phone: ukan
+HYP phone: auki
+PER: 0.75 PSD: 0.629 PSD_norm: 0.5
+
+ID: S10-C03-R10_012522-012803_HMMDNN
+REF: ف
+HYP: بخلدي
+REF phone: f
+HYP phone: bxldi
+PER: 5.0 PSD: 4.387 PSD_norm: 3.387
+
+ID: S09-C03-R09_097944-098349_HMMDNN
+REF: accepted
+HYP: i
+REF phone: æksɛptɪd
+HYP phone: aj
+PER: 1.0 PSD: 0.86288 PSD_norm: 0.9548
+
+ID: S14-C03-R14_086164-086369_HMMDNN
+REF: تخطف
+HYP: أحب
+REF phone: txtf
+HYP phone: aħb
+PER: 1.0 PSD: 0.9595 PSD_norm: 0.758
+
+ID: S09-C03-R09_071562-071861_HMMDNN
+REF: برضه
+HYP: كانت
+REF phone: brdh
+HYP phone: kant
+PER: 1.0 PSD: 0.8065 PSD_norm: 0.5565
+
+ID: I01-C03-R02_026202-026275_HMMDNN
+REF: ok
+HYP: أوكي
+REF phone: owkej
+HYP phone: auki
+PER: 0.8 PSD: 0.4838 PSD_norm: 0.66667
+
+ID: I01-C03-R02_029197-029519_HMMDNN
+REF: شغلانة
+HYP: حابة
+REF phone: ʃɣlant
+HYP phone: ħabt
+PER: 0.66667 PSD: 0.62367 PSD_norm: 0.7484
+
+ID: S12-C03-R12_045668-045773_HMMDNN
+REF: ألمانيا
+HYP: عايزة
+REF phone: almania
+HYP phone: ʕaizt
+PER: 0.85714 PSD: 0.98614 PSD_norm: 0.817
+
+ID: S07-C03-R07_084699-085238_HMMDNN
+REF: البوزيشن
+HYP: يعني
+REF phone: albuziʃn
+HYP phone: iʕni
+PER: 0.875 PSD: 0.72575 PSD_norm: 0.729
+
+ID: S07-C03-R07_078022-078347_HMMDNN
+REF: in
+HYP: i'm
+REF phone: ɪn
+HYP phone: ajm
+PER: 1.5 PSD: 0.9515 PSD_norm: 1.645
+
+ID: S10-C03-R10_016812-017073_HMMDNN
+REF: القاهرة
+HYP: في
+REF phone: alqahrt
+HYP phone: fi
+PER: 1.0 PSD: 0.92629 PSD_norm: 0.9032
+
+ID: S07-C03-R07_081375-081690_HMMDNN
+REF: to
+HYP: looked
+REF phone: tə
+HYP phone: lʊkt
+PER: 2.0 PSD: 1.5485 PSD_norm: 2.0
+
+ID: S10-C03-R10_039358-041259_HMMDNN
+REF: إن
+HYP: المهم
+REF phone: in
+HYP phone: almhm
+PER: 2.5 PSD: 2.016 PSD_norm: 3.516
+
+ID: S10-C03-R10_025606-026162_HMMDNN
+REF: بتبقى
+HYP: الكاميرا
+REF phone: btbqa
+HYP phone: alkamira
+PER: 1.4 PSD: 1.2194 PSD_norm: 0.77425
+
+ID: I02-C03-R05_039714-040104_HMMDNN
+REF: مغني
+HYP: طيب
+REF phone: mɣni
+HYP phone: tib
+PER: 1.0 PSD: 0.84675 PSD_norm: 0.957
+
+ID: S14-C03-R14_085055-085403_HMMDNN
+REF: بصراحة
+HYP: سأقول
+REF phone: bsraħt
+HYP phone: saqul
+PER: 0.83333 PSD: 0.74733 PSD_norm: 0.6968
+
+ID: S09-C03-R09_068417-068748_HMMDNN
+REF: برضه
+HYP: نفس
+REF phone: brdh
+HYP phone: nfs
+PER: 1.0 PSD: 0.637 PSD_norm: 0.637
+
+ID: S12-C03-R12_051724-052749_HMMDNN
+REF: الطلاب
+HYP: نجحت
+REF phone: altlab
+HYP phone: nʤħt
+PER: 1.0 PSD: 0.91383 PSD_norm: 0.87075
+
+ID: S07-C03-R07_031777-033400_HMMDNN
+REF: at
+HYP: إن
+REF phone: æt
+HYP phone: in
+PER: 1.0 PSD: 0.387 PSD_norm: 0.387
+
+ID: I02-C03-R14_020286-020974_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: S05-C03-R05_116649-116860_HMMDNN
+REF: فكرة
+HYP: موقف
+REF phone: fkrt
+HYP phone: muqf
+PER: 1.0 PSD: 0.887 PSD_norm: 0.637
+
+ID: S12-C03-R12_110490-112005_HMMDNN
+REF: يعني
+HYP: و
+REF phone: iʕni
+HYP phone: u
+PER: 1.0 PSD: 0.84675 PSD_norm: 1.0
+
+ID: I01-C03-R02_018158-018307_HMMDNN
+REF: سبورت
+HYP: أوكي
+REF phone: sburt
+HYP phone: auki
+PER: 0.8 PSD: 1.013 PSD_norm: 0.9275
+
+ID: S14-C03-R14_003594-004036_HMMDNN
+REF: عادي
+HYP: بس
+REF phone: ʕadi
+HYP phone: bs
+PER: 1.0 PSD: 0.79025 PSD_norm: 0.5805
+
+ID: S14-C03-R14_029921-030211_HMMDNN
+REF: أنا
+HYP: بس
+REF phone: ana
+HYP phone: bs
+PER: 1.0 PSD: 1.0 PSD_norm: 1.645
+
+ID: I01-C03-R14_025102-025432_HMMDNN
+REF: مدرسة
+HYP: الحب
+REF phone: mdrst
+HYP phone: alħb
+PER: 1.0 PSD: 0.8322 PSD_norm: 0.7612
+
+ID: I01-C03-R05_043647-044178_HMMDNN
+REF: إيه
+HYP: وهتبتدي
+REF phone: iih
+HYP phone: uhtbtdi
+PER: 2.33333 PSD: 2.086 PSD_norm: 4.0
+
+ID: S07-C03-R07_117006-117700_HMMDNN
+REF: or
+HYP: يندس
+REF phone: ɔɹ
+HYP phone: inds
+PER: 2.0 PSD: 1.5805 PSD_norm: 2.387
+
+ID: S05-C03-R05_053182-054315_HMMDNN
+REF: إيه
+HYP: ما
+REF phone: iih
+HYP phone: ma
+PER: 1.0 PSD: 0.957 PSD_norm: 1.032
+
+ID: S05-C03-R05_032501-032902_HMMDNN
+REF: بيبقى
+HYP: ده
+REF phone: bibqa
+HYP phone: dh
+PER: 1.0 PSD: 0.871 PSD_norm: 0.785
+
+ID: S07-C03-R07_043948-044593_HMMDNN
+REF: يعني
+HYP: في
+REF phone: iʕni
+HYP phone: fi
+PER: 0.75 PSD: 0.6935 PSD_norm: 0.887
+
+ID: S09-C03-R09_029631-030222_HMMDNN
+REF: ما
+HYP: وأنا
+REF phone: ma
+HYP phone: uana
+PER: 1.5 PSD: 1.3225 PSD_norm: 0.645
+
+ID: S07-C03-R07_029843-030518_HMMDNN
+REF: glass
+HYP: وبس
+REF phone: ɡlæs
+HYP phone: ubs
+PER: 0.75 PSD: 0.895 PSD_norm: 0.613
+
+ID: S09-C03-R09_085357-085560_HMMDNN
+REF: يكتب
+HYP: نكتب
+REF phone: iktb
+HYP phone: nktb
+PER: 0.25 PSD: 0.5 PSD_norm: 0.33333
+
+ID: S02-C03-R02_070755-071219_HMMDNN
+REF: واحد
+HYP: يعني
+REF phone: uaħd
+HYP phone: iʕni
+PER: 1.0 PSD: 0.6935 PSD_norm: 0.1935
+
+ID: S07-C03-R07_065569-065892_HMMDNN
+REF: enjoy
+HYP: i
+REF phone: ɛnʤoj
+HYP phone: aj
+PER: 0.8 PSD: 0.6258 PSD_norm: 0.66667
+
+ID: S05-C03-R05_120194-121300_HMMDNN
+REF: تلاتة
+HYP: ده
+REF phone: tlatt
+HYP phone: dh
+PER: 1.0 PSD: 0.729 PSD_norm: 0.66125
+
+ID: S09-C03-R09_097286-097820_HMMDNN
+REF: the
+HYP: بس
+REF phone: ðə
+HYP phone: bs
+PER: 1.0 PSD: 1.1935 PSD_norm: 1.387
+
+ID: S02-C03-R02_054014-054914_HMMDNN
+REF: هاف
+HYP: ألمانيا
+REF phone: haf
+HYP phone: almania
+PER: 2.0 PSD: 2.02133 PSD_norm: 1.274
+
+ID: I01-C03-R02_081928-082060_HMMDNN
+REF: ok
+HYP: أوكي
+REF phone: owkej
+HYP phone: auki
+PER: 0.8 PSD: 0.4838 PSD_norm: 0.66667
+
+ID: S14-C03-R14_074808-074981_HMMDNN
+REF: ده
+HYP: هقولك
+REF phone: dh
+HYP phone: hqulk
+PER: 2.5 PSD: 2.113 PSD_norm: 1.613
+
+ID: S07-C03-R07_119231-119335_HMMDNN
+REF: i
+HYP: definitely
+REF phone: aj
+HYP phone: dɛfənətli
+PER: 4.5 PSD: 4.0485 PSD_norm: 4.968
+
+ID: S02-C03-R02_028766-029017_HMMDNN
+REF: مش
+HYP: مش
+REF phone: mʃ
+HYP phone: mʃ
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S09-C03-R09_025919-026266_HMMDNN
+REF: فاكرهم
+HYP: دول
+REF phone: fakrhm
+HYP phone: dul
+PER: 1.0 PSD: 0.8655 PSD_norm: 0.8064
+
+ID: I02-C03-R12_097009-097840_HMMDNN
+REF: ناس
+HYP: مثلا
+REF phone: nas
+HYP phone: mθla
+PER: 1.33333 PSD: 1.172 PSD_norm: 0.9515
+
+ID: S07-C03-R07_003550-003945_HMMDNN
+REF: هنا
+HYP: وبين
+REF phone: hna
+HYP phone: ubin
+PER: 1.33333 PSD: 1.258 PSD_norm: 0.387
+
+ID: I02-C03-R14_012610-013169_HMMDNN
+REF: تحكي
+HYP: طيب
+REF phone: tħki
+HYP phone: tib
+PER: 0.75 PSD: 0.75 PSD_norm: 0.63433
+
+ID: S07-C03-R07_022847-023198_HMMDNN
+REF: you
+HYP: فسرت
+REF phone: ju
+HYP phone: fsrt
+PER: 2.0 PSD: 2.5485 PSD_norm: 4.097
+
+ID: I02-C03-R12_079437-080805_HMMDNN
+REF: مصر
+HYP: طيب
+REF phone: msr
+HYP phone: tib
+PER: 1.0 PSD: 1.01067 PSD_norm: 0.67733
+
+ID: I01-C03-R14_000641-000954_HMMDNN
+REF: national
+HYP: وكنت
+REF phone: næʃənəl
+HYP phone: uknt
+PER: 0.85714 PSD: 0.74186 PSD_norm: 0.60475
+
+ID: S09-C03-R09_053701-054326_HMMDNN
+REF: عن
+HYP: كليتين
+REF phone: ʕn
+HYP phone: klitin
+PER: 2.5 PSD: 2.387 PSD_norm: 1.387
+
+ID: S12-C03-R12_070329-071467_HMMDNN
+REF: مرة
+HYP: آ
+REF phone: mrt
+HYP phone: aٓ
+PER: 1.0 PSD: 1.45167 PSD_norm: 1.33333
+
+ID: S02-C03-R02_003552-004462_HMMDNN
+REF: تعمل
+HYP: إن
+REF phone: tʕml
+HYP phone: in
+PER: 1.0 PSD: 0.96775 PSD_norm: 0.84675
+
+ID: I01-C03-R02_025378-025870_HMMDNN
+REF: أكتر
+HYP: أوكي
+REF phone: aktr
+HYP phone: auki
+PER: 0.75 PSD: 0.96775 PSD_norm: 0.66667
+
+ID: S12-C03-R12_147109-148603_HMMDNN
+REF: رايح
+HYP: أنت
+REF phone: raiħ
+HYP phone: ant
+PER: 0.75 PSD: 0.91125 PSD_norm: 0.387
+
+ID: S10-C03-R10_043743-043860_HMMDNN
+REF: لأ
+HYP: نعم
+REF phone: la
+HYP phone: nʕm
+PER: 1.5 PSD: 1.4355 PSD_norm: 2.516
+
+ID: S02-C03-R02_088641-089065_HMMDNN
+REF: اللي
+HYP: عارفين
+REF phone: alli
+HYP phone: ʕarfin
+PER: 1.0 PSD: 0.887 PSD_norm: 1.4515
+
+ID: S05-C03-R05_019094-020250_HMMDNN
+REF: إند
+HYP: في
+REF phone: ind
+HYP phone: fi
+PER: 1.0 PSD: 1.0 PSD_norm: 0.9515
+
+ID: S14-C03-R14_054625-056313_HMMDNN
+REF: basically
+HYP: سأقول
+REF phone: bejsɪkli
+HYP phone: saqul
+PER: 0.875 PSD: 0.67338 PSD_norm: 0.4258
+
+ID: S07-C03-R07_080969-081375_HMMDNN
+REF: to
+HYP: that
+REF phone: tə
+HYP phone: ðæt
+PER: 1.5 PSD: 0.855 PSD_norm: 1.0
+
+ID: S10-C03-R10_072453-072901_HMMDNN
+REF: أشتغل
+HYP: عندي
+REF phone: aʃtɣl
+HYP phone: ʕndi
+PER: 1.0 PSD: 1.0258 PSD_norm: 0.78225
+
+ID: S07-C03-R07_012838-013651_HMMDNN
+REF: الدراسة
+HYP: كيث
+REF phone: aldrast
+HYP phone: kiθ
+PER: 1.0 PSD: 0.80186 PSD_norm: 0.8194
+
+ID: S10-C03-R10_038455-039358_HMMDNN
+REF: المطور
+HYP: فا
+REF phone: almtur
+HYP phone: fa
+PER: 1.0 PSD: 0.92467 PSD_norm: 0.91125
+
+ID: S05-C03-R05_058191-058855_HMMDNN
+REF: ابارتايد
+HYP: أنا
+REF phone: abartaid
+HYP phone: ana
+PER: 0.75 PSD: 0.64112 PSD_norm: 0.78225
+
+ID: I01-C03-R02_087156-087400_HMMDNN
+REF: لما
+HYP: امتد
+REF phone: lma
+HYP phone: amtd
+PER: 1.0 PSD: 1.516 PSD_norm: 1.274
+
+ID: S07-C03-R07_050445-051186_HMMDNN
+REF: شخصيا
+HYP: فيجاس
+REF phone: ʃxsia
+HYP phone: fiʤas
+PER: 1.0 PSD: 0.9548 PSD_norm: 0.73133
+
+ID: S09-C03-R09_108708-109527_HMMDNN
+REF: من
+HYP: فلو
+REF phone: mn
+HYP phone: flu
+PER: 1.5 PSD: 1.0805 PSD_norm: 0.5805
+
+ID: S10-C03-R10_008913-009356_HMMDNN
+REF: سي
+HYP: اللي
+REF phone: si
+HYP phone: alli
+PER: 1.5 PSD: 1.3225 PSD_norm: 1.645
+
+ID: S05-C03-R05_095243-096162_HMMDNN
+REF: على
+HYP: هو
+REF phone: ʕla
+HYP phone: hu
+PER: 1.0 PSD: 0.80633 PSD_norm: 0.758
+
+ID: S02-C03-R02_065006-065376_HMMDNN
+REF: ما
+HYP: بس
+REF phone: ma
+HYP phone: bs
+PER: 1.0 PSD: 1.129 PSD_norm: 1.258
+
+ID: I01-C03-R07_046223-046443_HMMDNN
+REF: اللي
+HYP: اللي
+REF phone: alli
+HYP phone: alli
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: I02-C03-R14_017770-018069_HMMDNN
+REF: تسمع
+HYP: دابا
+REF phone: tsmʕ
+HYP phone: daba
+PER: 1.0 PSD: 0.96775 PSD_norm: 0.59675
+
+ID: S07-C03-R07_093933-094218_HMMDNN
+REF: آي
+HYP: أنا
+REF phone: aٓi
+HYP phone: ana
+PER: 0.66667 PSD: 0.83867 PSD_norm: 2.0
+
+ID: I01-C03-R14_069986-070818_HMMDNN
+REF: بعض
+HYP: في
+REF phone: bʕd
+HYP phone: fi
+PER: 1.0 PSD: 1.0 PSD_norm: 0.79567
+
+ID: S02-C03-R02_097597-097669_HMMDNN
+REF: لأ
+HYP: لأ
+REF phone: la
+HYP phone: la
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S02-C03-R02_065376-065660_HMMDNN
+REF: اكتشفت
+HYP: بعد
+REF phone: aktʃft
+HYP phone: bʕd
+PER: 1.0 PSD: 0.7795 PSD_norm: 0.7354
+
+ID: S09-C03-R09_084422-085357_HMMDNN
+REF: تيجي
+HYP: respect
+REF phone: tiʤi
+HYP phone: ɹɪspɛkt
+PER: 1.75 PSD: 1.29825 PSD_norm: 2.113
+
+ID: I01-C03-R10_109327-109506_HMMDNN
+REF: حنسافر
+HYP: مثلا
+REF phone: ħnsafr
+HYP phone: mθla
+PER: 0.83333 PSD: 0.74183 PSD_norm: 0.658
+
+ID: S05-C03-R05_108087-108281_HMMDNN
+REF: لازمني
+HYP: عندنا
+REF phone: lazmni
+HYP phone: ʕndna
+PER: 0.83333 PSD: 0.63967 PSD_norm: 0.5805
+
+ID: I01-C03-R09_003677-003956_HMMDNN
+REF: ميجر
+HYP: أنت
+REF phone: miʤr
+HYP phone: ant
+PER: 1.0 PSD: 0.766 PSD_norm: 0.63433
+
+ID: S07-C03-R07_065257-065569_HMMDNN
+REF: enjoy
+HYP: i
+REF phone: ɛnʤoj
+HYP phone: aj
+PER: 0.8 PSD: 0.6258 PSD_norm: 0.66667
+
+ID: S05-C03-R05_040187-040404_HMMDNN
+REF: english
+HYP: العرب
+REF phone: ɪŋɡlɪʃ
+HYP phone: alʕrb
+PER: 1.0 PSD: 0.84417 PSD_norm: 0.984
+
+ID: S10-C03-R10_058517-058909_HMMDNN
+REF: سافرت
+HYP: أوكي
+REF phone: safrt
+HYP phone: auki
+PER: 0.8 PSD: 1.0646 PSD_norm: 0.9275
+
+ID: I02-C03-R10_089480-089940_HMMDNN
+REF: سؤال
+HYP: سيبقى
+REF phone: sual
+HYP phone: sibqa
+PER: 1.0 PSD: 0.84675 PSD_norm: 1.0805
+
+ID: S09-C03-R09_071165-071479_HMMDNN
+REF: ف
+HYP: رحت
+REF phone: f
+HYP phone: rħt
+PER: 3.0 PSD: 2.645 PSD_norm: 2.645
+
+ID: S09-C03-R09_045500-046921_HMMDNN
+REF: تقابل
+HYP: teaching
+REF phone: tqabl
+HYP phone: tiʧɪŋ
+PER: 0.8 PSD: 0.813 PSD_norm: 0.70175
+
+ID: S12-C03-R12_146123-146674_HMMDNN
+REF: تجيش
+HYP: يعني
+REF phone: tʤiʃ
+HYP phone: iʕni
+PER: 1.0 PSD: 1.016 PSD_norm: 1.02133
+
+ID: S07-C03-R07_099115-099465_HMMDNN
+REF: in
+HYP: we
+REF phone: ɪn
+HYP phone: wi
+PER: 1.0 PSD: 1.129 PSD_norm: 1.613
+
+ID: I01-C03-R02_039068-039791_HMMDNN
+REF: قبليكي
+HYP: يعني
+REF phone: qbliki
+HYP phone: iʕni
+PER: 0.83333 PSD: 0.828 PSD_norm: 0.8225
+
+ID: I01-C03-R12_043862-045289_HMMDNN
+REF: إيه
+HYP: طيب
+REF phone: iih
+HYP phone: tib
+PER: 0.66667 PSD: 0.92467 PSD_norm: 1.516
+
+ID: S02-C03-R02_050358-051389_HMMDNN
+REF: ناس
+HYP: معرفش
+REF phone: nas
+HYP phone: mʕrfʃ
+PER: 1.66667 PSD: 1.441 PSD_norm: 1.9195
+
+ID: I01-C03-R02_078534-078670_HMMDNN
+REF: ماشي
+HYP: أم
+REF phone: maʃi
+HYP phone: am
+PER: 0.75 PSD: 0.83875 PSD_norm: 0.5
+
+ID: I02-C03-R02_005504-005756_HMMDNN
+REF: تسحب
+HYP: يعني
+REF phone: tsħb
+HYP phone: iʕni
+PER: 1.0 PSD: 1.1935 PSD_norm: 0.758
+
+ID: S05-C03-R05_113309-114172_HMMDNN
+REF: هو
+HYP: يعني
+REF phone: hu
+HYP phone: iʕni
+PER: 2.0 PSD: 1.4515 PSD_norm: 1.516
+
+ID: S10-C03-R10_102836-104217_HMMDNN
+REF: سعادة
+HYP: لأ
+REF phone: sʕadt
+HYP phone: la
+PER: 0.8 PSD: 0.729 PSD_norm: 0.879
+
+ID: S02-C03-R02_003348-003552_HMMDNN
+REF: smart
+HYP: smart
+REF phone: smɑɹt
+HYP phone: smɑɹt
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S05-C03-R05_063817-063998_HMMDNN
+REF: الجامعة
+HYP: students
+REF phone: alʤamʕt
+HYP phone: studənts
+PER: 1.0 PSD: 0.93543 PSD_norm: 0.8708
+
+ID: S09-C03-R09_080911-081531_HMMDNN
+REF: محتاجة
+HYP: إيه
+REF phone: mħtaʤt
+HYP phone: iih
+PER: 1.0 PSD: 0.89783 PSD_norm: 0.8774
+
+ID: S07-C03-R07_018849-019216_HMMDNN
+REF: سنة
+HYP: مانك
+REF phone: snt
+HYP phone: mank
+PER: 1.0 PSD: 1.0 PSD_norm: 0.66667
+
+ID: S07-C03-R07_108970-109764_HMMDNN
+REF: personal
+HYP: بس
+REF phone: pɹ̩sənəl
+HYP phone: bs
+PER: 0.875 PSD: 0.76612 PSD_norm: 0.68817
+
+ID: S09-C03-R09_109983-111526_HMMDNN
+REF: أنت
+HYP: إنما
+REF phone: ant
+HYP phone: inma
+PER: 1.0 PSD: 0.84933 PSD_norm: 0.516
+
+ID: S07-C03-R07_097551-097745_HMMDNN
+REF: كاونتر
+HYP: حسن
+REF phone: kauntr
+HYP phone: ħsn
+PER: 0.83333 PSD: 0.70433 PSD_norm: 0.5565
+
+ID: I02-C03-R02_040925-041434_HMMDNN
+REF: إيه
+HYP: أوكي
+REF phone: iih
+HYP phone: auki
+PER: 1.33333 PSD: 0.871 PSD_norm: 0.71
+
+ID: S10-C03-R10_104217-104656_HMMDNN
+REF: إن
+HYP: بعد
+REF phone: in
+HYP phone: bʕd
+PER: 1.5 PSD: 1.3065 PSD_norm: 2.258
+
+ID: I01-C03-R09_082067-082353_HMMDNN
+REF: أو
+HYP: في
+REF phone: au
+HYP phone: fi
+PER: 1.0 PSD: 0.9355 PSD_norm: 1
+
+ID: S12-C03-R12_146674-147109_HMMDNN
+REF: روح
+HYP: لأ
+REF phone: ruħ
+HYP phone: la
+PER: 1.0 PSD: 0.76333 PSD_norm: 0.6935
+
+ID: S14-C03-R14_085403-085819_HMMDNN
+REF: عمري
+HYP: يعني
+REF phone: ʕmri
+HYP phone: iʕni
+PER: 0.75 PSD: 0.53225 PSD_norm: 0.37633
+
+ID: S12-C03-R12_052749-053464_HMMDNN
+REF: كانش
+HYP: هو
+REF phone: kanʃ
+HYP phone: hu
+PER: 1.0 PSD: 0.90325 PSD_norm: 0.90333
+
+ID: S02-C03-R02_036275-036974_HMMDNN
+REF: الليفل
+HYP: كانت
+REF phone: allifl
+HYP phone: kant
+PER: 1.0 PSD: 0.86017 PSD_norm: 0.879
+
+ID: S10-C03-R10_076129-077007_HMMDNN
+REF: بس
+HYP: لا
+REF phone: bs
+HYP phone: la
+PER: 1.0 PSD: 1.3225 PSD_norm: 0.8225
+
+ID: I01-C03-R09_064488-064956_HMMDNN
+REF: اللي
+HYP: الحاجة
+REF phone: alli
+HYP phone: alħaʤt
+PER: 1.0 PSD: 0.887 PSD_norm: 1.3225
+
+ID: S09-C03-R09_102439-102828_HMMDNN
+REF: أقدر
+HYP: وأنا
+REF phone: aqdr
+HYP phone: uana
+PER: 1.0 PSD: 1.03225 PSD_norm: 0.70967
+
+ID: S14-C03-R14_042741-043510_HMMDNN
+REF: فيه
+HYP: كنتفلى
+REF phone: fih
+HYP phone: kntfla
+PER: 1.66667 PSD: 1.83867 PSD_norm: 1.9515
+
+ID: S10-C03-R10_094917-095169_HMMDNN
+REF: ساعات
+HYP: آه
+REF phone: saʕat
+HYP phone: aٓh
+PER: 0.8 PSD: 0.9032 PSD_norm: 1.172
+
+ID: I02-C03-R07_123818-124129_HMMDNN
+REF: تعيش
+HYP: طيب
+REF phone: tʕiʃ
+HYP phone: tib
+PER: 0.5 PSD: 0.621 PSD_norm: 0.59133
+
+ID: S05-C03-R05_059597-060193_HMMDNN
+REF: البر
+HYP: الشغلة
+REF phone: albr
+HYP phone: alʃɣlt
+PER: 1.0 PSD: 0.8065 PSD_norm: 1.07533
+
+ID: S05-C03-R05_074290-075494_HMMDNN
+REF: أنت
+HYP: فالبساطه
+REF phone: ant
+HYP phone: falbsath
+PER: 2.0 PSD: 1.83867 PSD_norm: 2.258
+
+ID: S07-C03-R07_075350-075733_HMMDNN
+REF: ده
+HYP: think
+REF phone: dh
+HYP phone: θɪŋk
+PER: 2.0 PSD: 1.5485 PSD_norm: 1.0485
+
+ID: I01-C03-R02_074420-074510_HMMDNN
+REF: ok
+HYP: أوكي
+REF phone: owkej
+HYP phone: auki
+PER: 0.8 PSD: 0.4838 PSD_norm: 0.66667
+
+ID: I01-C03-R05_116860-117002_HMMDNN
+REF: أي
+HYP: أي
+REF phone: ai
+HYP phone: ai
+PER: 0.0 PSD: 0.0 PSD_norm: 0
+
+ID: S09-C03-R09_088836-089654_HMMDNN
+REF: ال
+HYP: بس
+REF phone: al
+HYP phone: bs
+PER: 1.0 PSD: 1.0 PSD_norm: 1.645
+
+ID: I01-C03-R10_052678-053258_HMMDNN
+REF: عملت
+HYP: طيب
+REF phone: ʕmlt
+HYP phone: tib
+PER: 1.0 PSD: 0.97575 PSD_norm: 0.758
+
+ID: S07-C03-R07_038224-038348_HMMDNN
+REF: أي
+HYP: طيب
+REF phone: ai
+HYP phone: tib
+PER: 1.0 PSD: 1.4355 PSD_norm: 2
+
+ID: S05-C03-R05_060193-060462_HMMDNN
+REF: هناك
+HYP: كنت
+REF phone: hnak
+HYP phone: knt
+PER: 0.75 PSD: 0.605 PSD_norm: 0.47333
+
+ID: S05-C03-R05_068137-069243_HMMDNN
+REF: نجحت
+HYP: يعني
+REF phone: nʤħt
+HYP phone: iʕni
+PER: 1.0 PSD: 1.129 PSD_norm: 0.629
+
+ID: S14-C03-R14_009051-010031_HMMDNN
+REF: بروجيكت
+HYP: ا
+REF phone: bruʤikt
+HYP phone: a
+PER: 1.0 PSD: 0.93086 PSD_norm: 1.0
+
+ID: S12-C03-R12_065918-067473_HMMDNN
+REF: سفرية
+HYP: سافرت
+REF phone: sfrit
+HYP phone: safrt
+PER: 0.4 PSD: 0.4 PSD_norm: 0.0
+
+ID: S09-C03-R09_059035-059514_HMMDNN
+REF: إظهار
+HYP: الواحد
+REF phone: iðhar
+HYP phone: aluaħd
+PER: 1.0 PSD: 0.8064 PSD_norm: 0.344
+
+ID: S12-C03-R12_124812-125310_HMMDNN
+REF: إن
+HYP: سهلة
+REF phone: in
+HYP phone: shlt
+PER: 2.0 PSD: 2.0645 PSD_norm: 3.387
+
+ID: I01-C03-R05_049479-049999_HMMDNN
+REF: اللي
+HYP: طيب
+REF phone: alli
+HYP phone: tib
+PER: 1.0 PSD: 0.91125 PSD_norm: 0.903
+
+ID: S07-C03-R07_067670-068789_HMMDNN
+REF: تايبينغ
+HYP: بس
+REF phone: taibinɣ
+HYP phone: bs
+PER: 0.85714 PSD: 0.80643 PSD_norm: 0.66125
+
+ID: S09-C03-R09_002810-003416_HMMDNN
+REF: الجامعة
+HYP: كنت
+REF phone: alʤamʕt
+HYP phone: knt
+PER: 0.85714 PSD: 0.80186 PSD_norm: 0.7226
+
+ID: S09-C03-R09_012299-013519_HMMDNN
+REF: الويك
+HYP: هو
+REF phone: aluik
+HYP phone: hu
+PER: 0.8 PSD: 0.7806 PSD_norm: 0.855
+
+ID: I01-C03-R02_091276-091519_HMMDNN
+REF: كده
+HYP: هكذا
+REF phone: kdh
+HYP phone: hkða
+PER: 1.0 PSD: 1.02167 PSD_norm: 0.68833
+
+ID: I01-C03-R07_101242-101818_HMMDNN
+REF: زي
+HYP: طيب
+REF phone: zi
+HYP phone: tib
+PER: 1.0 PSD: 0.6935 PSD_norm: 1.387
+
+ID: S10-C03-R10_105179-105366_HMMDNN
+REF: لا
+HYP: لا
+REF phone: la
+HYP phone: la
+PER: 0.0 PSD: 0.0 PSD_norm: 0.0
+
+ID: S05-C03-R05_057000-057177_HMMDNN
+REF: فرحان
+HYP: لكن
+REF phone: frħan
+HYP phone: lkn
+PER: 0.8 PSD: 0.6452 PSD_norm: 0.5565
+
+ID: S12-C03-R12_047767-048643_HMMDNN
+REF: كده
+HYP: بس
+REF phone: kdh
+HYP phone: bs
+PER: 1.0 PSD: 0.72033 PSD_norm: 0.72033
+
+ID: S09-C03-R09_075170-075526_HMMDNN
+REF: شخص
+HYP: عن
+REF phone: ʃxs
+HYP phone: ʕn
+PER: 1.0 PSD: 0.828 PSD_norm: 0.828
+
+ID: S05-C03-R05_041652-042411_HMMDNN
+REF: مع
+HYP: برضه
+REF phone: mʕ
+HYP phone: brdh
+PER: 2.0 PSD: 1.387 PSD_norm: 1.387
+
+ID: S14-C03-R14_060382-060543_HMMDNN
+REF: أي
+HYP: أنا
+REF phone: ai
+HYP phone: ana
+PER: 1.0 PSD: 0.758 PSD_norm: 1
+
+ID: I01-C03-R07_000978-001118_HMMDNN
+REF: باجراوند
+HYP: يعني
+REF phone: baʤraund
+HYP phone: iʕni
+PER: 0.875 PSD: 0.79025 PSD_norm: 0.7548
+
+ID: I01-C03-R10_112981-113162_HMMDNN
+REF: إني
+HYP: فأنا
+REF phone: ini
+HYP phone: fana
+PER: 1.0 PSD: 0.67733 PSD_norm: 1.0
+
+ID: S07-C03-R07_091984-092271_HMMDNN
+REF: that
+HYP: i
+REF phone: ðæt
+HYP phone: aj
+PER: 1.0 PSD: 0.828 PSD_norm: 1.0485
+
+ID: S09-C03-R09_075526-076309_HMMDNN
+REF: am
+HYP: وأنا
+REF phone: æm
+HYP phone: uana
+PER: 2.0 PSD: 1.387 PSD_norm: 0.645
+
+ID: S02-C03-R02_071974-073138_HMMDNN
+REF: ال
+HYP: يعني
+REF phone: al
+HYP phone: iʕni
+PER: 2.0 PSD: 1.516 PSD_norm: 1.516
+
+ID: S07-C03-R07_047837-048437_HMMDNN
+REF: أما
+HYP: إن
+REF phone: ama
+HYP phone: in
+PER: 1.0 PSD: 0.72033 PSD_norm: 0.645
+
+ID: I01-C03-R02_092374-092633_HMMDNN
+REF: رياكشن
+HYP: أوكي
+REF phone: riakʃn
+HYP phone: auki
+PER: 0.83333 PSD: 0.90317 PSD_norm: 0.75
+
+ID: S07-C03-R07_080493-080969_HMMDNN
+REF: go
+HYP: love
+REF phone: ɡow
+HYP phone: lʌv
+PER: 1.0 PSD: 0.90333 PSD_norm: 1.1615
+
+ID: S07-C03-R07_055202-055843_HMMDNN
+REF: position
+HYP: أنا
+REF phone: pəzɪʃən
+HYP phone: ana
+PER: 1.0 PSD: 0.74657 PSD_norm: 0.75
+
+
+
+Mean PER_tot:     0.96256
+ Mean PSD_tot:      0.90012
+ Mean PSD_norm_tot: 0.8512
